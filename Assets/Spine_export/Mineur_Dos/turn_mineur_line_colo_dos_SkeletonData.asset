@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: turn_mineur_line_colo_dos_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 786fac7b2446fea428f90fba0a8ed535, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 99af4402475e19a46a3fef9cc1c482bc, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 0
+    applyAdditiveMaterial: 1
+    additiveMaterials: []
+    multiplyMaterials: []
+    screenMaterials: []
+  skeletonDataModifiers: []
+  fromAnimation:
+  - attaqueDos
+  - attaqueDos
+  - attaqueDos
+  - attaqueDos
+  - attaqueDos
+  - attaqueDos
+  - attaque_spe_chargeDos
+  - attaque_spe_chargeDos
+  - attaque_spe_chargeDos
+  - attaque_spe_chargeDos
+  - attaque_spe_chargeDos
+  - attaque_spe_chargeDos
+  - attaque_spe_dashDos
+  - attaque_spe_dashDos
+  - attaque_spe_dashDos
+  - attaque_spe_dashDos
+  - attaque_spe_dashDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_place_dashDos
+  - attaque_spe_mise_en_place_dashDos
+  - attaque_spe_mise_en_place_dashDos
+  - attaque_spe_mise_en_place_dashDos
+  - attaque_spe_mise_en_place_dashDos
+  - attaque_spe_mise_en_place_dashDos
+  - iddleDos
+  - iddleDos
+  - iddleDos
+  - iddleDos
+  - iddleDos
+  - iddleDos
+  - walkDos
+  - walkDos
+  - walkDos
+  - walkDos
+  - walkDos
+  - walkDos
+  - walkDos
+  toAnimation:
+  - attaque_spe_chargeDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_place_dashDos
+  - iddleDos
+  - walkDos
+  - attaqueDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_place_dashDos
+  - iddleDos
+  - walkDos
+  - attaqueDos
+  - attaque_spe_chargeDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_place_dashDos
+  - iddleDos
+  - walkDos
+  - attaqueDos
+  - attaque_spe_chargeDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_place_dashDos
+  - iddleDos
+  - walkDos
+  - attaqueDos
+  - attaque_spe_chargeDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_placeDos
+  - iddleDos
+  - walkDos
+  - attaqueDos
+  - attaque_spe_chargeDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_place_dashDos
+  - walkDos
+  - attaqueDos
+  - attaque_spe_chargeDos
+  - attaque_spe_dashDos
+  - attaque_spe_mise_en_placeDos
+  - attaque_spe_mise_en_place_dashDos
+  - iddleDos
+  - walkDos
+  duration:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  defaultMix: 0.2
+  controller: {fileID: 9100000, guid: 966a9579e242d7441bd0a97c9af61101, type: 2}

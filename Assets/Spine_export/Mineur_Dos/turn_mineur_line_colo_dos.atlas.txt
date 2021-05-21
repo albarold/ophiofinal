@@ -1,0 +1,153 @@
+
+turn_mineur_line_colo_dos.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mineur_dos/coraux1
+  rotate: false
+  xy: 448, 601
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux10
+  rotate: true
+  xy: 744, 1294
+  size: 138, 171
+  orig: 138, 171
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux2
+  rotate: false
+  xy: 683, 1607
+  size: 140, 205
+  orig: 140, 205
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux3
+  rotate: false
+  xy: 250, 1160
+  size: 231, 336
+  orig: 231, 336
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux4
+  rotate: false
+  xy: 532, 75
+  size: 159, 231
+  orig: 159, 231
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux5
+  rotate: false
+  xy: 797, 1844
+  size: 134, 195
+  orig: 134, 195
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux6
+  rotate: false
+  xy: 2, 2
+  size: 203, 296
+  orig: 203, 296
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux7
+  rotate: false
+  xy: 448, 308
+  size: 200, 291
+  orig: 200, 291
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux8
+  rotate: false
+  xy: 483, 1266
+  size: 145, 230
+  orig: 145, 230
+  offset: 0, 0
+  index: -1
+mineur_dos/coraux9
+  rotate: false
+  xy: 744, 1434
+  size: 138, 171
+  orig: 138, 171
+  offset: 0, 0
+  index: -1
+mineur_dos/corne
+  rotate: false
+  xy: 207, 6
+  size: 323, 292
+  orig: 323, 292
+  offset: 0, 0
+  index: -1
+mineur_dos/corps1
+  rotate: false
+  xy: 2, 1455
+  size: 246, 584
+  orig: 246, 584
+  offset: 0, 0
+  index: -1
+mineur_dos/corps2
+  rotate: false
+  xy: 2, 870
+  size: 246, 583
+  orig: 246, 583
+  offset: 0, 0
+  index: -1
+mineur_dos/corpsprin
+  rotate: true
+  xy: 250, 1498
+  size: 541, 431
+  orig: 541, 431
+  offset: 0, 0
+  index: -1
+mineur_dos/ombre
+  rotate: false
+  xy: 2, 300
+  size: 444, 568
+  orig: 444, 568
+  offset: 0, 0
+  index: -1
+mineur_dos/patte1
+  rotate: true
+  xy: 250, 894
+  size: 264, 216
+  orig: 514, 641
+  offset: 0, 0
+  index: -1
+mineur_dos/patte2
+  rotate: true
+  xy: 468, 906
+  size: 252, 219
+  orig: 514, 641
+  offset: 262, 0
+  index: -1
+mineur_dos/patte3
+  rotate: true
+  xy: 683, 1814
+  size: 225, 112
+  orig: 225, 112
+  offset: 0, 0
+  index: -1
+mineur_dos/patte4
+  rotate: true
+  xy: 630, 1270
+  size: 226, 112
+  orig: 226, 112
+  offset: 0, 0
+  index: -1
+mineur_dos/patte5
+  rotate: false
+  xy: 483, 1174
+  size: 172, 90
+  orig: 172, 90
+  offset: 0, 0
+  index: -1
+mineur_dos/patte6
+  rotate: false
+  xy: 657, 1178
+  size: 172, 90
+  orig: 172, 90
+  offset: 0, 0
+  index: -1

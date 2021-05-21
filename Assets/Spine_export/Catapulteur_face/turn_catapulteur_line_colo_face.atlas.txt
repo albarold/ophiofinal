@@ -1,0 +1,111 @@
+
+turn_catapulteur_line_colo_face.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+catapulteur_face/antenne1
+  rotate: false
+  xy: 449, 2
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+catapulteur_face/antenne2
+  rotate: false
+  xy: 545, 2
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+catapulteur_face/bras1
+  rotate: false
+  xy: 148, 255
+  size: 286, 360
+  orig: 286, 360
+  offset: 0, 0
+  index: -1
+catapulteur_face/bras2
+  rotate: false
+  xy: 183, 657
+  size: 269, 360
+  orig: 283, 360
+  offset: 0, 0
+  index: -1
+catapulteur_face/corps
+  rotate: false
+  xy: 258, 15
+  size: 189, 238
+  orig: 189, 238
+  offset: 0, 0
+  index: -1
+catapulteur_face/ombre_corps
+  rotate: true
+  xy: 2, 11
+  size: 202, 254
+  orig: 202, 254
+  offset: 0, 0
+  index: -1
+catapulteur_face/patte1
+  rotate: true
+  xy: 436, 457
+  size: 198, 102
+  orig: 198, 102
+  offset: 0, 0
+  index: -1
+catapulteur_face/patte2
+  rotate: true
+  xy: 454, 832
+  size: 185, 116
+  orig: 185, 116
+  offset: 0, 0
+  index: -1
+catapulteur_face/patte3
+  rotate: true
+  xy: 449, 68
+  size: 190, 107
+  orig: 190, 107
+  offset: 0, 0
+  index: -1
+catapulteur_face/patte4
+  rotate: true
+  xy: 436, 260
+  size: 195, 104
+  orig: 195, 104
+  offset: 0, 0
+  index: -1
+catapulteur_face/queue1
+  rotate: false
+  xy: 2, 617
+  size: 179, 400
+  orig: 179, 400
+  offset: 0, 0
+  index: -1
+catapulteur_face/queue2
+  rotate: false
+  xy: 2, 215
+  size: 144, 400
+  orig: 155, 400
+  offset: 0, 0
+  index: -1
+catapulteur_face/tête
+  rotate: true
+  xy: 454, 659
+  size: 171, 118
+  orig: 171, 118
+  offset: 0, 0
+  index: -1
+catapulteur_face/yeux1
+  rotate: true
+  xy: 195, 219
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+catapulteur_face/yeux2
+  rotate: true
+  xy: 148, 217
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1

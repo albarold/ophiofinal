@@ -1,0 +1,2480 @@
+fileFormatVersion: 2
+guid: 7eb5a5f7bbb76ff49810f811efcba6e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7127237257666788609
+    second: Tilest_Ombre_0
+  - first:
+      213: -5829851261983589242
+    second: Tilest_Ombre_1
+  - first:
+      213: -3191032698764838873
+    second: Tilest_Ombre_2
+  - first:
+      213: 7811602889599759029
+    second: Tilest_Ombre_3
+  - first:
+      213: -6237295035229671740
+    second: Tilest_Ombre_4
+  - first:
+      213: 7607648486885144479
+    second: Tilest_Ombre_5
+  - first:
+      213: -1329628996474847193
+    second: Tilest_Ombre_6
+  - first:
+      213: 4863294138214645403
+    second: Tilest_Ombre_7
+  - first:
+      213: -8076493223847354697
+    second: Tilest_Ombre_8
+  - first:
+      213: 7414619398034398959
+    second: Tilest_Ombre_9
+  - first:
+      213: -2107678068859060363
+    second: Tilest_Ombre_10
+  - first:
+      213: 7121243763054204824
+    second: Tilest_Ombre_11
+  - first:
+      213: 8633970202237863700
+    second: Tilest_Ombre_12
+  - first:
+      213: -6182708555745270769
+    second: Tilest_Ombre_13
+  - first:
+      213: -3915064477045009292
+    second: Tilest_Ombre_14
+  - first:
+      213: -4426098569583200804
+    second: Tilest_Ombre_15
+  - first:
+      213: 5549401324006585815
+    second: Tilest_Ombre_16
+  - first:
+      213: 4657284255232652603
+    second: Tilest_Ombre_17
+  - first:
+      213: -2552942285761998087
+    second: Tilest_Ombre_18
+  - first:
+      213: 691465039923741009
+    second: Tilest_Ombre_19
+  - first:
+      213: -3563120715751421833
+    second: Tilest_Ombre_20
+  - first:
+      213: -3537364061054069262
+    second: Tilest_Ombre_21
+  - first:
+      213: -9132381296213424265
+    second: Tilest_Ombre_22
+  - first:
+      213: 2302744960273004741
+    second: Tilest_Ombre_23
+  - first:
+      213: -6309874269793383603
+    second: Tilest_Ombre_24
+  - first:
+      213: 4401258677396469593
+    second: Tilest_Ombre_25
+  - first:
+      213: -3995817184603084272
+    second: Tilest_Ombre_26
+  - first:
+      213: -4043172484140031264
+    second: Tilest_Ombre_27
+  - first:
+      213: 7113538787813460223
+    second: Tilest_Ombre_28
+  - first:
+      213: 7263724603118564858
+    second: Tilest_Ombre_29
+  - first:
+      213: -5144970064344403861
+    second: Tilest_Ombre_30
+  - first:
+      213: 897760663456858037
+    second: Tilest_Ombre_31
+  - first:
+      213: -1992753855262654699
+    second: Tilest_Ombre_32
+  - first:
+      213: 3146831222148363938
+    second: Tilest_Ombre_33
+  - first:
+      213: 5162694662368681488
+    second: Tilest_Ombre_34
+  - first:
+      213: -5693384836395973229
+    second: Tilest_Ombre_35
+  - first:
+      213: -3642087850842548775
+    second: Tilest_Ombre_36
+  - first:
+      213: -89205248445239479
+    second: Tilest_Ombre_37
+  - first:
+      213: -827286150708096815
+    second: Tilest_Ombre_38
+  - first:
+      213: -6457257425721071536
+    second: Tilest_Ombre_39
+  - first:
+      213: 3940644887637051164
+    second: Tilest_Ombre_40
+  - first:
+      213: -8545936946031583232
+    second: Tilest_Ombre_41
+  - first:
+      213: 826115832095132851
+    second: Tilest_Ombre_42
+  - first:
+      213: -7050872693074961039
+    second: Tilest_Ombre_43
+  - first:
+      213: 4674525472965592678
+    second: Tilest_Ombre_44
+  - first:
+      213: 1871166527650948406
+    second: Tilest_Ombre_45
+  - first:
+      213: 3229076395655562197
+    second: Tilest_Ombre_46
+  - first:
+      213: 6999958858476595644
+    second: Tilest_Ombre_47
+  - first:
+      213: 7330519968418945051
+    second: Tilest_Ombre_48
+  - first:
+      213: 2886600204994412277
+    second: Tilest_Ombre_49
+  - first:
+      213: 2846815218369408141
+    second: Tilest_Ombre_50
+  - first:
+      213: -2073647906965791332
+    second: Tilest_Ombre_51
+  - first:
+      213: -1525842536544057446
+    second: Tilest_Ombre_52
+  - first:
+      213: 1413008394489566450
+    second: Tilest_Ombre_53
+  - first:
+      213: -6968699062449023146
+    second: Tilest_Ombre_54
+  - first:
+      213: 3763970510194762519
+    second: Tilest_Ombre_55
+  - first:
+      213: 2325516880966064546
+    second: Tilest_Ombre_56
+  - first:
+      213: -8118824454467486707
+    second: Tilest_Ombre_57
+  - first:
+      213: 3367358358270480021
+    second: Tilest_Ombre_58
+  - first:
+      213: 7849124027317539846
+    second: Tilest_Ombre_59
+  - first:
+      213: 5257440560577797645
+    second: Tilest_Ombre_60
+  - first:
+      213: 6362588295151287063
+    second: Tilest_Ombre_61
+  - first:
+      213: -8153403013943913476
+    second: Tilest_Ombre_62
+  - first:
+      213: -3666791233374436782
+    second: Tilest_Ombre_63
+  - first:
+      213: -4895177104404829467
+    second: Tilest_Ombre_64
+  - first:
+      213: -9036547311541500780
+    second: Tilest_Ombre_65
+  - first:
+      213: -1215025981967977993
+    second: Tilest_Ombre_66
+  - first:
+      213: -7061371044535692354
+    second: Tilest_Ombre_67
+  - first:
+      213: 4976709200316741057
+    second: Tilest_Ombre_68
+  - first:
+      213: 5569581228239261131
+    second: Tilest_Ombre_69
+  - first:
+      213: 6693297109833294384
+    second: Tilest_Ombre_70
+  - first:
+      213: 3625489977544518786
+    second: Tilest_Ombre_71
+  - first:
+      213: -7321830037153988758
+    second: Tilest_Ombre_72
+  - first:
+      213: -5036562749384267752
+    second: Tilest_Ombre_73
+  - first:
+      213: 7593229620318129915
+    second: Tilest_Ombre_74
+  - first:
+      213: 8080471193364497398
+    second: Tilest_Ombre_75
+  - first:
+      213: 5458063521042543903
+    second: Tilest_Ombre_76
+  - first:
+      213: -4808576996864974877
+    second: Tilest_Ombre_77
+  - first:
+      213: 225058456287802992
+    second: Tilest_Ombre_78
+  - first:
+      213: 7756942470408805766
+    second: Tilest_Ombre_79
+  - first:
+      213: -3998319807426505602
+    second: Tilest_Ombre_80
+  - first:
+      213: -6635484626003017677
+    second: Tilest_Ombre_81
+  - first:
+      213: -3591294786819013801
+    second: Tilest_Ombre_82
+  - first:
+      213: 8823753692200165018
+    second: Tilest_Ombre_83
+  - first:
+      213: 8430917377235574752
+    second: Tilest_Ombre_84
+  - first:
+      213: 7326101576681757310
+    second: Tilest_Ombre_85
+  - first:
+      213: -8414888845783056884
+    second: Tilest_Ombre_86
+  - first:
+      213: 3354983119288534523
+    second: Tilest_Ombre_87
+  - first:
+      213: 3230243459732628235
+    second: Tilest_Ombre_88
+  - first:
+      213: -6354449071634521030
+    second: Tilest_Ombre_89
+  - first:
+      213: -7264777276865158487
+    second: Tilest_Ombre_90
+  - first:
+      213: 6756669385390139070
+    second: Tilest_Ombre_91
+  - first:
+      213: -6473848867642457066
+    second: Tilest_Ombre_92
+  - first:
+      213: -5236344178110166072
+    second: Tilest_Ombre_93
+  - first:
+      213: 7954598422043802353
+    second: Tilest_Ombre_94
+  - first:
+      213: 6586793471789692175
+    second: Tilest_Ombre_95
+  - first:
+      213: -2457059546083254541
+    second: Tilest_Ombre_96
+  - first:
+      213: -2423347769666149950
+    second: Tilest_Ombre_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilest_Ombre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d782d268809e260800000000000000
+      internalID: 7127237257666788609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cfa144a25381fa0800000000000000
+      internalID: -5829851261983589242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283773daac27b3d0800000000000000
+      internalID: -3191032698764838873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23201c073686c60800000000000000
+      internalID: 7811602889599759029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee3d9463da079a0800000000000000
+      internalID: -6237295035229671740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_5
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b3d4edfbc39960800000000000000
+      internalID: 7607648486885144479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_6
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ce0ee8753c8de0800000000000000
+      internalID: -1329628996474847193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_7
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef58a7044ed7340800000000000000
+      internalID: 4863294138214645403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9ab934388aef80800000000000000
+      internalID: -8076493223847354697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_9
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9f84ee0506e660800000000000000
+      internalID: 7414619398034398959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_10
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f36cc96f500c2e0800000000000000
+      internalID: -2107678068859060363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897dfc7f87db3d260800000000000000
+      internalID: 7121243763054204824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41702b9772602d770800000000000000
+      internalID: 8633970202237863700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04e801735b923aa0800000000000000
+      internalID: -6182708555745270769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745bfcd995eaa9c0800000000000000
+      internalID: -3915064477045009292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f02b2dc65392c0800000000000000
+      internalID: -4426098569583200804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5be792a1f630d40800000000000000
+      internalID: 5549401324006585815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b357923da5ff1a040800000000000000
+      internalID: 4657284255232652603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_18
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f215156480229cd0800000000000000
+      internalID: -2552942285761998087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151814f4ac3989900800000000000000
+      internalID: 691465039923741009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7780dc556904d8ec0800000000000000
+      internalID: -3563120715751421833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_21
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f593a3d022c8eec0800000000000000
+      internalID: -3537364061054069262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_22
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77707c5b893434180800000000000000
+      internalID: -9132381296213424265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b465475ef4ff10800000000000000
+      internalID: 2302744960273004741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b869368c2de68a0800000000000000
+      internalID: -6309874269793383603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95772deb279641d30800000000000000
+      internalID: 4401258677396469593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae45cf0710c88c0800000000000000
+      internalID: -3995817184603084272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2233d1c04c3e7c0800000000000000
+      internalID: -4043172484140031264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8859f96dd58b260800000000000000
+      internalID: 7113538787813460223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5b52baa0fedc460800000000000000
+      internalID: 7263724603118564858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_30
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60bbb65cf46998b0800000000000000
+      internalID: -5144970064344403861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf3aae119c757c00800000000000000
+      internalID: 897760663456858037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_32
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f774c3de05854e0800000000000000
+      internalID: -1992753855262654699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_33
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6f24ce25acbab20800000000000000
+      internalID: 3146831222148363938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5a4a317395a740800000000000000
+      internalID: 5162694662368681488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c509f7a80df0b0800000000000000
+      internalID: -5693384836395973229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d593c17564b47dc0800000000000000
+      internalID: -3642087850842548775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f22569c4413cef0800000000000000
+      internalID: -89205248445239479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0917b01a3e484f0800000000000000
+      internalID: -827286150708096815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_39
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05864a455963366a0800000000000000
+      internalID: -6457257425721071536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_40
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c09995abffa630800000000000000
+      internalID: 3940644887637051164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_41
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a6ea30abb66980800000000000000
+      internalID: -8545936946031583232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_42
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4b5be8f3f67b00800000000000000
+      internalID: 826115832095132851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_43
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd3cc84a4462e90800000000000000
+      internalID: -7050872693074961039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66601a5a6204fd040800000000000000
+      internalID: 4674525472965592678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_45
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6356c340b08b7f910800000000000000
+      internalID: 1871166527650948406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_46
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d306ab9fdbffcc20800000000000000
+      internalID: 3229076395655562197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a8d19e79d42160800000000000000
+      internalID: 6999958858476595644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d480921d3bb560800000000000000
+      internalID: 7330519968418945051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fef243b7934f0820800000000000000
+      internalID: 2886600204994412277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca518ab5be18720800000000000000
+      internalID: 2846815218369408141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_51
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d521c173ce833e0800000000000000
+      internalID: -2073647906965791332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a974c1a1c4e13dae0800000000000000
+      internalID: -1525842536544057446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4123af5a30c9310800000000000000
+      internalID: 1413008394489566450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_54
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d02cdf153a4f90800000000000000
+      internalID: -6968699062449023146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_55
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71364359c3f4c3430800000000000000
+      internalID: 3763970510194762519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_56
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a918293845e54020800000000000000
+      internalID: 2325516880966064546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_57
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf5bd8c24245f80800000000000000
+      internalID: -8118824454467486707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_58
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e8728f5924bbe20800000000000000
+      internalID: 3367358358270480021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604de3667b0bdec60800000000000000
+      internalID: 7849124027317539846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e58f0b55e26f840800000000000000
+      internalID: 5257440560577797645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bfc8018547c4850800000000000000
+      internalID: 6362588295151287063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3164b482b49de80800000000000000
+      internalID: -8153403013943913476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_63
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252433dfcc0fc1dc0800000000000000
+      internalID: -3666791233374436782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea235bfb56d01cb0800000000000000
+      internalID: -4895177104404829467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_65
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494ce8b091cb79280800000000000000
+      internalID: -9036547311541500780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_66
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1bdef8e4c532fe0800000000000000
+      internalID: -1215025981967977993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_67
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3983f9278f00e90800000000000000
+      internalID: -7061371044535692354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_68
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53c4366a2d01540800000000000000
+      internalID: 4976709200316741057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_69
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd82e04e902b4d40800000000000000
+      internalID: 5569581228239261131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_70
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03223cf324e53ec50800000000000000
+      internalID: 6693297109833294384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_71
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca7480de3505230800000000000000
+      internalID: 3625489977544518786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb6a9bf52a36a90800000000000000
+      internalID: -7321830037153988758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186cf14dd88a1ab0800000000000000
+      internalID: -5036562749384267752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4909eb12906960800000000000000
+      internalID: 7593229620318129915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3844afcb9932070800000000000000
+      internalID: 8080471193364497398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f153245badfeebb40800000000000000
+      internalID: 5458063521042543903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef9fb2c2b0844db0800000000000000
+      internalID: -4808576996864974877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767bbc39719f1300800000000000000
+      internalID: 225058456287802992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_79
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9bdb241236ab60800000000000000
+      internalID: 7756942470408805766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_80
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745fe3b15d1388c0800000000000000
+      internalID: -3998319807426505602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_81
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330468293e50ae3a0800000000000000
+      internalID: -6635484626003017677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_82
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c0fb3b68292ec0800000000000000
+      internalID: -3591294786819013801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_83
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed1299b35447a70800000000000000
+      internalID: 8823753692200165018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_84
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5bc88fa2a00570800000000000000
+      internalID: 8430917377235574752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9b82919a8ba560800000000000000
+      internalID: 7326101576681757310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e34b2cd2f483b80800000000000000
+      internalID: -8414888845783056884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf500ac1f5b4f8e20800000000000000
+      internalID: 3354983119288534523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036463ef4124dc20800000000000000
+      internalID: 3230243459732628235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_89
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e9e59c3670d7a0800000000000000
+      internalID: -6354449071634521030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26f10ae835e2b90800000000000000
+      internalID: -7264777276865158487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_91
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6afe4f10384cd50800000000000000
+      internalID: 6756669385390139070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_92
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144b9a31c44826a0800000000000000
+      internalID: -6473848867642457066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_93
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0f0e96b4c457b0800000000000000
+      internalID: -5236344178110166072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_94
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fabdcc9e19646e60800000000000000
+      internalID: 7954598422043802353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_95
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f2e6a3cdf86b50800000000000000
+      internalID: 6586793471789692175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_96
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe99b36c55c6edd0800000000000000
+      internalID: -2457059546083254541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Ombre_97
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c160ddfa0a8e5ed0800000000000000
+      internalID: -2423347769666149950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

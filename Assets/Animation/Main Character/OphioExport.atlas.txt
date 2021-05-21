@@ -1,0 +1,83 @@
+
+OphioExport.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ophio/BottomMiddleSpikeBack1
+  rotate: true
+  xy: 200, 285
+  size: 90, 74
+  orig: 93, 74
+  offset: 3, 0
+  index: -1
+Ophio/BottomMiddleSpikeBack2
+  rotate: true
+  xy: 200, 193
+  size: 90, 73
+  orig: 93, 74
+  offset: 0, 1
+  index: -1
+Ophio/BottomSpikeBack1
+  rotate: true
+  xy: 192, 28
+  size: 50, 71
+  orig: 52, 74
+  offset: 1, 1
+  index: -1
+Ophio/BottomSpikeBack2
+  rotate: false
+  xy: 136, 108
+  size: 50, 72
+  orig: 52, 74
+  offset: 1, 1
+  index: -1
+Ophio/MiddleSpikeBack1
+  rotate: true
+  xy: 200, 80
+  size: 111, 67
+  orig: 113, 76
+  offset: 1, 2
+  index: -1
+Ophio/MiddleSpikeBack2
+  rotate: true
+  xy: 2, 72
+  size: 108, 70
+  orig: 113, 76
+  offset: 3, 2
+  index: -1
+Ophio/TopMiddleSpikeBack1
+  rotate: true
+  xy: 74, 108
+  size: 72, 60
+  orig: 74, 62
+  offset: 2, 2
+  index: -1
+Ophio/TopMiddleSpikeBack2
+  rotate: true
+  xy: 74, 32
+  size: 74, 59
+  orig: 74, 62
+  offset: 0, 2
+  index: -1
+Ophio/TopSpikeBack1
+  rotate: false
+  xy: 2, 2
+  size: 56, 68
+  orig: 59, 68
+  offset: 1, 0
+  index: -1
+Ophio/TopSpikeBack2
+  rotate: false
+  xy: 135, 39
+  size: 55, 67
+  orig: 59, 68
+  offset: 2, 1
+  index: -1
+Ophio/body
+  rotate: false
+  xy: 2, 182
+  size: 196, 193
+  orig: 196, 193
+  offset: 0, 0
+  index: -1

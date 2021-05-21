@@ -1,0 +1,160 @@
+
+turn_mineur_line_colo_profil_corrigé.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mineur_profil/colocoraux7
+  rotate: false
+  xy: 327, 1107
+  size: 323, 119
+  orig: 325, 121
+  offset: 1, 1
+  index: -1
+mineur_profil/coraux1
+  rotate: false
+  xy: 413, 1338
+  size: 408, 312
+  orig: 408, 312
+  offset: 0, 0
+  index: -1
+mineur_profil/coraux2
+  rotate: false
+  xy: 1482, 1726
+  size: 540, 310
+  orig: 540, 310
+  offset: 0, 0
+  index: -1
+mineur_profil/coraux3
+  rotate: false
+  xy: 2, 1258
+  size: 401, 155
+  orig: 401, 155
+  offset: 0, 0
+  index: -1
+mineur_profil/coraux4
+  rotate: false
+  xy: 1449, 1503
+  size: 581, 221
+  orig: 581, 221
+  offset: 0, 0
+  index: -1
+mineur_profil/coraux5
+  rotate: false
+  xy: 2, 1415
+  size: 409, 235
+  orig: 409, 235
+  offset: 0, 0
+  index: -1
+mineur_profil/coraux6
+  rotate: true
+  xy: 1200, 1090
+  size: 316, 183
+  orig: 316, 183
+  offset: 0, 0
+  index: -1
+mineur_profil/coraux8
+  rotate: false
+  xy: 823, 1111
+  size: 375, 295
+  orig: 375, 295
+  offset: 0, 0
+  index: -1
+mineur_profil/corne
+  rotate: true
+  xy: 1449, 1142
+  size: 359, 449
+  orig: 359, 449
+  offset: 0, 0
+  index: -1
+mineur_profil/corps
+  rotate: false
+  xy: 2, 1652
+  size: 853, 384
+  orig: 853, 384
+  offset: 0, 0
+  index: -1
+mineur_profil/corpsprin
+  rotate: false
+  xy: 857, 1803
+  size: 623, 233
+  orig: 623, 233
+  offset: 0, 0
+  index: -1
+mineur_profil/dent1
+  rotate: false
+  xy: 1385, 1328
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+mineur_profil/dent2
+  rotate: false
+  xy: 1385, 1363
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+mineur_profil/ombre
+  rotate: false
+  xy: 857, 1408
+  size: 590, 393
+  orig: 590, 393
+  offset: 0, 0
+  index: -1
+mineur_profil/patte1
+  rotate: true
+  xy: 405, 1228
+  size: 108, 344
+  orig: 108, 344
+  offset: 0, 0
+  index: -1
+mineur_profil/patte2
+  rotate: true
+  xy: 2, 1091
+  size: 165, 323
+  orig: 165, 323
+  offset: 0, 0
+  index: -1
+mineur_profil/patte3
+  rotate: false
+  xy: 652, 904
+  size: 166, 322
+  orig: 166, 322
+  offset: 0, 0
+  index: -1
+mineur_profil/patte4
+  rotate: false
+  xy: 1900, 1235
+  size: 136, 266
+  orig: 136, 266
+  offset: 0, 0
+  index: -1
+mineur_profil/patte5
+  rotate: false
+  xy: 1900, 967
+  size: 136, 266
+  orig: 136, 266
+  offset: 0, 0
+  index: -1
+mineur_profil/patte6
+  rotate: true
+  xy: 327, 969
+  size: 136, 266
+  orig: 136, 266
+  offset: 0, 0
+  index: -1
+mineur_profil/tete
+  rotate: false
+  xy: 2, 1004
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+mineur_profil/yeux
+  rotate: true
+  xy: 1385, 1283
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1

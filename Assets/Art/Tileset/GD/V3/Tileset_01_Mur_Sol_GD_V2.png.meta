@@ -1,0 +1,5432 @@
+fileFormatVersion: 2
+guid: bad862f95637c1d4f915b00643590357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4764806830466543853
+    second: Tileset_01_Mur_Sol_GD_V2_0
+  - first:
+      213: 3294510815548237153
+    second: Tileset_01_Mur_Sol_GD_V2_1
+  - first:
+      213: 7248921101698188925
+    second: Tileset_01_Mur_Sol_GD_V2_2
+  - first:
+      213: 7565239872339512688
+    second: Tileset_01_Mur_Sol_GD_V2_3
+  - first:
+      213: -9182339596440383035
+    second: Tileset_01_Mur_Sol_GD_V2_4
+  - first:
+      213: -3236845489681466909
+    second: Tileset_01_Mur_Sol_GD_V2_5
+  - first:
+      213: 3619341671855451462
+    second: Tileset_01_Mur_Sol_GD_V2_6
+  - first:
+      213: 7538894240547929233
+    second: Tileset_01_Mur_Sol_GD_V2_7
+  - first:
+      213: 8516755061722992305
+    second: Tileset_01_Mur_Sol_GD_V2_8
+  - first:
+      213: 7650986619262925059
+    second: Tileset_01_Mur_Sol_GD_V2_9
+  - first:
+      213: 7381538303290153049
+    second: Tileset_01_Mur_Sol_GD_V2_10
+  - first:
+      213: 8310934417471752917
+    second: Tileset_01_Mur_Sol_GD_V2_11
+  - first:
+      213: 3876491834960780872
+    second: Tileset_01_Mur_Sol_GD_V2_12
+  - first:
+      213: 1620056770254176596
+    second: Tileset_01_Mur_Sol_GD_V2_13
+  - first:
+      213: -1870926087862249824
+    second: Tileset_01_Mur_Sol_GD_V2_14
+  - first:
+      213: 6942774136452345502
+    second: Tileset_01_Mur_Sol_GD_V2_15
+  - first:
+      213: 407263502628805560
+    second: Tileset_01_Mur_Sol_GD_V2_16
+  - first:
+      213: -9032690413999123552
+    second: Tileset_01_Mur_Sol_GD_V2_17
+  - first:
+      213: -3650821058333866765
+    second: Tileset_01_Mur_Sol_GD_V2_18
+  - first:
+      213: -4464915965862443332
+    second: Tileset_01_Mur_Sol_GD_V2_19
+  - first:
+      213: 1949823214581147372
+    second: Tileset_01_Mur_Sol_GD_V2_20
+  - first:
+      213: 7937684809232621883
+    second: Tileset_01_Mur_Sol_GD_V2_21
+  - first:
+      213: -6470355015640849279
+    second: Tileset_01_Mur_Sol_GD_V2_22
+  - first:
+      213: 8011428653765209922
+    second: Tileset_01_Mur_Sol_GD_V2_23
+  - first:
+      213: -8670374412874449474
+    second: Tileset_01_Mur_Sol_GD_V2_24
+  - first:
+      213: -6591667598575086664
+    second: Tileset_01_Mur_Sol_GD_V2_25
+  - first:
+      213: 1382245449539017211
+    second: Tileset_01_Mur_Sol_GD_V2_26
+  - first:
+      213: -5975561967801803967
+    second: Tileset_01_Mur_Sol_GD_V2_27
+  - first:
+      213: 5705658593573180080
+    second: Tileset_01_Mur_Sol_GD_V2_28
+  - first:
+      213: -4258424824301595261
+    second: Tileset_01_Mur_Sol_GD_V2_29
+  - first:
+      213: 1978712137673672464
+    second: Tileset_01_Mur_Sol_GD_V2_30
+  - first:
+      213: -9158859446245407253
+    second: Tileset_01_Mur_Sol_GD_V2_31
+  - first:
+      213: 3464933365208150417
+    second: Tileset_01_Mur_Sol_GD_V2_32
+  - first:
+      213: -5734664673507366600
+    second: Tileset_01_Mur_Sol_GD_V2_33
+  - first:
+      213: 3249254789324444321
+    second: Tileset_01_Mur_Sol_GD_V2_34
+  - first:
+      213: -3211938579880204132
+    second: Tileset_01_Mur_Sol_GD_V2_35
+  - first:
+      213: -7646050949414880070
+    second: Tileset_01_Mur_Sol_GD_V2_36
+  - first:
+      213: 1639708680695509064
+    second: Tileset_01_Mur_Sol_GD_V2_37
+  - first:
+      213: 8907794681042652103
+    second: Tileset_01_Mur_Sol_GD_V2_38
+  - first:
+      213: -5501955953258332122
+    second: Tileset_01_Mur_Sol_GD_V2_39
+  - first:
+      213: 1273159551076255627
+    second: Tileset_01_Mur_Sol_GD_V2_40
+  - first:
+      213: 8488939596581433067
+    second: Tileset_01_Mur_Sol_GD_V2_41
+  - first:
+      213: 4976462023057558162
+    second: Tileset_01_Mur_Sol_GD_V2_42
+  - first:
+      213: -8737058948314320464
+    second: Tileset_01_Mur_Sol_GD_V2_43
+  - first:
+      213: 6774133710533632294
+    second: Tileset_01_Mur_Sol_GD_V2_44
+  - first:
+      213: -7406399774905591410
+    second: Tileset_01_Mur_Sol_GD_V2_45
+  - first:
+      213: 873470539299344293
+    second: Tileset_01_Mur_Sol_GD_V2_46
+  - first:
+      213: 6862032970628651575
+    second: Tileset_01_Mur_Sol_GD_V2_47
+  - first:
+      213: -3666934289982965669
+    second: Tileset_01_Mur_Sol_GD_V2_48
+  - first:
+      213: -8797720014554366223
+    second: Tileset_01_Mur_Sol_GD_V2_49
+  - first:
+      213: 8776560575638668350
+    second: Tileset_01_Mur_Sol_GD_V2_50
+  - first:
+      213: -2510248607926966381
+    second: Tileset_01_Mur_Sol_GD_V2_51
+  - first:
+      213: 8285013164859907619
+    second: Tileset_01_Mur_Sol_GD_V2_52
+  - first:
+      213: 1281061939952658386
+    second: Tileset_01_Mur_Sol_GD_V2_53
+  - first:
+      213: 4533839875616963362
+    second: Tileset_01_Mur_Sol_GD_V2_54
+  - first:
+      213: 4948794370579673143
+    second: Tileset_01_Mur_Sol_GD_V2_55
+  - first:
+      213: 1544036759815520479
+    second: Tileset_01_Mur_Sol_GD_V2_56
+  - first:
+      213: 3980250173588421650
+    second: Tileset_01_Mur_Sol_GD_V2_57
+  - first:
+      213: -3614310218687517984
+    second: Tileset_01_Mur_Sol_GD_V2_58
+  - first:
+      213: -8532993030877656590
+    second: Tileset_01_Mur_Sol_GD_V2_59
+  - first:
+      213: 4316481255309386303
+    second: Tileset_01_Mur_Sol_GD_V2_60
+  - first:
+      213: 3516434203743482543
+    second: Tileset_01_Mur_Sol_GD_V2_61
+  - first:
+      213: 2136216820452480614
+    second: Tileset_01_Mur_Sol_GD_V2_62
+  - first:
+      213: -8293601850618338066
+    second: Tileset_01_Mur_Sol_GD_V2_63
+  - first:
+      213: -3728309013690884547
+    second: Tileset_01_Mur_Sol_GD_V2_64
+  - first:
+      213: 2710997088502736286
+    second: Tileset_01_Mur_Sol_GD_V2_65
+  - first:
+      213: -7389096151923064795
+    second: Tileset_01_Mur_Sol_GD_V2_66
+  - first:
+      213: -4075703073257110016
+    second: Tileset_01_Mur_Sol_GD_V2_67
+  - first:
+      213: 2456047578800573091
+    second: Tileset_01_Mur_Sol_GD_V2_68
+  - first:
+      213: 1998114181956909891
+    second: Tileset_01_Mur_Sol_GD_V2_69
+  - first:
+      213: -3743931963620368587
+    second: Tileset_01_Mur_Sol_GD_V2_70
+  - first:
+      213: -5646823730687866636
+    second: Tileset_01_Mur_Sol_GD_V2_71
+  - first:
+      213: -698671986093828138
+    second: Tileset_01_Mur_Sol_GD_V2_72
+  - first:
+      213: 6846377654521911889
+    second: Tileset_01_Mur_Sol_GD_V2_73
+  - first:
+      213: -3417355044060241245
+    second: Tileset_01_Mur_Sol_GD_V2_74
+  - first:
+      213: 4985948165982363199
+    second: Tileset_01_Mur_Sol_GD_V2_75
+  - first:
+      213: 7160297320765413593
+    second: Tileset_01_Mur_Sol_GD_V2_76
+  - first:
+      213: 8068492100380228425
+    second: Tileset_01_Mur_Sol_GD_V2_77
+  - first:
+      213: 7436829040788700573
+    second: Tileset_01_Mur_Sol_GD_V2_78
+  - first:
+      213: 8960027597581824410
+    second: Tileset_01_Mur_Sol_GD_V2_79
+  - first:
+      213: -2187462855515106736
+    second: Tileset_01_Mur_Sol_GD_V2_80
+  - first:
+      213: -6641252630102556196
+    second: Tileset_01_Mur_Sol_GD_V2_81
+  - first:
+      213: -6045119014753917667
+    second: Tileset_01_Mur_Sol_GD_V2_82
+  - first:
+      213: 7026748185555753834
+    second: Tileset_01_Mur_Sol_GD_V2_83
+  - first:
+      213: 4136443700362591758
+    second: Tileset_01_Mur_Sol_GD_V2_84
+  - first:
+      213: 3642181948859115248
+    second: Tileset_01_Mur_Sol_GD_V2_85
+  - first:
+      213: 7750723410790197032
+    second: Tileset_01_Mur_Sol_GD_V2_86
+  - first:
+      213: -3857742952425073188
+    second: Tileset_01_Mur_Sol_GD_V2_87
+  - first:
+      213: 1243913138638028527
+    second: Tileset_01_Mur_Sol_GD_V2_88
+  - first:
+      213: 2299830497419345175
+    second: Tileset_01_Mur_Sol_GD_V2_89
+  - first:
+      213: -6859565101661458671
+    second: Tileset_01_Mur_Sol_GD_V2_90
+  - first:
+      213: 3566109287239211379
+    second: Tileset_01_Mur_Sol_GD_V2_91
+  - first:
+      213: 3988245082608495664
+    second: Tileset_01_Mur_Sol_GD_V2_92
+  - first:
+      213: 6537780726581707019
+    second: Tileset_01_Mur_Sol_GD_V2_93
+  - first:
+      213: 7193199822918932355
+    second: Tileset_01_Mur_Sol_GD_V2_94
+  - first:
+      213: -6293511886331671799
+    second: Tileset_01_Mur_Sol_GD_V2_95
+  - first:
+      213: -869943745162224342
+    second: Tileset_01_Mur_Sol_GD_V2_96
+  - first:
+      213: -9188607972536254070
+    second: Tileset_01_Mur_Sol_GD_V2_97
+  - first:
+      213: 6977233205809484624
+    second: Tileset_01_Mur_Sol_GD_V2_98
+  - first:
+      213: 1762329499061158980
+    second: Tileset_01_Mur_Sol_GD_V2_99
+  - first:
+      213: 66515940307352818
+    second: Tileset_01_Mur_Sol_GD_V2_100
+  - first:
+      213: -652643426159170799
+    second: Tileset_01_Mur_Sol_GD_V2_101
+  - first:
+      213: 439201049264776597
+    second: Tileset_01_Mur_Sol_GD_V2_102
+  - first:
+      213: 4828598946803969494
+    second: Tileset_01_Mur_Sol_GD_V2_103
+  - first:
+      213: -2449166354032753148
+    second: Tileset_01_Mur_Sol_GD_V2_104
+  - first:
+      213: -5513535753696106547
+    second: Tileset_01_Mur_Sol_GD_V2_105
+  - first:
+      213: -8464177507961734482
+    second: Tileset_01_Mur_Sol_GD_V2_106
+  - first:
+      213: -7228945627867650115
+    second: Tileset_01_Mur_Sol_GD_V2_107
+  - first:
+      213: 8405854262143852794
+    second: Tileset_01_Mur_Sol_GD_V2_108
+  - first:
+      213: 5846324787222349262
+    second: Tileset_01_Mur_Sol_GD_V2_109
+  - first:
+      213: 5571260524272303223
+    second: Tileset_01_Mur_Sol_GD_V2_110
+  - first:
+      213: -7843278390892083200
+    second: Tileset_01_Mur_Sol_GD_V2_111
+  - first:
+      213: -7140540872166765742
+    second: Tileset_01_Mur_Sol_GD_V2_112
+  - first:
+      213: 216202218776249199
+    second: Tileset_01_Mur_Sol_GD_V2_113
+  - first:
+      213: -8120398273396307743
+    second: Tileset_01_Mur_Sol_GD_V2_114
+  - first:
+      213: -6069364944998989346
+    second: Tileset_01_Mur_Sol_GD_V2_115
+  - first:
+      213: -8647172209745123426
+    second: Tileset_01_Mur_Sol_GD_V2_116
+  - first:
+      213: -4707471767555392048
+    second: Tileset_01_Mur_Sol_GD_V2_117
+  - first:
+      213: -2209254587632520209
+    second: Tileset_01_Mur_Sol_GD_V2_118
+  - first:
+      213: -1877176611614139962
+    second: Tileset_01_Mur_Sol_GD_V2_119
+  - first:
+      213: 1684369472561363433
+    second: Tileset_01_Mur_Sol_GD_V2_120
+  - first:
+      213: -8962745641344627184
+    second: Tileset_01_Mur_Sol_GD_V2_121
+  - first:
+      213: 3499616431916819320
+    second: Tileset_01_Mur_Sol_GD_V2_122
+  - first:
+      213: 6623140564523163228
+    second: Tileset_01_Mur_Sol_GD_V2_123
+  - first:
+      213: 6933837146224458080
+    second: Tileset_01_Mur_Sol_GD_V2_124
+  - first:
+      213: 210072184226722925
+    second: Tileset_01_Mur_Sol_GD_V2_125
+  - first:
+      213: 4507528533021114653
+    second: Tileset_01_Mur_Sol_GD_V2_126
+  - first:
+      213: -6015130847828071733
+    second: Tileset_01_Mur_Sol_GD_V2_127
+  - first:
+      213: -7950938780778836732
+    second: Tileset_01_Mur_Sol_GD_V2_128
+  - first:
+      213: -297601217962032561
+    second: Tileset_01_Mur_Sol_GD_V2_129
+  - first:
+      213: 5457996786469248076
+    second: Tileset_01_Mur_Sol_GD_V2_130
+  - first:
+      213: 7535752402670898158
+    second: Tileset_01_Mur_Sol_GD_V2_131
+  - first:
+      213: -2649649182972263956
+    second: Tileset_01_Mur_Sol_GD_V2_132
+  - first:
+      213: 6901287168654415539
+    second: Tileset_01_Mur_Sol_GD_V2_133
+  - first:
+      213: -5785286856942009937
+    second: Tileset_01_Mur_Sol_GD_V2_134
+  - first:
+      213: 5879589092600999653
+    second: Tileset_01_Mur_Sol_GD_V2_135
+  - first:
+      213: -7019580193757276451
+    second: Tileset_01_Mur_Sol_GD_V2_136
+  - first:
+      213: 8196240979570634082
+    second: Tileset_01_Mur_Sol_GD_V2_137
+  - first:
+      213: -4851008824524877859
+    second: Tileset_01_Mur_Sol_GD_V2_138
+  - first:
+      213: 2368427583462851815
+    second: Tileset_01_Mur_Sol_GD_V2_139
+  - first:
+      213: -153755510477139432
+    second: Tileset_01_Mur_Sol_GD_V2_140
+  - first:
+      213: 5591644077072983321
+    second: Tileset_01_Mur_Sol_GD_V2_141
+  - first:
+      213: 3753280875633150075
+    second: Tileset_01_Mur_Sol_GD_V2_142
+  - first:
+      213: -2622477114904194559
+    second: Tileset_01_Mur_Sol_GD_V2_143
+  - first:
+      213: 3018130812404813196
+    second: Tileset_01_Mur_Sol_GD_V2_144
+  - first:
+      213: -4436784699568290816
+    second: Tileset_01_Mur_Sol_GD_V2_145
+  - first:
+      213: -557806525737297545
+    second: Tileset_01_Mur_Sol_GD_V2_146
+  - first:
+      213: 8239778905631207574
+    second: Tileset_01_Mur_Sol_GD_V2_147
+  - first:
+      213: 5921094710706209797
+    second: Tileset_01_Mur_Sol_GD_V2_148
+  - first:
+      213: -6655893402001293682
+    second: Tileset_01_Mur_Sol_GD_V2_149
+  - first:
+      213: 6249809233564520746
+    second: Tileset_01_Mur_Sol_GD_V2_150
+  - first:
+      213: 412403083527938611
+    second: Tileset_01_Mur_Sol_GD_V2_151
+  - first:
+      213: -5801357977342186950
+    second: Tileset_01_Mur_Sol_GD_V2_152
+  - first:
+      213: -3360776589184031390
+    second: Tileset_01_Mur_Sol_GD_V2_153
+  - first:
+      213: -3326529931781379881
+    second: Tileset_01_Mur_Sol_GD_V2_154
+  - first:
+      213: 4605215096463505572
+    second: Tileset_01_Mur_Sol_GD_V2_155
+  - first:
+      213: 7184970085043713193
+    second: Tileset_01_Mur_Sol_GD_V2_156
+  - first:
+      213: 177086971900612176
+    second: Tileset_01_Mur_Sol_GD_V2_157
+  - first:
+      213: -409670010767995498
+    second: Tileset_01_Mur_Sol_GD_V2_158
+  - first:
+      213: 924915368114130671
+    second: Tileset_01_Mur_Sol_GD_V2_159
+  - first:
+      213: -3275126525635393888
+    second: Tileset_01_Mur_Sol_GD_V2_160
+  - first:
+      213: 4735000073951279737
+    second: Tileset_01_Mur_Sol_GD_V2_161
+  - first:
+      213: 7015764206671198664
+    second: Tileset_01_Mur_Sol_GD_V2_162
+  - first:
+      213: -2103927346722264477
+    second: Tileset_01_Mur_Sol_GD_V2_163
+  - first:
+      213: 2305302545444615678
+    second: Tileset_01_Mur_Sol_GD_V2_164
+  - first:
+      213: 4250088388421780534
+    second: Tileset_01_Mur_Sol_GD_V2_165
+  - first:
+      213: -2401764857544099778
+    second: Tileset_01_Mur_Sol_GD_V2_166
+  - first:
+      213: 4434061709525498733
+    second: Tileset_01_Mur_Sol_GD_V2_167
+  - first:
+      213: -6846184127500104249
+    second: Tileset_01_Mur_Sol_GD_V2_168
+  - first:
+      213: -878725556154869507
+    second: Tileset_01_Mur_Sol_GD_V2_169
+  - first:
+      213: 166623321914238666
+    second: Tileset_01_Mur_Sol_GD_V2_170
+  - first:
+      213: -2284878925288350733
+    second: Tileset_01_Mur_Sol_GD_V2_171
+  - first:
+      213: 7948964224413625207
+    second: Tileset_01_Mur_Sol_GD_V2_172
+  - first:
+      213: 6173824588580488599
+    second: Tileset_01_Mur_Sol_GD_V2_173
+  - first:
+      213: -6161865278259587441
+    second: Tileset_01_Mur_Sol_GD_V2_174
+  - first:
+      213: -4236035120648485700
+    second: Tileset_01_Mur_Sol_GD_V2_175
+  - first:
+      213: -6279651969788857489
+    second: Tileset_01_Mur_Sol_GD_V2_176
+  - first:
+      213: 4981607180563129195
+    second: Tileset_01_Mur_Sol_GD_V2_177
+  - first:
+      213: 7524356354749929087
+    second: Tileset_01_Mur_Sol_GD_V2_178
+  - first:
+      213: -3137741371417785921
+    second: Tileset_01_Mur_Sol_GD_V2_179
+  - first:
+      213: 5692144958617052398
+    second: Tileset_01_Mur_Sol_GD_V2_180
+  - first:
+      213: 632211175703755945
+    second: Tileset_01_Mur_Sol_GD_V2_181
+  - first:
+      213: 5538782701508154981
+    second: Tileset_01_Mur_Sol_GD_V2_182
+  - first:
+      213: 7081120545295408482
+    second: Tileset_01_Mur_Sol_GD_V2_183
+  - first:
+      213: 2526567393616203872
+    second: Tileset_01_Mur_Sol_GD_V2_184
+  - first:
+      213: -2922436333699513209
+    second: Tileset_01_Mur_Sol_GD_V2_185
+  - first:
+      213: 1438425450877570879
+    second: Tileset_01_Mur_Sol_GD_V2_186
+  - first:
+      213: -3132315746488771567
+    second: Tileset_01_Mur_Sol_GD_V2_187
+  - first:
+      213: 4602185850554632906
+    second: Tileset_01_Mur_Sol_GD_V2_188
+  - first:
+      213: 7118610483661715618
+    second: Tileset_01_Mur_Sol_GD_V2_189
+  - first:
+      213: -8083171023972229108
+    second: Tileset_01_Mur_Sol_GD_V2_190
+  - first:
+      213: -4039522577332623997
+    second: Tileset_01_Mur_Sol_GD_V2_191
+  - first:
+      213: 6100069652099111047
+    second: Tileset_01_Mur_Sol_GD_V2_192
+  - first:
+      213: 2470648927712743275
+    second: Tileset_01_Mur_Sol_GD_V2_193
+  - first:
+      213: 3473268190159897333
+    second: Tileset_01_Mur_Sol_GD_V2_194
+  - first:
+      213: 8952757264982222216
+    second: Tileset_01_Mur_Sol_GD_V2_195
+  - first:
+      213: -287826099284849515
+    second: Tileset_01_Mur_Sol_GD_V2_196
+  - first:
+      213: 586784428545321329
+    second: Tileset_01_Mur_Sol_GD_V2_197
+  - first:
+      213: -8906715343614422402
+    second: Tileset_01_Mur_Sol_GD_V2_198
+  - first:
+      213: 4542791915817567518
+    second: Tileset_01_Mur_Sol_GD_V2_199
+  - first:
+      213: -8833079732402514783
+    second: Tileset_01_Mur_Sol_GD_V2_200
+  - first:
+      213: -4501566757847264562
+    second: Tileset_01_Mur_Sol_GD_V2_201
+  - first:
+      213: 5295517598533832835
+    second: Tileset_01_Mur_Sol_GD_V2_202
+  - first:
+      213: 4636825098043726376
+    second: Tileset_01_Mur_Sol_GD_V2_203
+  - first:
+      213: -1470261726774396284
+    second: Tileset_01_Mur_Sol_GD_V2_204
+  - first:
+      213: 1404665530833810197
+    second: Tileset_01_Mur_Sol_GD_V2_205
+  - first:
+      213: 3853418963963091244
+    second: Tileset_01_Mur_Sol_GD_V2_206
+  - first:
+      213: -4486284631518755106
+    second: Tileset_01_Mur_Sol_GD_V2_207
+  - first:
+      213: -2189755367869805145
+    second: Tileset_01_Mur_Sol_GD_V2_208
+  - first:
+      213: 8108976773243376389
+    second: Tileset_01_Mur_Sol_GD_V2_209
+  - first:
+      213: -191848346081190078
+    second: Tileset_01_Mur_Sol_GD_V2_210
+  - first:
+      213: 4720904038817754152
+    second: Tileset_01_Mur_Sol_GD_V2_211
+  - first:
+      213: 5974631024986727393
+    second: Tileset_01_Mur_Sol_GD_V2_212
+  - first:
+      213: -2263373730677973388
+    second: Tileset_01_Mur_Sol_GD_V2_213
+  - first:
+      213: -6631106598703723811
+    second: Tileset_01_Mur_Sol_GD_V2_214
+  - first:
+      213: 6623934541088413637
+    second: Tileset_01_Mur_Sol_GD_V2_215
+  - first:
+      213: -3584952853232394166
+    second: Tileset_01_Mur_Sol_GD_V2_216
+  - first:
+      213: -4399217052705430354
+    second: Tileset_01_Mur_Sol_GD_V2_217
+  - first:
+      213: 5311977347470265789
+    second: Tileset_01_Mur_Sol_GD_V2_218
+  - first:
+      213: -5286359421644151262
+    second: Tileset_01_Mur_Sol_GD_V2_219
+  - first:
+      213: 88113271287103156
+    second: Tileset_01_Mur_Sol_GD_V2_220
+  - first:
+      213: 7966029502250407349
+    second: Tileset_01_Mur_Sol_GD_V2_221
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fcfa6ce6100edb0800000000000000
+      internalID: -4764806830466543853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656f65b12478bd20800000000000000
+      internalID: 3294510815548237153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76cd87e557599460800000000000000
+      internalID: 7248921101698188925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_3
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d0b6fd4912df860800000000000000
+      internalID: 7565239872339512688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1da2389c6c19080800000000000000
+      internalID: -9182339596440383035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_5
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f5ba3d2a6413d0800000000000000
+      internalID: -3236845489681466909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_6
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d66bf031c7a3230800000000000000
+      internalID: 3619341671855451462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_7
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf8177e588f9860800000000000000
+      internalID: 7538894240547929233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be420dda97913670800000000000000
+      internalID: 8516755061722992305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_9
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309fe662bc3cd2a60800000000000000
+      internalID: 7650986619262925059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_10
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589c8f4afd707660800000000000000
+      internalID: 7381538303290153049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_11
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac8f8c1de565370800000000000000
+      internalID: 8310934417471752917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_12
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1a8d09c01cc530800000000000000
+      internalID: 3876491834960780872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_13
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45187f29c099b7610800000000000000
+      internalID: 1620056770254176596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_14
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a695fbb2a22906e0800000000000000
+      internalID: -1870926087862249824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_15
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ee20fea40b95060800000000000000
+      internalID: 6942774136452345502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_16
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbdb247ff3e6a500800000000000000
+      internalID: 407263502628805560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_17
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3297
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3918bfcef65a280800000000000000
+      internalID: -9032690413999123552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48e7f179da55dc0800000000000000
+      internalID: -3650821058333866765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb68ccec59e6902c0800000000000000
+      internalID: -4464915965862443332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66bef02e92f0b10800000000000000
+      internalID: 1949823214581147372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_21
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3123514742582e60800000000000000
+      internalID: 7937684809232621883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1846f0a056ea436a0800000000000000
+      internalID: -6470355015640849279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24faf0b0aef4e2f60800000000000000
+      internalID: 8011428653765209922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd7bfab864aca780800000000000000
+      internalID: -8670374412874449474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_25
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3da754e31b584a0800000000000000
+      internalID: -6591667598575086664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf95c24b9e8be2310800000000000000
+      internalID: 1382245449539017211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_27
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd6d7dc0a821da0800000000000000
+      internalID: -5975561967801803967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_28
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2959fc2429e2f40800000000000000
+      internalID: 5705658593573180080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_29
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855cc43f2907e4c0800000000000000
+      internalID: -4258424824301595261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_30
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170bce943cc57b10800000000000000
+      internalID: 1978712137673672464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_31
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5cfcefbd135e080800000000000000
+      internalID: -9158859446245407253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_32
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19171a3a98ae51030800000000000000
+      internalID: 3464933365208150417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_33
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ac9decd06a60b0800000000000000
+      internalID: -5734664673507366600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_34
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a29b6ef30ca71d20800000000000000
+      internalID: 3249254789324444321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_35
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 3041
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c982ed111e6ec63d0800000000000000
+      internalID: -3211938579880204132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc76990c25c3e590800000000000000
+      internalID: -7646050949414880070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840faf78b5a61c610800000000000000
+      internalID: 1639708680695509064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb49af1118de9b70800000000000000
+      internalID: 8907794681042652103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620013c063025a3b0800000000000000
+      internalID: -5501955953258332122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_40
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87cb40cddb2ba110800000000000000
+      internalID: 1273159551076255627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_41
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeebf53695cec570800000000000000
+      internalID: 8488939596581433067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_42
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4192f7d1ff0540800000000000000
+      internalID: 4976462023057558162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_43
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b31c6d2bbfb680800000000000000
+      internalID: -8737058948314320464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_44
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212b5508be820e50800000000000000
+      internalID: 6774133710533632294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_45
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89183045ae273990800000000000000
+      internalID: -7406399774905591410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_46
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc4b0e3d03f1c00800000000000000
+      internalID: 873470539299344293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_47
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad65351a6da3f50800000000000000
+      internalID: 6862032970628651575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_48
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58bdd601be6c1dc0800000000000000
+      internalID: -3666934289982965669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_49
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7423524838e580800000000000000
+      internalID: -8797720014554366223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_50
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3404a4e75b9cc970800000000000000
+      internalID: 8776560575638668350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_51
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3972892e03ec92dd0800000000000000
+      internalID: -2510248607926966381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_52
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed8ead3974af270800000000000000
+      internalID: 8285013164859907619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_53
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a62a0c0f37c110800000000000000
+      internalID: 1281061939952658386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_54
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b76a6785f6bee30800000000000000
+      internalID: 4533839875616963362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_55
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730badc9246ada440800000000000000
+      internalID: 4948794370579673143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_56
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd003fc90458d6510800000000000000
+      internalID: 1544036759815520479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_57
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cbce1d170bc3730800000000000000
+      internalID: 3980250173588421650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_58
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eae01b610467ddc0800000000000000
+      internalID: -3614310218687517984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_59
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f947a35c08b49980800000000000000
+      internalID: -8532993030877656590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2785
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32295ef4d837eb30800000000000000
+      internalID: 4316481255309386303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2f9260742ecc030800000000000000
+      internalID: 3516434203743482543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d84a41ed55ad10800000000000000
+      internalID: 2136216820452480614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_63
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42f59ee0537ec80800000000000000
+      internalID: -8293601850618338066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_64
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e511a94b2624cc0800000000000000
+      internalID: -3728309013690884547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_65
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e25f0d756f9520800000000000000
+      internalID: 2710997088502736286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_66
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5208b6de238a47990800000000000000
+      internalID: -7389096151923064795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_67
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ca8c16a13077c0800000000000000
+      internalID: -4075703073257110016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_68
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aacddd9242a51220800000000000000
+      internalID: 2456047578800573091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_69
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3634134ababb10800000000000000
+      internalID: 1998114181956909891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_70
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f5d2d17b1ea0cc0800000000000000
+      internalID: -3743931963620368587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_71
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f88a1f2cb372a1b0800000000000000
+      internalID: -5646823730687866636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_72
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d75c56c781dd46f0800000000000000
+      internalID: -698671986093828138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_73
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a53fff338330f50800000000000000
+      internalID: 6846377654521911889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_74
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2666f71bd1390d0800000000000000
+      internalID: -3417355044060241245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_75
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e93e5b075a13540800000000000000
+      internalID: 4985948165982363199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_76
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d85762f97c7e5360800000000000000
+      internalID: 7160297320765413593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_77
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2529
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b753c01da09ff60800000000000000
+      internalID: 8068492100380228425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9df48f4c9ce43760800000000000000
+      internalID: 7436829040788700573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91bf83b0a9685c70800000000000000
+      internalID: 8960027597581824410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_80
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05219a16f1294a1e0800000000000000
+      internalID: -2187462855515106736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_81
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1cb177be785d3a0800000000000000
+      internalID: -6641252630102556196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_82
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1522a4d84c6b1ca0800000000000000
+      internalID: -6045119014753917667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_83
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdb26de36048160800000000000000
+      internalID: 7026748185555753834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_84
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb38131a9976930800000000000000
+      internalID: 4136443700362591758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_85
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f666157f21ab8230800000000000000
+      internalID: 3642181948859115248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_86
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827247480e9109b60800000000000000
+      internalID: 7750723410790197032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_87
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5dfe5593b867ac0800000000000000
+      internalID: -3857742952425073188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_88
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef5f7b864434110800000000000000
+      internalID: 1243913138638028527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_89
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3a4207a3aaef10800000000000000
+      internalID: 2299830497419345175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_90
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f6dc132ededc0a0800000000000000
+      internalID: -6859565101661458671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_91
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795d10b08d5d7130800000000000000
+      internalID: 3566109287239211379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_92
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce312a5c7195730800000000000000
+      internalID: 3988245082608495664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_93
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b014c43aeecdaba50800000000000000
+      internalID: 6537780726581707019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_94
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875c73b02163d360800000000000000
+      internalID: 7193199822918932355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_95
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8089a844f8a8a0800000000000000
+      internalID: -6293511886331671799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_96
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d580fd5c65de3f0800000000000000
+      internalID: -869943745162224342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_97
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8187a87bb18b7080800000000000000
+      internalID: -9188607972536254070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_98
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2273
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053955b32ac14d060800000000000000
+      internalID: 6977233205809484624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_99
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4448bb8975d057810800000000000000
+      internalID: 1762329499061158980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbbe135ef4ce000800000000000000
+      internalID: 66515940307352818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_101
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be9c2034851f6f0800000000000000
+      internalID: -652643426159170799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_102
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e76ef60b581600800000000000000
+      internalID: 439201049264776597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_103
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd631bb821a20340800000000000000
+      internalID: 4828598946803969494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_104
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060a006d20d20ed0800000000000000
+      internalID: -2449166354032753148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_105
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc72788a17cfb73b0800000000000000
+      internalID: -5513535753696106547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_106
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf612d663398a80800000000000000
+      internalID: -8464177507961734482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_107
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e5568040adab90800000000000000
+      internalID: -7228945627867650115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_108
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a9c05ae797a470800000000000000
+      internalID: 8405854262143852794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_109
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec503f73b61522150800000000000000
+      internalID: 5846324787222349262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_110
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c3864dde7115d40800000000000000
+      internalID: 5571260524272303223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_111
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0084164ebd3172390800000000000000
+      internalID: -7843278390892083200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_112
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8752b8e3b7ec90800000000000000
+      internalID: -7140540872166765742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_113
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f634fc1c5ca100300800000000000000
+      internalID: 216202218776249199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_114
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e884874bcc8e4f80800000000000000
+      internalID: -8120398273396307743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_115
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed180294db845cba0800000000000000
+      internalID: -6069364944998989346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_116
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97238e90b21ff780800000000000000
+      internalID: -8647172209745123426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_117
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3ea06e53bbaeb0800000000000000
+      internalID: -4707471767555392048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_118
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f2cd58a62751e0800000000000000
+      internalID: -2209254587632520209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_119
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9511441dde2f5e0800000000000000
+      internalID: -1877176611614139962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_120
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e938827c15106710800000000000000
+      internalID: 1684369472561363433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_121
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e097b635eed9380800000000000000
+      internalID: -8962745641344627184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_122
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a5826a92219030800000000000000
+      internalID: 3499616431916819320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_123
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e12e5a04f1aeb50800000000000000
+      internalID: 6623140564523163228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_124
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fd1fb520f93060800000000000000
+      internalID: 6933837146224458080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_125
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64360ed9835ae200800000000000000
+      internalID: 210072184226722925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_126
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1149a1a155fd8e30800000000000000
+      internalID: 4507528533021114653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa6b90d56f58ca0800000000000000
+      internalID: -6015130847828071733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_128
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dccc40e4798a190800000000000000
+      internalID: -7950938780778836732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_129
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4246aed445bedbf0800000000000000
+      internalID: -297601217962032561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_130
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c19bad823bebb40800000000000000
+      internalID: 5457996786469248076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_131
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebce7452ee549860800000000000000
+      internalID: 7535752402670898158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_132
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c8854b1e8a3bd0800000000000000
+      internalID: -2649649182972263956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_133
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b69b948d1c46cf50800000000000000
+      internalID: 6901287168654415539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_134
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14c30614886bfa0800000000000000
+      internalID: -5785286856942009937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_135
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6eb9d02f789150800000000000000
+      internalID: 5879589092600999653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_136
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6dabe4101759e90800000000000000
+      internalID: -7019580193757276451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_137
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26daec0deb5eeb170800000000000000
+      internalID: 8196240979570634082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_138
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc8e30d21cdacb0800000000000000
+      internalID: -4851008824524877859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_139
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44a84b6585ed020800000000000000
+      internalID: 2368427583462851815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_140
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81250c78d20cdddf0800000000000000
+      internalID: -153755510477139432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_141
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1761
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152a5c89a2899d40800000000000000
+      internalID: 5591644077072983321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_142
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7881661215561430800000000000000
+      internalID: 3753280875633150075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_143
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1025b8e55f61b9bd0800000000000000
+      internalID: -2622477114904194559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_144
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dcc0fabfd82e920800000000000000
+      internalID: 3018130812404813196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_145
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0040855a2df5d62c0800000000000000
+      internalID: -4436784699568290816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_146
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77998049be54248f0800000000000000
+      internalID: -557806525737297545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_147
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b7e92243995270800000000000000
+      internalID: 8239778905631207574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_148
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048611a444fb2250800000000000000
+      internalID: 5921094710706209797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_149
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb8de173481a3a0800000000000000
+      internalID: -6655893402001293682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_150
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d1909268cbb650800000000000000
+      internalID: 6249809233564520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_151
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33265f16b6629b500800000000000000
+      internalID: 412403083527938611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_152
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ae3a118af6d7fa0800000000000000
+      internalID: -5801357977342186950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_153
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ac309f7f1c51d0800000000000000
+      internalID: -3360776589184031390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_154
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86779d6aac5d1d0800000000000000
+      internalID: -3326529931781379881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_155
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1505
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a839f21bb209ef30800000000000000
+      internalID: 4605215096463505572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_156
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b6d8893426b360800000000000000
+      internalID: 7184970085043713193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_157
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e4c76a9a3257200800000000000000
+      internalID: 177086971900612176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d0b05bb4f805af0800000000000000
+      internalID: -409670010767995498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_159
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0ebb70a5f5dc00800000000000000
+      internalID: 924915368114130671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_160
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a60b0df6c96c82d0800000000000000
+      internalID: -3275126525635393888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_161
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a705bea7916b140800000000000000
+      internalID: 4735000073951279737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_162
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c97986ff500d5160800000000000000
+      internalID: 7015764206671198664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_163
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa369a9395dc2e0800000000000000
+      internalID: -2103927346722264477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_164
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5b70973741eff10800000000000000
+      internalID: 2305302545444615678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_165
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63484ef0fd85bfa30800000000000000
+      internalID: 4250088388421780534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_166
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38311056973baed0800000000000000
+      internalID: -2401764857544099778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_167
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bbd64d1a3f88d30800000000000000
+      internalID: 4434061709525498733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_168
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd40750fc77df0a0800000000000000
+      internalID: -6846184127500104249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_169
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8d45a23c32ec3f0800000000000000
+      internalID: -878725556154869507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_170
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66ef94707ff4200800000000000000
+      internalID: 166623321914238666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_171
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1249
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb596729ba7a40e0800000000000000
+      internalID: -2284878925288350733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_172
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6670c8d4605e60800000000000000
+      internalID: 7948964224413625207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_173
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79589e3c0c4dda550800000000000000
+      internalID: 6173824588580488599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_174
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8616872d28ac7aa0800000000000000
+      internalID: -6161865278259587441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_175
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40ba150849635c0800000000000000
+      internalID: -4236035120648485700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_176
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6337a3fdc13ad8a0800000000000000
+      internalID: -6279651969788857489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_177
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6320084659322540800000000000000
+      internalID: 4981607180563129195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_178
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7692582d32eb6860800000000000000
+      internalID: 7524356354749929087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_179
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9889fd8d08474d0800000000000000
+      internalID: -3137741371417785921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_180
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4666c7eaf8efe40800000000000000
+      internalID: 5692144958617052398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_181
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 993
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acbad6f6b016c800800000000000000
+      internalID: 632211175703755945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_182
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d8737585bddc40800000000000000
+      internalID: 5538782701508154981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_183
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d9d0a5e91354260800000000000000
+      internalID: 7081120545295408482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_184
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060149d78ab201320800000000000000
+      internalID: 2526567393616203872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_185
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784452363ab6177d0800000000000000
+      internalID: -2922436333699513209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_186
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4073935056f310800000000000000
+      internalID: 1438425450877570879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_187
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9c2e9c67c784d0800000000000000
+      internalID: -3132315746488771567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_188
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca43acc5af3edf30800000000000000
+      internalID: 4602185850554632906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_189
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83705d4826ac260800000000000000
+      internalID: 7118610483661715618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_190
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a769b7cec2df80800000000000000
+      internalID: -8083171023972229108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_191
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852be34e9bb0f7c0800000000000000
+      internalID: -4039522577332623997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_192
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788128e670dc7a450800000000000000
+      internalID: 6100069652099111047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_193
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 737
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f84051c12894220800000000000000
+      internalID: 2470648927712743275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_194
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2052c4407833030800000000000000
+      internalID: 3473268190159897333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_195
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885209b7c459e3c70800000000000000
+      internalID: 8952757264982222216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_196
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c4a0b00bf610cf0800000000000000
+      internalID: -287826099284849515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_197
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ac2f245da42800800000000000000
+      internalID: 586784428545321329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_198
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e725754b59df46480800000000000000
+      internalID: -8906715343614422402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_199
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1582debd2d3b0f30800000000000000
+      internalID: 4542791915817567518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_200
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4127578c89a6580800000000000000
+      internalID: -8833079732402514783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_201
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29ec152e83781c0800000000000000
+      internalID: -4501566757847264562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_202
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805072f2357d7940800000000000000
+      internalID: 5295517598533832835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_203
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a13861cdf495040800000000000000
+      internalID: 4636825098043726376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_204
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a72c0dfb4989be0800000000000000
+      internalID: -1470261726774396284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_205
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b599abdf5e7310800000000000000
+      internalID: 1404665530833810197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_206
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2916c5a1281a7530800000000000000
+      internalID: 3853418963963091244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_207
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c701a5e38db1c0800000000000000
+      internalID: -4486284631518755106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_208
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad8d11481d6c91e0800000000000000
+      internalID: -2189755367869805145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_209
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 481
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503901d796fd88070800000000000000
+      internalID: 8108976773243376389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_210
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f951912fa665df0800000000000000
+      internalID: -191848346081190078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_211
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c607cf535048140800000000000000
+      internalID: 4720904038817754152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_212
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ac5423472ae250800000000000000
+      internalID: 5974631024986727393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_213
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1df47591e690e0800000000000000
+      internalID: -2263373730677973388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_214
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda048c7ea399f3a0800000000000000
+      internalID: -6631106598703723811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_215
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d309be51fceb50800000000000000
+      internalID: 6623934541088413637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_216
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406f86bf50bf3ec0800000000000000
+      internalID: -3584952853232394166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_217
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e6ab0667d2f2c0800000000000000
+      internalID: -4399217052705430354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_218
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd03e2e04fe7b940800000000000000
+      internalID: 5311977347470265789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_219
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266cd54d1413a6b0800000000000000
+      internalID: -5286359421644151262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_220
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb01bad8a093100800000000000000
+      internalID: 88113271287103156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_01_Mur_Sol_GD_V2_221
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 225
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5daef50a50d8e60800000000000000
+      internalID: 7966029502250407349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
