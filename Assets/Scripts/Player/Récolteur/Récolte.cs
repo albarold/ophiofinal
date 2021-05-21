@@ -111,13 +111,13 @@ public class Récolte : MonoBehaviour
         if (collision.gameObject.CompareTag("Insecte1"))
         {
             collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
-
+            
         }
 
         else if (collision.gameObject.CompareTag("Insecte2"))
         {
             collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
-
+            
         }
         else if (collision.gameObject.CompareTag("Insecte3"))
         {
@@ -129,10 +129,20 @@ public class Récolte : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Insecte1"))
+        {
             Zone = false;
+            collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
+        }
         if (collision.gameObject.CompareTag("Insecte2"))
+        {
             Zone = false;
+            collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
+        }
         if (collision.gameObject.CompareTag("Insecte3"))
+        {
             Zone = false;
+            collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
+        }
+            
     }
 }
