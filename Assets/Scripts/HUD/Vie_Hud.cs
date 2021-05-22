@@ -6,11 +6,13 @@ using UnityEngine.UI;
 public class Vie_Hud : MonoBehaviour
 {
     public float TimerInvin;
+    public int VieOphio;
     private GameObject Player;
     public int Life;
     public int NumOfHearts;
     public float InvincibiliteTps;
     private bool StartTimer;
+    public int level;
 
     public Image[] hearts;
     public Sprite FullHeart;
@@ -22,8 +24,13 @@ public class Vie_Hud : MonoBehaviour
     }
     private void Update()
     {
-
+        level = Parasitage.instance.Type;
         TimerInvin += Time.deltaTime;
+
+        if(level == 0)
+        {
+            Life = VieOphio;
+        }
         
         Player.GetComponent<Parasitage>().Plife = Life;
 
