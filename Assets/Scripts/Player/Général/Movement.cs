@@ -56,7 +56,7 @@ public class Movement : MonoBehaviour
 
     public IEnumerator KnockBack(float KnockDuration, float Knockpower, Transform obj)
     {
-        
+        Debug.Log("tqt");
         Charge = true;
         Obj = obj;
         KnockPower = Knockpower;

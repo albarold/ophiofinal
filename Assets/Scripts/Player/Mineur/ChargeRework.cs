@@ -6,12 +6,13 @@ public class ChargeRework : MonoBehaviour
 {
     public static Movement movement;
     [HideInInspector] public bool DuringChargement;
-    
+
 
     public float Speed1, Speed2, Speed3;
     public float  CoolDown2, CoolDown3;
     public float ChargementCharge;
-    public GameObject mineurMort;
+
+    private float timeStop;
     private GameObject Player;
     private Rigidbody2D RbPlayer;
     private Vector2 Direction;
@@ -41,16 +42,17 @@ public class ChargeRework : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        if (Input.GetButton("Depara"))
-        {
-            Debug.Log("Depara");
-            Parasitage.instance.Type = 0;
-            Instantiate(mineurMort, new Vector3(transform.position.x, transform.position.y, 0), Quaternion.identity);
-        }
         if (RbPlayer.velocity==Vector2.zero)
         {
-            charge = false;
+            timeStop += Time.deltaTime;
+            if (timeStop>0.5)
+            {
+                charge = false;
+            }
+        }
+        else
+        {
+            timeStop = 0;
         }
         if (charge==false)
         {
@@ -151,10 +153,12 @@ public class ChargeRework : MonoBehaviour
             if (Dir.x>=0)
             {
                 RbPlayer.velocity = Vector2.right * Speed;
+
             }
             else
             {
                 RbPlayer.velocity = Vector2.left * Speed;
+               
             }
         }
         else
@@ -162,10 +166,12 @@ public class ChargeRework : MonoBehaviour
             if (Dir.y >= 0)
             {
                 RbPlayer.velocity = Vector2.up * Speed;
+  
             }
             else
             {
                 RbPlayer.velocity = Vector2.down * Speed;
+
             }
         }
 
@@ -193,6 +199,7 @@ public class ChargeRework : MonoBehaviour
                 }
                 else
                 {
+                    Debug.Log("stop1");
                     Player.GetComponent<Movement>().enabled = true;
                     charge = false;
                     DuringDash = 0;
@@ -206,6 +213,7 @@ public class ChargeRework : MonoBehaviour
                 }
                 else
                 {
+                    Debug.Log("stop2");
                     Player.GetComponent<Movement>().enabled = true;
                     charge = false;
                     DuringDash = 0;
@@ -219,6 +227,7 @@ public class ChargeRework : MonoBehaviour
                 }
                 else
                 {
+                    Debug.Log("stop3");
                     Player.GetComponent<Movement>().enabled = true;
                     charge = false;
                     DuringDash = 0;
