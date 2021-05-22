@@ -5,45 +5,21 @@ using UnityEngine;
 public class Piques : MonoBehaviour
 {
     private GameObject Player;
-    private bool IsColliding;
-    private float Timer;
+    public int Degats;
+    public float KnockbackDuration, KnockbackPower;
 
-    public float Knockback;
-    public float ReDoDamageCoolDown;
-    
-    private void OnTriggerEnter2D(Collider2D collider)
+    public void Start()
     {
-        if (collider.CompareTag("Player"))
-        {
-            IsColliding = true;
-            Player = collider.gameObject;
-            Timer = ReDoDamageCoolDown;
-            //Player.GetComponent<Rigidbody2D>().AddForce((Player.transform.position - transform.position)*Knockback*1000, ForceMode2D.Impulse);
-        }
-    }
-    private void OnTriggerExit2D(Collider2D collider)
-    {
-        if (collider.CompareTag("Player"))
-        {
-            IsColliding = false;
-            Player = collider.gameObject;
-        }
+        Player = GameObject.FindGameObjectWithTag("Player");
+
     }
 
-    private void Update()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (IsColliding)
+        if (collision.gameObject==Player)
         {
-            
-            Timer += Time.deltaTime;
-            if (Timer>= ReDoDamageCoolDown)
-            {
-                Debug.Log("he's dead");
-                Timer = 0;
-                
-                //Player.GetComponent<vie>.vie--
-            }
-            
+            Player.GetComponent<Vie_Hud>().TakeDamage(Degats);
+            StartCoroutine(Movement.instance.KnockBack(KnockbackDuration, KnockbackPower, this.transform));
         }
     }
 }

@@ -2,14 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Mine_nectar : MonoBehaviour
+public class mine_nectar : MonoBehaviour
 {
+    public GameMain Main;
     public float ChargementAvantActivation;
-    private bool Start = false;
-    private float timer;
+    public bool Start = false;
+    public float timer;
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collider.CompareTag("Player"))
+        Debug.Log("tqtmonreuf");
+        if (collider.CompareTag("Player")&&Main.level!=0)
+        {
+            Start = true;
+        }
+        if (collider.CompareTag("Insecte1")|| collider.CompareTag("Insecte2") || collider.CompareTag("Insecte3"))
         {
             Start = true;
         }
