@@ -156,8 +156,8 @@ RectTransform:
   - {fileID: 4568360287243389457}
   - {fileID: 5418181017330593856}
   - {fileID: 3072864682215881231}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 1
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -194,8 +194,8 @@ RectTransform:
   - {fileID: 1496702145611124825}
   - {fileID: 2945530473504501525}
   - {fileID: 2732249777024816355}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 3
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -328,6 +328,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &3484082375894721170
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6929057973789877626}
+  - component: {fileID: 891980133705409496}
+  - component: {fileID: 1086528252349142429}
+  m_Layer: 0
+  m_Name: fond
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6929057973789877626
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484082375894721170}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 10.978218, y: 10.978216, z: 10.978218}
+  m_Children:
+  - {fileID: 3644430102129197537}
+  m_Father: {fileID: 610260920052606005}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -1906.7068, y: 416.49304}
+  m_SizeDelta: {x: 881.07764, y: 405.437}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &891980133705409496
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484082375894721170}
+  m_CullTransparentMesh: 0
+--- !u!114 &1086528252349142429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3484082375894721170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.9137255}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: c98395671d585624ab548497dbd46085, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &3652115543653537576
 GameObject:
   m_ObjectHideFlags: 0
@@ -485,8 +560,43 @@ RectTransform:
   - {fileID: 4488569580841662803}
   - {fileID: 9202954687307478484}
   - {fileID: 2422485891836437049}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 4
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &6443071571304748971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3644430102129197537}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3644430102129197537
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6443071571304748971}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6929057973789877626}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -522,8 +632,8 @@ RectTransform:
   m_Children:
   - {fileID: 5696589187877059616}
   - {fileID: 974167387664835161}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 6
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -561,12 +671,49 @@ RectTransform:
   - {fileID: 4062592497888484011}
   - {fileID: 1355239204852848983}
   - {fileID: 4140623717083158670}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 2
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &7232066985367634292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 610260920052606005}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &610260920052606005
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7232066985367634292}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.147899, y: 0.11044598, z: 0.09108947}
+  m_Children:
+  - {fileID: 6929057973789877626}
+  - {fileID: 5378263350342354450}
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 635, y: -264}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &7284842064594858268
@@ -726,8 +873,8 @@ RectTransform:
   - {fileID: 2181465420859261665}
   - {fileID: 886878252154294844}
   - {fileID: 266679821996698808}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 5
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -890,13 +1037,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-  - {fileID: 8022827629381170234}
-  - {fileID: 8304020579784248586}
-  - {fileID: 331615292875717479}
-  - {fileID: 734472604931521413}
-  - {fileID: 3714156454819232740}
-  - {fileID: 2511045797146595796}
-  - {fileID: 8393980941729847018}
+  - {fileID: 1232335556349608819}
   m_Father: {fileID: 8022827629248148964}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1101,15 +1242,15 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8022827629381170235}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 9109857377720947783}
   - {fileID: 8379325768323654467}
   - {fileID: 8379325769489112670}
-  m_Father: {fileID: 8022827627999062276}
-  m_RootOrder: 0
+  m_Father: {fileID: 1232335556349608819}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1242,6 +1383,123 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &8775833489506602149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1232335556349608819}
+  m_Layer: 0
+  m_Name: TextePlacement
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1232335556349608819
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8775833489506602149}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 610260920052606005}
+  - {fileID: 8022827629381170234}
+  - {fileID: 8304020579784248586}
+  - {fileID: 331615292875717479}
+  - {fileID: 734472604931521413}
+  - {fileID: 3714156454819232740}
+  - {fileID: 2511045797146595796}
+  - {fileID: 8393980941729847018}
+  m_Father: {fileID: 8022827627999062276}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -300, y: 90}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &9182455580737325956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5378263350342354450}
+  - component: {fileID: 1430408202775353274}
+  - component: {fileID: 6573095733912524509}
+  m_Layer: 0
+  m_Name: Bouton A
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5378263350342354450
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9182455580737325956}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 610260920052606005}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.00018310547, y: 0.000030517578}
+  m_SizeDelta: {x: 881.07764, y: 405.437}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1430408202775353274
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9182455580737325956}
+  m_CullTransparentMesh: 0
+--- !u!114 &6573095733912524509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9182455580737325956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.9137255}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 341c5cbbea965c84ca2f1b65689f918f, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1001 &385489201494622315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1307,12 +1565,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 253
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -252
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1360,6 +1618,43 @@ PrefabInstance:
       value: "j\u2019ai ferm\xE9 cette porte pour les retenir en attendant te sont
         arriv\xE9. Malheureusement avec les extractions de nectar r\xE9cents j\u2019ai
         perdu trop d\u2019\xE9nergie pour pouvoir ouvrir cette porte."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -120.3609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 22.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22.9
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1444,7 +1739,7 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 249
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1498,6 +1793,43 @@ PrefabInstance:
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -116.01044
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 26.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 26.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -1581,12 +1913,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 251
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -255
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1633,6 +1965,43 @@ PrefabInstance:
       propertyPath: m_text
       value: "Maintenant que tu es arriv\xE9 ici tu vas pouvoir chasser les cultivateurs
         de cet endroit."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 14.501282
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -117.46063
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 29.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 29.6
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1717,12 +2086,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -251
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1771,6 +2140,43 @@ PrefabInstance:
         arriv\xE9. Malheureusement avec les extractions de nectar r\xE9cents j\u2019ai
         perdu trop d\u2019\xE9nergie pour pouvoir ouvrir cette porte."
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -118.910706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 22.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -1854,7 +2260,7 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1907,6 +2313,43 @@ PrefabInstance:
       value: "Va chasser les cultivateurs qui se trouve dans les autres pi\xE8ce
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -118.910706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 25.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25.4
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -1991,12 +2434,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 249
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -251
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2044,6 +2487,43 @@ PrefabInstance:
       value: "Va chasser les cultivateurs qui se trouve dans les autres pi\xE8ce
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 15.951447
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -120.3609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 24.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24.9
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2128,12 +2608,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 249
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -252
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2181,6 +2661,43 @@ PrefabInstance:
       value: "Va chasser les cultivateurs qui se trouve dans les autres pi\xE8ce
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 15.951447
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -120.3609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 24.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24.8
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2265,12 +2782,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 253
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -249
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2319,6 +2836,43 @@ PrefabInstance:
         arriv\xE9. Malheureusement avec les extractions de nectar r\xE9cents j\u2019ai
         perdu trop d\u2019\xE9nergie pour pouvoir ouvrir cette porte."
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 10.150909
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -117.46063
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 23.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 23.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -2455,6 +3009,43 @@ PrefabInstance:
       value: "Maintenant que tu es arriv\xE9 ici tu vas pouvoir chasser les cultivateurs
         de cet endroit."
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -118.910706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 14.501282
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 32.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 32.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -2538,12 +3129,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -254
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2590,6 +3181,43 @@ PrefabInstance:
       propertyPath: m_text
       value: "Maintenant que tu es arriv\xE9 ici tu vas pouvoir chasser les cultivateurs
         de cet endroit."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -120.3609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 28.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 28.7
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2728,6 +3356,43 @@ PrefabInstance:
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -120.3609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 17.40158
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 27.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 27.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -2811,12 +3476,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 251
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -249
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2864,6 +3529,43 @@ PrefabInstance:
       value: "j\u2019ai ferm\xE9 cette porte pour les retenir en attendant te sont
         arriv\xE9. Malheureusement avec les extractions de nectar r\xE9cents j\u2019ai
         perdu trop d\u2019\xE9nergie pour pouvoir ouvrir cette porte."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -123.26111
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 23.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 23.4
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -2948,12 +3650,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 251
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -255
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3000,6 +3702,43 @@ PrefabInstance:
       propertyPath: m_text
       value: "Maintenant que tu es arriv\xE9 ici tu vas pouvoir chasser les cultivateurs
         de cet endroit."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 15.951447
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -117.46063
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 29.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 29.2
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3084,12 +3823,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -249
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3137,6 +3876,43 @@ PrefabInstance:
       value: "Va chasser les cultivateurs qui se trouve dans les autres pi\xE8ce
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -118.910706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 25.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 25.2
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3221,12 +3997,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 256
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -251
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3274,6 +4050,43 @@ PrefabInstance:
       value: "Va chasser les cultivateurs qui se trouve dans les autres pi\xE8ce
         je t\u2019expliquerais sur place comment m\u2019aider \xE0 arr\xEAter l'extraction
         du nectar"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 11.601044
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -123.26111
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3412,6 +4225,43 @@ PrefabInstance:
         arriv\xE9. Malheureusement avec les extractions de nectar r\xE9cents j\u2019ai
         perdu trop d\u2019\xE9nergie pour pouvoir ouvrir cette porte."
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -120.3609
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 15.951447
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 22.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -3495,12 +4345,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 254
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -258
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3547,6 +4397,43 @@ PrefabInstance:
       propertyPath: m_text
       value: "Maintenant que tu es arriv\xE9 ici tu vas pouvoir chasser les cultivateurs
         de cet endroit."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 14.501282
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -118.910706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 27.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 27.7
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3631,12 +4518,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -253
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3684,6 +4571,43 @@ PrefabInstance:
       value: "Maintenant que tu es arriv\xE9 ici tu vas pouvoir chasser les cultivateurs
         de cet endroit."
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -116.01044
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -3767,12 +4691,12 @@ PrefabInstance:
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 244
+      value: 253
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -248
+      value: -253
       objectReference: {fileID: 0}
     - target: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3820,6 +4744,43 @@ PrefabInstance:
       value: "j\u2019ai ferm\xE9 cette porte pour les retenir en attendant te sont
         arriv\xE9. Malheureusement avec les extractions de nectar r\xE9cents j\u2019ai
         perdu trop d\u2019\xE9nergie pour pouvoir ouvrir cette porte."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 13.051147
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -121.810974
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 21.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 21.5
       objectReference: {fileID: 0}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
@@ -3951,6 +4912,33 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -116.01044
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 18.851715
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -4092,6 +5080,33 @@ PrefabInstance:
       propertyPath: m_text
       value: et ca aussi
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -118.910706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 14.501282
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -4104,15 +5119,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2b730916bca0184ca21bc89d9883c4d, type: 3}
---- !u!1 &1422430152237552890 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
-    type: 3}
-  m_PrefabInstance: {fileID: 8022827628323380436}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &8379325769489112670 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8022827628323380436}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1422430152237552890 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
     type: 3}
   m_PrefabInstance: {fileID: 8022827628323380436}
   m_PrefabAsset: {fileID: 0}
@@ -4233,6 +5248,33 @@ PrefabInstance:
       propertyPath: m_text
       value: ca aussi c'est du lore
       objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -116.01044
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_margin.x
+      value: 10.150909
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
+    - target: {fileID: 3461087406103890737, guid: c2b730916bca0184ca21bc89d9883c4d,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5393028817304873119, guid: 8f6e5239b1f96414cb20a065114d90f0,
+        type: 2}
     - target: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
         type: 3}
       propertyPath: m_Name
@@ -4245,15 +5287,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2b730916bca0184ca21bc89d9883c4d, type: 3}
---- !u!1 &1422430151206316519 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
-    type: 3}
-  m_PrefabInstance: {fileID: 8022827629625090505}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &8379325768323654467 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1954447188650836618, guid: c2b730916bca0184ca21bc89d9883c4d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8022827629625090505}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1422430151206316519 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9001485742518241326, guid: c2b730916bca0184ca21bc89d9883c4d,
     type: 3}
   m_PrefabInstance: {fileID: 8022827629625090505}
   m_PrefabAsset: {fileID: 0}
