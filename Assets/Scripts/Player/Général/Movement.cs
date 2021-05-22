@@ -32,12 +32,20 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (Obj != null)
+        {
+            Vector2 direction = (Obj.transform.position - this.transform.position).normalized;
+            ORigidBody.velocity = -direction * KnockPower;
+
+        }
+
+
         if (Charge)
         {
             
             timer += Time.deltaTime;
-            Vector2 direction = (Obj.transform.position - this.transform.position).normalized;
-            ORigidBody.velocity=-direction * KnockPower;
+            
 
             if (timer>KnockDur)
             {

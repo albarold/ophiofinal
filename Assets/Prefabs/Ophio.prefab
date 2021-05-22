@@ -788,9 +788,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TimerInvin: 0
-  Life: 10
+  VieOphio: 8
+  Life: 8
   NumOfHearts: 10
-  InvincibiliteTps: 3
+  InvincibiliteTps: 1
+  level: 0
   hearts:
   - {fileID: 0}
   - {fileID: 0}
@@ -821,7 +823,7 @@ MonoBehaviour:
   speed: 40
   SpeedOphio: 12
   SpeedReco: 12
-  SpeedMineur: 15
+  SpeedMineur: 12
   SpeedCata: 0
 --- !u!114 &7364772870092347958
 MonoBehaviour:
@@ -838,6 +840,7 @@ MonoBehaviour:
   Player: {fileID: 7364772870092347967}
   Type: 2
   para: 0
+  Elife: 0
   parasiting: 0
   Plife: 0
   TempsCorrupt: 0.5
@@ -860,6 +863,8 @@ MonoBehaviour:
   Elife: 0
   Edegat: 0
   AttackObject: {fileID: 232472396}
+  recolteurMort: {fileID: 1562572934579089362, guid: 140c2ee7116d2c5468fd6c41fad0800f,
+    type: 3}
   DureAttaque: 0
   tempsAnim: 1
 --- !u!114 &7364772870092347963
@@ -896,17 +901,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DuringChargement: 0
+  mineurMort: {fileID: 0}
   Speed1: 20
   Speed2: 30
   Speed3: 40
   CoolDown2: 0.5
   CoolDown3: 0.6
-  ChargementCharge: 2
+  ChargementCharge: 0.75
   DuringDash: 0
-  DashTimer: 2
   IsDashing: 0
-  DashTimerStart: 0.25
-  DashForce: 8
+  DashTimerStart: 0.19
+  DashForce: 42
   DashCooldown: 0.5
   DegatDash: 1
   charge: 0
@@ -958,7 +963,7 @@ MonoBehaviour:
   m_ShadowVolumeIntensity: 0
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
-  m_PointLightInnerRadius: 0.68
+  m_PointLightInnerRadius: 0.5128726
   m_PointLightOuterRadius: 8.41
   m_PointLightDistance: 3
   m_PointLightQuality: 1
