@@ -5,39 +5,102 @@ using UnityEngine;
 public class Récolte : MonoBehaviour
 {
     public int Degats;
-    public bool Attaque;
+    public bool Zone, Attaque;
+    private Vector3 movement;
     public int Elife;
     public int Edegat;
+    public GameObject AttackObject;
+    public float DureAttaque;
+    public float tempsAnim;
+   
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
+        movement = Vector3.zero;
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
+        MoveCollider();
+        if (Zone)
+        {
+            if (Input.GetButton("Attaque"))
+            {
+                Attaque = true;
+            }
+        }
+
+
+        if (Attaque && Zone)
+        {
+            DureAttaque += Time.deltaTime;
+            if (DureAttaque >= tempsAnim)
+            {
+                Edegat = Elife - Degats;
+                Attaque = false;
+                DureAttaque = 0;
+            }
+        }
+        if (Zone == false && Attaque == true)
+        {
+            DureAttaque += Time.deltaTime;
+            if (DureAttaque >= tempsAnim)
+            {
+                Edegat = Elife - Degats;
+                Attaque = false;
+                DureAttaque = 0;
+            }
+        }
+
+
+    }
+
+    public void MoveCollider()
+    {
+
+        if (movement.x > 0)
+        {
+            AttackObject.transform.rotation = Quaternion.Euler(0, 0, 180);
+        }
+        if (movement.x < 0)
+        {
+            AttackObject.transform.rotation = Quaternion.Euler(0, 0, 0);
+        }
+        if (movement.y > 0)
+        {
+            AttackObject.transform.rotation = Quaternion.Euler(0, 0, -90);
+        }
+        if (movement.y < 0)
+        {
+            AttackObject.transform.rotation = Quaternion.Euler(0, 0, 90);
+        }
+
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Insecte1"))
         {
-            Attaque = true;
+            Zone = true;
             Elife = collision.GetComponentInChildren<HealthBar_Behavior>().E_Life;
             Edegat = Elife;
         }
 
         else if (collision.gameObject.CompareTag("Insecte2"))
         {
-            Attaque = true;
+            Zone = true;
             Elife = collision.GetComponentInChildren<HealthBar_Behavior>().E_Life;
             Edegat = Elife;
         }
         else if (collision.gameObject.CompareTag("Insecte3"))
         {
-            Attaque = true;
+            Zone = true;
             Elife = collision.GetComponentInChildren<HealthBar_Behavior>().E_Life;
             Edegat = Elife;
         }
@@ -48,42 +111,38 @@ public class Récolte : MonoBehaviour
         if (collision.gameObject.CompareTag("Insecte1"))
         {
             collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
-            if (Attaque && Input.GetButton("Attaque"))
-            {
-                Debug.Log("Oof");
-                Edegat = Elife - Degats;
-            }
-
-
+            
         }
 
         else if (collision.gameObject.CompareTag("Insecte2"))
         {
             collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
-            if (Attaque && Input.GetButton("Attaque"))
-            {
-                Debug.Log("Oof");
-                Edegat = Elife - Degats;
-            }
+            
         }
         else if (collision.gameObject.CompareTag("Insecte3"))
         {
             collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
-            if (Attaque && Input.GetButton("Attaque"))
-            {
-                Debug.Log("Oof");
-                Edegat = Elife - Degats;
-            }
+
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Insecte1"))
-            Attaque = false;
+        {
+            Zone = false;
+            collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
+        }
         if (collision.gameObject.CompareTag("Insecte2"))
-            Attaque = false;
+        {
+            Zone = false;
+            collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
+        }
         if (collision.gameObject.CompareTag("Insecte3"))
-            Attaque = false;
+        {
+            Zone = false;
+            collision.GetComponentInChildren<HealthBar_Behavior>().E_Life = Edegat;
+        }
+            
     }
 }
