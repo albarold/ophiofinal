@@ -46,11 +46,17 @@ public class CicindellaIa : MonoBehaviour
             if (chargement < ChargementCharge)
             {
                 GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+                GetComponent<SpriteRenderer>().color = Color.red;
             }
             else
             {
+                GetComponent<SpriteRenderer>().color = Color.blue;
                 GetComponent<Rigidbody2D>().velocity = (MovementDash) * ChargeSpeed;
             }
+        }
+        else
+        {
+            GetComponent<SpriteRenderer>().color = Color.white;
         }
 
         if (Vector3.Distance(transform.position, Player.transform.position) <= ChargeDist && Timer>= CoolDown &&!Charge)
