@@ -272,6 +272,16 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6450908894839220225, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+        type: 3}
+      propertyPath: E_Life
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6450908894839220225, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+        type: 3}
+      propertyPath: E_NumOfHearts
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7869660974309024684, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
         type: 3}
       propertyPath: m_Name
