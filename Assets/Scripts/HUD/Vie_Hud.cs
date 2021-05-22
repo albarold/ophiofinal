@@ -82,10 +82,16 @@ public class Vie_Hud : MonoBehaviour
 
     public void TakeDamage(int degats)
     {
-        if (InvincibiliteTps<=TimerInvin)
+        if (Player.GetComponent<ChargeRework>().IsDashing == false)
         {
-            Life -= degats;
-            TimerInvin = 0;
+
+
+            if (InvincibiliteTps <= TimerInvin)
+            {
+                Life -= degats;
+                TimerInvin = 0;
+            }
+
         }
     }
 }

@@ -72,20 +72,27 @@ public class CicindellaIa : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        
+
         if (collision.gameObject != Player)
         {
 
             Charge = false;
             Timer = 0;
             chargement = 0;
+
         }
-        else if(Player.GetComponent<ChargeRework>().IsDashing == false)
+        else 
         {
             
             if (Charge)
             {
+                Charge = false;
+                Timer = 0;
+                chargement = 0;
                 Player.GetComponent<Vie_Hud>().TakeDamage(DegatsCharge);
                 StartCoroutine(Movement.instance.KnockBack(KnockBackDuration, KnockbackPower, this.transform));
+                
 
             }
             else

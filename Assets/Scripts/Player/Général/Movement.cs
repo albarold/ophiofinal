@@ -34,9 +34,10 @@ public class Movement : MonoBehaviour
     {
         if (Charge)
         {
+            
             timer += Time.deltaTime;
             Vector2 direction = (Obj.transform.position - this.transform.position).normalized;
-            ORigidBody.AddForce(-direction * KnockPower, ForceMode2D.Impulse);
+            ORigidBody.velocity=-direction * KnockPower;
 
             if (timer>KnockDur)
             {
@@ -60,7 +61,7 @@ public class Movement : MonoBehaviour
 
     public IEnumerator KnockBack(float KnockDuration, float Knockpower, Transform obj)
     {
-        Debug.Log("tqt");
+        ORigidBody.velocity = Vector3.zero;
         Charge = true;
         Obj = obj;
         KnockPower = Knockpower;

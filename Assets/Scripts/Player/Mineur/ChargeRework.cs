@@ -71,7 +71,7 @@ public class ChargeRework : MonoBehaviour
         if (DashTimer>0)
         {
             Debug.Log("Dash");
-            RbPlayer.AddForce(Direction * DashForce, ForceMode2D.Impulse);
+            RbPlayer.velocity=Direction * DashForce;
         }
         else
         {

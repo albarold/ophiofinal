@@ -9,12 +9,16 @@ public class GameMain : MonoBehaviour
     public static Parasitage type_;
 
 
+
+
+
     // Update is called once per frame
     void Update()
     {
         level = Parasitage.instance.Type;
         if (level == 0)
         {
+            
             Player.GetComponent<Movement>().enabled = true;
             Player.GetComponent<Parasitage>().enabled = true;
             Player.GetComponent<Récolte>().enabled = false;
@@ -27,6 +31,8 @@ public class GameMain : MonoBehaviour
         }
         if (level == 1)
         {
+           
+
             Player.GetComponent<Parasitage>().enabled = false;
             Player.GetComponent<Récolte>().enabled = true;
             Player.GetComponent<ChargeRework>().enabled = false;
@@ -38,6 +44,9 @@ public class GameMain : MonoBehaviour
         }
         if (level == 2)
         {
+
+         
+
             Player.GetComponent<Parasitage>().enabled = false;
             Player.GetComponent<Récolte>().enabled = false;
             Player.GetComponent<ChargeRework>().enabled = true;

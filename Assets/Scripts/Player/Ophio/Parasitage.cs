@@ -12,7 +12,9 @@ public class Parasitage : MonoBehaviour
     public bool parasiting;
     public int Plife;
     public float TempsCorrupt;
-    public float CoeurCorrupt; 
+    public float CoeurCorrupt;
+
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -60,6 +62,8 @@ public class Parasitage : MonoBehaviour
                 CoeurCorrupt = collision.GetComponentInChildren<HealthBar_Behavior>().Corrupt;
 
             Elife = collision.GetComponentInChildren<HealthBar_Behavior>().E_Life;
+
+            
 
 
         }
