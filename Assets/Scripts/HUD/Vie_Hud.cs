@@ -27,11 +27,19 @@ public class Vie_Hud : MonoBehaviour
         level = Parasitage.instance.Type;
         TimerInvin += Time.deltaTime;
 
-        if(level == 0)
+        if(level == 0 && VieOphio >= Life)
+        {            
+            VieOphio = Life;
+        }
+        else if (level == 0 && VieOphio <= Life)
         {
             Life = VieOphio;
         }
-        
+        else if (level != 0)
+        {
+            Player.GetComponent<Parasitage>().Plife = Life;
+        }
+
         Player.GetComponent<Parasitage>().Plife = Life;
 
         if (Life > NumOfHearts)
