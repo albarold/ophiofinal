@@ -7,7 +7,7 @@ public class Parasitage : MonoBehaviour
     public GameObject Player;
     public int Type;
     public float para;
-    private int Elife;
+    public int Elife;
     public static Parasitage instance;
     public bool parasiting;
     public int Plife;
@@ -99,9 +99,10 @@ public class Parasitage : MonoBehaviour
             collision.GetComponentInChildren<HealthBar_Behavior>().Corrupt = CoeurCorrupt;
             if (CoeurCorrupt >= Elife)
             {
+                Debug.Log("AddLife");
                 Type = 1;
                 Destroy(collision.gameObject);
-                Plife = Plife + Elife; 
+                Player.GetComponentInChildren<Vie_Hud>().Life = Plife + Elife; 
             }
         }
             
@@ -113,7 +114,7 @@ public class Parasitage : MonoBehaviour
             {
                 Type = 2;
                 Destroy(collision.gameObject);
-                Plife = Plife + Elife;
+                Player.GetComponentInChildren<Vie_Hud>().Life = Plife + Elife;
             }
         }
            
@@ -125,9 +126,10 @@ public class Parasitage : MonoBehaviour
             {
                 Type = 3;
                 Destroy(collision.gameObject);
-                Plife = Plife + Elife;
+                Player.GetComponentInChildren<Vie_Hud>().Life = Plife + Elife;
             }
         }
+
 
         if (collision.gameObject.CompareTag("Mort1"))
         {
