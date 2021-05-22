@@ -10,7 +10,7 @@ public class mine_nectar : MonoBehaviour
     public float timer;
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        Debug.Log("tqtmonreuf");
+
         if (collider.CompareTag("Player")&&Main.level!=0)
         {
             Start = true;
