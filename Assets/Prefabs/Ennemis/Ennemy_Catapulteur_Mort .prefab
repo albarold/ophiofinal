@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4960540843873295584}
   m_Layer: 0
   m_Name: 'Ennemy_Catapulteur_Mort '
-  m_TagString: Untagged
+  m_TagString: Mort3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

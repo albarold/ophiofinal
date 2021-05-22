@@ -11,7 +11,7 @@ public class ChargeRework : MonoBehaviour
     public float Speed1, Speed2, Speed3;
     public float  CoolDown2, CoolDown3;
     public float ChargementCharge;
-    
+    public GameObject mineurMort;
     private GameObject Player;
     private Rigidbody2D RbPlayer;
     private Vector2 Direction;
@@ -41,6 +41,13 @@ public class ChargeRework : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (Input.GetButton("Depara"))
+        {
+            Debug.Log("Depara");
+            Parasitage.instance.Type = 0;
+            Instantiate(mineurMort, new Vector3(transform.position.x, transform.position.y, 0), Quaternion.identity);
+        }
         if (RbPlayer.velocity==Vector2.zero)
         {
             charge = false;

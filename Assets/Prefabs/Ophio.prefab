@@ -466,7 +466,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2044745449
 Transform:
   m_ObjectHideFlags: 0
@@ -769,9 +769,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Degats: 0
+  Zone: 0
   Attaque: 0
   Elife: 0
   Edegat: 0
+  AttackObject: {fileID: 0}
+  recolteurMort: {fileID: 0}
+  DureAttaque: 0
+  tempsAnim: 0
 --- !u!114 &7364772870092347963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -922,6 +927,7 @@ MonoBehaviour:
   CurrentState: 
   CurrentAnim: 
   direction: {x: 0, y: 0}
+  transformInit: {x: 0, y: 0}
 --- !u!1001 &5818123862234698053
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1008,6 +1014,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917310601715716838, guid: d6c8b5a4eafe0ee4e8829853438a269b,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917310601715716838, guid: d6c8b5a4eafe0ee4e8829853438a269b,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 6917310601715716838, guid: d6c8b5a4eafe0ee4e8829853438a269b,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 1.19
       objectReference: {fileID: 0}
     - target: {fileID: 6917310601715716841, guid: d6c8b5a4eafe0ee4e8829853438a269b,
         type: 3}

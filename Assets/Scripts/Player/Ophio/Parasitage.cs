@@ -86,36 +86,7 @@ public class Parasitage : MonoBehaviour
 
 
         }
-
-
-        if (CoeurCorrupt >= Elife)
-        {
-            
-            if (collision.gameObject.CompareTag("Mort1"))
-            {
-                parasiting = true;
-                Type = 1;
-                Destroy(collision.gameObject);
-                //Plife = Plife + Elife; 
-
-            }
-
-            else if (collision.gameObject.CompareTag("Mort2"))
-            {
-                parasiting = true;
-                Type = 2;
-                Destroy(collision.gameObject);
-                //Plife = Plife + Elife; 
-            }
-
-            else if (collision.gameObject.CompareTag("Mort3"))
-            {
-                parasiting = true;
-                Type = 3;
-                Destroy(collision.gameObject);
-                //Plife = Plife + Elife; 
-            }
-        }
+           
     }
 
     private void OnTriggerStay2D(Collider2D collision)
@@ -157,6 +128,39 @@ public class Parasitage : MonoBehaviour
                 Plife = Plife + Elife;
             }
         }
+
+        if (collision.gameObject.CompareTag("Mort1"))
+        {
+            parasiting = true;
+            if (Input.GetButton("Parasitage"))
+            {
+                Type = 1;
+                Destroy(collision.gameObject);
+            }
+
+        }
+
+        else if (collision.gameObject.CompareTag("Mort2"))
+        {
+            parasiting = true;
+            if (Input.GetButton("Parasitage"))
+            {
+                Type = 2;
+                Destroy(collision.gameObject);
+            }
+
+        }
+
+        else if (collision.gameObject.CompareTag("Mort3"))
+        {
+            parasiting = true;
+            if (Input.GetButton("Parasitage"))
+            {
+                Type = 3;
+                Destroy(collision.gameObject);
+            }
+        }
+
     }
 
     private void OnTriggerExit2D(Collider2D collision)

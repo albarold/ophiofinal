@@ -15,6 +15,7 @@ public class GameMain : MonoBehaviour
         level = Parasitage.instance.Type;
         if (level == 0)
         {
+            Player.GetComponent<Movement>().enabled = true;
             Player.GetComponent<Parasitage>().enabled = true;
             Player.GetComponent<Récolte>().enabled = false;
             Player.GetComponent<ChargeRework>().enabled = false;
@@ -58,11 +59,7 @@ public class GameMain : MonoBehaviour
             Catapulteur.gameObject.SetActive(true);
         }
         
-        if (Input.GetMouseButtonDown(1))
-        {
-            level = 0;
-            Parasitage.instance.Type = 0;
-        }
+
         
     }
 }

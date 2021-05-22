@@ -9,9 +9,10 @@ public class Récolte : MonoBehaviour
     private Vector3 movement;
     public int Elife;
     public int Edegat;
-    public GameObject AttackObject;
+    public GameObject AttackObject, recolteurMort;
     public float DureAttaque;
     public float tempsAnim;
+    
    
     // Start is called before the first frame update
     void Start()
@@ -22,6 +23,12 @@ public class Récolte : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(Input.GetButton("Depara"))
+        {
+            Debug.Log("Depara");
+            Parasitage.instance.Type = 0;
+            Instantiate(recolteurMort, new Vector3(transform.position.x, transform.position.y, 0), Quaternion.identity);
+        }
 
         movement = Vector3.zero;
         movement.x = Input.GetAxisRaw("Horizontal");
