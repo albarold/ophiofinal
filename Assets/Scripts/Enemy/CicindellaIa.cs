@@ -4,8 +4,8 @@ using UnityEngine;
 
 
 public class CicindellaIa : MonoBehaviour
-{ 
-
+{
+    private bool InZone;
     private GameObject Player;
     public float MoveSpeed;
     public float DetectionDistance, ChargeDist;
@@ -34,7 +34,11 @@ public class CicindellaIa : MonoBehaviour
 
     void Update()
     {
-        Timer += Time.deltaTime;
+        if (InZone)
+        {
+            Timer += Time.deltaTime;
+        }
+        
 
         if (Charge)
         {
@@ -56,6 +60,7 @@ public class CicindellaIa : MonoBehaviour
         }
         else if (Vector3.Distance(transform.position, Player.transform.position) <= DetectionDistance && !Charge)
         {
+            InZone = true;
             transform.position = Vector3.MoveTowards(transform.position, Player.transform.position, MoveSpeed * Time.deltaTime);
         }
     }
@@ -63,11 +68,12 @@ public class CicindellaIa : MonoBehaviour
     {
         if (collision.gameObject != Player)
         {
+
             Charge = false;
             Timer = 0;
             chargement = 0;
         }
-        else
+        else if(Player.GetComponent<ChargeRework>().IsDashing == false)
         {
             
             if (Charge)
