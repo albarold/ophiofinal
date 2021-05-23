@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class CicindellaIa : MonoBehaviour
 {
+    [HideInInspector] public bool InArea=false;
+    public Vector2 Direction;
     private bool InZone;
     private GameObject Player;
     public float MoveSpeed;
@@ -13,6 +15,7 @@ public class CicindellaIa : MonoBehaviour
     public bool Charge;
     public int Degats, DegatsCharge;
     public float ChargementCharge;
+    public bool IsLoading;
 
     public float CoolDown;
 
@@ -34,6 +37,8 @@ public class CicindellaIa : MonoBehaviour
 
     void Update()
     {
+        
+       
         if (InZone)
         {
             Timer += Time.deltaTime;
@@ -45,17 +50,20 @@ public class CicindellaIa : MonoBehaviour
             chargement += Time.deltaTime;
             if (chargement < ChargementCharge)
             {
+                IsLoading = true;
                 GetComponent<Rigidbody2D>().velocity = Vector2.zero;
                 GetComponent<SpriteRenderer>().color = Color.red;
             }
             else
             {
+                IsLoading = false;
                 GetComponent<SpriteRenderer>().color = Color.blue;
                 GetComponent<Rigidbody2D>().velocity = (MovementDash) * ChargeSpeed;
             }
         }
         else
-        {
+        { 
+            Direction = Player.transform.position-transform.position;
             GetComponent<SpriteRenderer>().color = Color.white;
         }
 
@@ -63,11 +71,17 @@ public class CicindellaIa : MonoBehaviour
         {
             MovementDash = (Player.transform.position - transform.position).normalized;
             Charge = true;
+            InArea = true;
         }
         else if (Vector3.Distance(transform.position, Player.transform.position) <= DetectionDistance && !Charge)
         {
+            InArea = true;
             InZone = true;
             transform.position = Vector3.MoveTowards(transform.position, Player.transform.position, MoveSpeed * Time.deltaTime);
+        }
+        else
+        {
+            InArea = false;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
