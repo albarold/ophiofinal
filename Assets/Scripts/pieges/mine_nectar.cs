@@ -8,8 +8,12 @@ public class mine_nectar : MonoBehaviour
     public float ChargementAvantActivation;
     public bool Start = false;
     public float timer;
+   
+    
     private void OnTriggerEnter2D(Collider2D collider)
     {
+
+
 
         if (collider.CompareTag("Player")&&Main.level!=0)
         {
@@ -30,6 +34,10 @@ public class mine_nectar : MonoBehaviour
             timer += Time.deltaTime;
             if (timer >= ChargementAvantActivation)
             {
+                transform.GetChild(1).gameObject.SetActive(true);
+                transform.GetChild(2).gameObject.SetActive(false);
+
+
                 transform.GetChild(0).gameObject.SetActive(true);
                 timer = 0;
             }
