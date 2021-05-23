@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2300882346494987370}
   - component: {fileID: 6308327185387123459}
   - component: {fileID: 6308327185387123458}
-  - component: {fileID: 1543507142}
+  - component: {fileID: 2090745967}
   m_Layer: 0
   m_Name: Ennemy_Mineur
   m_TagString: Insecte2
@@ -48,17 +48,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5800b19b26fda0540a3f3e1d6e51ac55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveSpeed: 8
+  MoveSpeed: 10
   DetectionDistance: 10
-  ChargeDist: 3.75
-  ChargeSpeed: 200
+  ChargeDist: 4
+  ChargeSpeed: 250
   Charge: 0
   Degats: 1
   DegatsCharge: 2
   ChargementCharge: 0.25
   CoolDown: 1
-  KnockbackPower: 10
-  KnockBackDuration: 0.25
+  KnockbackPower: 20
+  KnockBackDuration: 0.5
 --- !u!114 &2300882346494987370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135,7 +135,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 0.0001
+  m_Mass: 9
   m_LinearDrag: 500
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -144,8 +144,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!70 &1543507142
-CapsuleCollider2D:
+--- !u!58 &2090745967
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -157,9 +157,9 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.12162399, y: 0.21013641}
-  m_Size: {x: 2.0356064, y: 2.1437225}
-  m_Direction: 0
+  m_Offset: {x: 0.13999999, y: 0.3854848}
+  serializedVersion: 2
+  m_Radius: 1.0950338
 --- !u!1001 &4678613049338603685
 PrefabInstance:
   m_ObjectHideFlags: 0

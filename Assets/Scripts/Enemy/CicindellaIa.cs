@@ -82,7 +82,7 @@ public class CicindellaIa : MonoBehaviour
             chargement = 0;
 
         }
-        else 
+        else if(Player.GetComponent<ChargeRework>().IsDashing==false)
         {
             
             if (Charge)
@@ -101,6 +101,14 @@ public class CicindellaIa : MonoBehaviour
                 StartCoroutine(Movement.instance.KnockBack(KnockBackDuration, KnockbackPower, this.transform));
             }
             
+        }
+
+        else
+        {
+            Charge = false;
+            Timer = 0;
+            chargement = 0;
+
         }
         
     }

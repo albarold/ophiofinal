@@ -18,7 +18,7 @@ public class ChargeRework : MonoBehaviour
     private Vector2 Direction;
     private float Speed;
     [HideInInspector] public float DuringDash;
-    public float DashTimer;
+    private float DashTimer;
 
     private float timer;
     public bool IsDashing = false;
