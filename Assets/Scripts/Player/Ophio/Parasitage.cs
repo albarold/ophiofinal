@@ -19,7 +19,7 @@ public class Parasitage : MonoBehaviour
     void Start()
     {
         Type = 0;
-        Plife = Player.GetComponentInChildren<Vie_Hud>().Life;
+       
     }
 
     private void Awake()
@@ -106,7 +106,7 @@ public class Parasitage : MonoBehaviour
                 Debug.Log("AddLife");
                 Type = 1;
                 Destroy(collision.gameObject);
-                Player.GetComponentInChildren<Vie_Hud>().Life = Plife + Elife; 
+                Player.GetComponentInChildren<Vie_Hud>().parasité =  Elife; 
             }
         }
             
@@ -118,7 +118,7 @@ public class Parasitage : MonoBehaviour
             {
                 Type = 2;
                 Destroy(collision.gameObject);
-                Player.GetComponentInChildren<Vie_Hud>().Life = Plife + Elife;
+                Player.GetComponentInChildren<Vie_Hud>().parasité = Elife;
             }
         }
            
@@ -130,7 +130,7 @@ public class Parasitage : MonoBehaviour
             {
                 Type = 3;
                 Destroy(collision.gameObject);
-                Player.GetComponentInChildren<Vie_Hud>().Life = Plife + Elife;
+                Player.GetComponentInChildren<Vie_Hud>().parasité = Elife;
             }
         }
 

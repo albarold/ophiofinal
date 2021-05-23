@@ -9,15 +9,16 @@ public class StopChargeDoor : MonoBehaviour
     { 
         if (collider.CompareTag("Player"))
         {
-            
-            if (collider.GetComponent<ChargeRework>().charge==true)
+            if (collider.GetComponent<ChargeRework>().enabled == true)
             {
-                collider.gameObject.GetComponent<Movement>().enabled = true;
-                Debug.Log("test");
-                collider.GetComponent<ChargeRework>().charge = false;
-                collider.GetComponent<ChargeRework>().DuringDash = 0;
+                if (collider.GetComponent<ChargeRework>().charge == true)
+                {
+                    collider.gameObject.GetComponent<Movement>().enabled = true;
+                    Debug.Log("test");
+                    collider.GetComponent<ChargeRework>().charge = false;
+                    collider.GetComponent<ChargeRework>().DuringDash = 0;
+                }
             }
-            
         }
     }
 }
