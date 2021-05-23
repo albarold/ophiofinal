@@ -34,13 +34,13 @@ public class Récolte : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         MoveCollider();
-        if (Zone)
-        {
-            if (Input.GetButton("Attaque"))
+        
+        
+        if (Input.GetButton("Attaque"))
             {
                 Attaque = true;
             }
-        }
+        
 
 
         if (Attaque && Zone)

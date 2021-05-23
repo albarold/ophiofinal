@@ -44,7 +44,7 @@ public class MovementIA : MonoBehaviour
         }
         else
         {
-            Attaque = false;
+            
             speed = ancienneSpeed;
             GetComponent<SpriteRenderer>().color = Color.white;
         }
@@ -97,30 +97,35 @@ public class MovementIA : MonoBehaviour
 
      public void MoveCollider(Vector2 direction)
     {
-        if(Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
+        if (Attaque == false)
         {
-            if(direction.x > 0)
+
+        
+            if(Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
             {
+                if(direction.x > 0)
+                {
                
-                AttackCollider.transform.rotation = Quaternion.Euler(0, 0, 0);
-            }
-            else if (direction.x < 0)
-            {
+                    AttackCollider.transform.rotation = Quaternion.Euler(0, 0, 0);
+                }
+                else if (direction.x < 0)
+                {
                 
-                AttackCollider.transform.rotation = Quaternion.Euler(0, 0, 180);
+                    AttackCollider.transform.rotation = Quaternion.Euler(0, 0, 180);
+                }
             }
-        }
-        else if (Mathf.Abs(direction.x) < Mathf.Abs(direction.y))
-        {
-            if (direction.y > 0)
+            else if (Mathf.Abs(direction.x) < Mathf.Abs(direction.y))
             {
+                if (direction.y > 0)
+                {
                 
-                AttackCollider.transform.rotation = Quaternion.Euler(0, 0, 90);
-            }
-            if (direction.y < 0)
-            {
+                    AttackCollider.transform.rotation = Quaternion.Euler(0, 0, 90);
+                }
+                if (direction.y < 0)
+                {
                 
-                AttackCollider.transform.rotation = Quaternion.Euler(0, 0, -90);
+                    AttackCollider.transform.rotation = Quaternion.Euler(0, 0, -90);
+                }
             }
         }
     }
