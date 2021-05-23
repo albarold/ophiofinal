@@ -17,6 +17,13 @@ public class Vie_Hud : MonoBehaviour
     public Image[] hearts;
     public Sprite FullHeart;
     public Sprite EmptyHeart;
+
+    public Image[] Hcorrupt;
+    public Sprite Fullcorrupt;
+    public Sprite Emptycorrupt;
+
+    public int parasité;
+    public int NumOfParasité;
     private void Start()
     {
         Player = this.gameObject;
@@ -30,18 +37,20 @@ public class Vie_Hud : MonoBehaviour
         if(level == 0 && VieOphio >= Life)
         {            
             VieOphio = Life;
+            parasité = 0;
         }
         else if (level == 0 && VieOphio <= Life)
         {
             Life = VieOphio;
+            parasité = 0;
         }
         else if (level != 0)
         {
-            Player.GetComponent<Parasitage>().Plife = Life;
+            Player.GetComponent<Parasitage>().Plife = parasité;
         }
 
-        Player.GetComponent<Parasitage>().Plife = Life;
-
+        Player.GetComponent<Parasitage>().Plife = parasité;
+        //vie Ophio
         if (Life > NumOfHearts)
         {
             Life = NumOfHearts;
@@ -69,6 +78,35 @@ public class Vie_Hud : MonoBehaviour
 
         }
 
+        //vie Parasité
+
+        if (parasité > NumOfParasité)
+        {
+            parasité = NumOfParasité;
+        }
+        for (int i = 0; i < Hcorrupt.Length; i++)
+        {
+
+            if (i < parasité)
+            {
+                Hcorrupt[i].sprite = Fullcorrupt;
+            }
+            else
+            {
+                Hcorrupt[i].sprite = Emptycorrupt;
+            }
+
+            if (i < NumOfParasité)
+            {
+                Hcorrupt[i].enabled = true;
+            }
+            else
+            {
+                Hcorrupt[i].enabled = false;
+            }
+
+        }
+
 
 
         if (Life == 0)
@@ -85,13 +123,18 @@ public class Vie_Hud : MonoBehaviour
         if (Player.GetComponent<ChargeRework>().IsDashing == false)
         {
 
-
             if (InvincibiliteTps <= TimerInvin)
             {
-                Life -= degats;
+                if (parasité == 0)
+                {
+                    Life -= degats;
+                }
+                else if(parasité > 0)
+                {
+                    parasité -= degats;
+                }
                 TimerInvin = 0;
             }
-
         }
     }
 }
