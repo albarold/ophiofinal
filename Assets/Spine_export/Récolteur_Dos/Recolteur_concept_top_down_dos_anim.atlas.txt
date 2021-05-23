@@ -1,0 +1,97 @@
+
+Recolteur_concept_top_down_dos_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+carapace
+  rotate: true
+  xy: 2, 199
+  size: 255, 356
+  orig: 258, 358
+  offset: 1, 1
+  index: -1
+corps
+  rotate: false
+  xy: 360, 119
+  size: 355, 279
+  orig: 358, 281
+  offset: 2, 1
+  index: -1
+corps2
+  rotate: false
+  xy: 591, 400
+  size: 303, 227
+  orig: 305, 236
+  offset: 1, 1
+  index: -1
+oeil1
+  rotate: true
+  xy: 572, 841
+  size: 156, 408
+  orig: 156, 408
+  offset: 0, 0
+  index: -1
+oeil2
+  rotate: true
+  xy: 2, 719
+  size: 156, 408
+  orig: 156, 408
+  offset: 0, 0
+  index: -1
+ombre
+  rotate: false
+  xy: 214, 456
+  size: 375, 205
+  orig: 377, 207
+  offset: 1, 1
+  index: -1
+patte1
+  rotate: true
+  xy: 2, 894
+  size: 103, 201
+  orig: 103, 201
+  offset: 0, 0
+  index: -1
+patte2
+  rotate: true
+  xy: 205, 891
+  size: 106, 201
+  orig: 106, 201
+  offset: 0, 0
+  index: -1
+patte3
+  rotate: true
+  xy: 412, 663
+  size: 176, 199
+  orig: 176, 199
+  offset: 0, 0
+  index: -1
+patte4
+  rotate: true
+  xy: 613, 663
+  size: 176, 199
+  orig: 176, 199
+  offset: 0, 0
+  index: -1
+patte5
+  rotate: false
+  xy: 814, 629
+  size: 183, 210
+  orig: 183, 210
+  offset: 0, 0
+  index: -1
+patte6
+  rotate: true
+  xy: 2, 534
+  size: 183, 210
+  orig: 183, 210
+  offset: 0, 0
+  index: -1
+trompe
+  rotate: true
+  xy: 408, 877
+  size: 120, 162
+  orig: 120, 162
+  offset: 0, 0
+  index: -1

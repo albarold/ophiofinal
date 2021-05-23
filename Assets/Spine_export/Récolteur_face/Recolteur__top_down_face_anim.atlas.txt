@@ -1,0 +1,111 @@
+
+Recolteur__top_down_face_anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+récolteurface/antenne1
+  rotate: false
+  xy: 312, 399
+  size: 177, 451
+  orig: 177, 451
+  offset: 0, 0
+  index: -1
+récolteurface/antenne2
+  rotate: true
+  xy: 272, 220
+  size: 177, 451
+  orig: 177, 451
+  offset: 0, 0
+  index: -1
+récolteurface/carapace
+  rotate: false
+  xy: 2, 533
+  size: 308, 317
+  orig: 310, 319
+  offset: 1, 1
+  index: -1
+récolteurface/corps
+  rotate: false
+  xy: 494, 617
+  size: 351, 401
+  orig: 354, 403
+  offset: 2, 1
+  index: -1
+récolteurface/corps2
+  rotate: true
+  xy: 2, 16
+  size: 243, 251
+  orig: 246, 253
+  offset: 1, 1
+  index: -1
+récolteurface/oeil
+  rotate: false
+  xy: 949, 515
+  size: 69, 149
+  orig: 71, 151
+  offset: 1, 1
+  index: -1
+récolteurface/oeil2
+  rotate: false
+  xy: 563, 69
+  size: 69, 149
+  orig: 71, 151
+  offset: 1, 1
+  index: -1
+récolteurface/ombre
+  rotate: false
+  xy: 2, 852
+  size: 490, 166
+  orig: 492, 168
+  offset: 1, 1
+  index: -1
+récolteurface/patte1
+  rotate: false
+  xy: 725, 134
+  size: 258, 270
+  orig: 258, 270
+  offset: 0, 0
+  index: -1
+récolteurface/patte2
+  rotate: false
+  xy: 2, 261
+  size: 268, 270
+  orig: 268, 270
+  offset: 0, 0
+  index: -1
+récolteurface/patte3
+  rotate: true
+  xy: 720, 406
+  size: 209, 227
+  orig: 209, 227
+  offset: 0, 0
+  index: -1
+récolteurface/patte4
+  rotate: true
+  xy: 491, 401
+  size: 214, 227
+  orig: 591, 227
+  offset: 377, 0
+  index: -1
+récolteurface/patte5
+  rotate: false
+  xy: 847, 843
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+récolteurface/patte6
+  rotate: false
+  xy: 847, 666
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+récolteurface/trompe
+  rotate: true
+  xy: 255, 107
+  size: 111, 306
+  orig: 111, 306
+  offset: 0, 0
+  index: -1
