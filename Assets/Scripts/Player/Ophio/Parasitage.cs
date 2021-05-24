@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Parasitage : MonoBehaviour
 {
-    public GameObject Player;
+    public GameObject Player, FxParasite;
     public int Type;
     public float para;
     public int Elife;
@@ -18,18 +18,21 @@ public class Parasitage : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        FxParasite.SetActive(false);
         Type = 0;
        
     }
 
     private void Awake()
     {
+        FxParasite.SetActive(false);
         instance = this;
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         if (parasiting)
         {
             if (Input.GetButton("Parasitage"))
@@ -37,8 +40,16 @@ public class Parasitage : MonoBehaviour
                 para += Time.deltaTime;                
             }
         }
+         if (Input.GetButtonUp("Parasitage"))
+        {
+            FxParasite.SetActive(false);
+        }
+        if (Input.GetButtonDown("Parasitage"))
+        {
+            FxParasite.SetActive(true);
+        }
 
-        if(para >= TempsCorrupt)
+        if (para >= TempsCorrupt)
         {
             CoeurCorrupt = CoeurCorrupt + 1;
             para = 0;
