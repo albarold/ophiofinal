@@ -15,6 +15,7 @@ public class GameMain : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Time.timeScale = 1;
         level = Parasitage.instance.Type;
         if (level == 0)
         {

@@ -16,7 +16,7 @@ public class Nectar_Ground : MonoBehaviour
         {
             Nectar_Manager.Nectar = Nectar_Manager.Nectar + Nectar_Amount;
             Destroy(gameObject);
-            Player.GetComponent<Vie_Hud>().TakeDamage(-GainVie);
+            Player.GetComponent<Vie_Hud>().Life += GainVie ;
         }
     }
     private void OnTriggerEnter2D(Collider2D collider)
