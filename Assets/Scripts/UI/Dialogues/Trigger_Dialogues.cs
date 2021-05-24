@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Trigger_Dialogues : MonoBehaviour
 {
+    public GameObject Fond;
     public GameObject[] Phrases;
     public float SkipCoolDown;
 
@@ -15,7 +16,7 @@ public class Trigger_Dialogues : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("Sprint") && GamePaused)
+        if (Input.GetButtonDown("Attaque") && GamePaused)
         {
             Phrases[PhraseIndex].SetActive(false);
             PhraseIndex++;
@@ -23,6 +24,7 @@ public class Trigger_Dialogues : MonoBehaviour
             {
                 Resume();
                 PhraseIndex = 0;
+                
             }
             else
             {
@@ -45,11 +47,13 @@ public class Trigger_Dialogues : MonoBehaviour
     
     public void Resume()
     {
+        Fond.SetActive(false);
         GamePaused = false;
         Time.timeScale = 1;
     }
     void Pause()
     {
+        Fond.SetActive(true);
         GamePaused = true;
         Time.timeScale = 0;
 

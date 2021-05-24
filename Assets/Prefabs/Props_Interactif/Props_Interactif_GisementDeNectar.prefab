@@ -128,8 +128,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27549902d405f754f8154d2172e7fe85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Player: {fileID: 0}
   Nectar_Amount: 5
   Timer: 0
   Temps_Exctraction: 1
   Nectar_Manager: {fileID: 0}
-  scaleChange: {x: -1, y: -1, z: -1}

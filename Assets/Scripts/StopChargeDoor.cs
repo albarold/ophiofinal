@@ -9,7 +9,7 @@ public class StopChargeDoor : MonoBehaviour
     { 
         if (collider.CompareTag("Player"))
         {
-            if (collider.GetComponent<ChargeRework>().enabled == true)
+            if (collider.GetComponent<ChargeRework>() != null)
             {
                 if (collider.GetComponent<ChargeRework>().charge == true)
                 {

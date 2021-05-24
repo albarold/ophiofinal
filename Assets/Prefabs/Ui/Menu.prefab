@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &4087258846843963872
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1158,6 +1158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b8ad1f69051c204d98cc7cf06051f5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Nectar_Text: {fileID: 0}
   Nectar: 50
 --- !u!222 &3153316123471640084
 CanvasRenderer:

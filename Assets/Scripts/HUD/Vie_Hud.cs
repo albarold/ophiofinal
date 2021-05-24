@@ -7,6 +7,7 @@ public class Vie_Hud : MonoBehaviour
 {
     [HideInInspector]public int ReviveLife;
     [HideInInspector]public bool Revive =false;
+    
 
     public float TimerInvin;
     private GameObject Player;
@@ -26,6 +27,7 @@ public class Vie_Hud : MonoBehaviour
 
     public int parasité;
     public int NumOfParasité;
+    public GameObject Gameover;
     private void Start()
     {
         Player = this.gameObject;
@@ -106,7 +108,7 @@ public class Vie_Hud : MonoBehaviour
 
 
 
-        if (Life == 0)
+        if (Life <= 0)
         {
             if (Revive)
             {
@@ -116,7 +118,8 @@ public class Vie_Hud : MonoBehaviour
             }
             else
             {
-                //Destroy(Player);
+                Gameover.SetActive(true);
+
             }
             
         }

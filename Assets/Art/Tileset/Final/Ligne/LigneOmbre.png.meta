@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 58f04e2075ce3544cbba6f7f41fe86df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1374789900702948188
+    second: LigneOmbre_0
+  - first:
+      213: -6854168475226703409
+    second: LigneOmbre_1
+  - first:
+      213: 1528391570901191932
+    second: LigneOmbre_2
+  - first:
+      213: -3485542773980076614
+    second: LigneOmbre_3
+  - first:
+      213: 8848563944459445663
+    second: LigneOmbre_4
+  - first:
+      213: 2641154070331536220
+    second: LigneOmbre_5
+  - first:
+      213: -3128778680040967689
+    second: LigneOmbre_6
+  - first:
+      213: -8699061789246826188
+    second: LigneOmbre_7
+  - first:
+      213: -7776786531397522941
+    second: LigneOmbre_8
+  - first:
+      213: 4123710083584184947
+    second: LigneOmbre_9
+  - first:
+      213: 7091413137452832568
+    second: LigneOmbre_10
+  - first:
+      213: 6404585967924178693
+    second: LigneOmbre_11
+  - first:
+      213: -7192617875904409734
+    second: LigneOmbre_12
+  - first:
+      213: -306319602672168634
+    second: LigneOmbre_13
+  - first:
+      213: -7743957135607248022
+    second: LigneOmbre_14
+  - first:
+      213: 4243266058635822993
+    second: LigneOmbre_15
+  - first:
+      213: -5410130700712107342
+    second: LigneOmbre_16
+  - first:
+      213: -7096029759810644765
+    second: LigneOmbre_17
+  - first:
+      213: 382891082899376740
+    second: LigneOmbre_18
+  - first:
+      213: -1391247072668199537
+    second: LigneOmbre_19
+  - first:
+      213: 7193498558661313544
+    second: LigneOmbre_20
+  - first:
+      213: -8646292901382122572
+    second: LigneOmbre_21
+  - first:
+      213: 5956636422707784660
+    second: LigneOmbre_22
+  - first:
+      213: -7244141580816544597
+    second: LigneOmbre_23
+  - first:
+      213: 7127248994847237025
+    second: LigneOmbre_24
+  - first:
+      213: -3044639903662170923
+    second: LigneOmbre_25
+  - first:
+      213: 2625743919086861643
+    second: LigneOmbre_26
+  - first:
+      213: 5959959289749361714
+    second: LigneOmbre_27
+  - first:
+      213: 2102631492355192499
+    second: LigneOmbre_28
+  - first:
+      213: 4396138123327405063
+    second: LigneOmbre_29
+  - first:
+      213: 4947369704299111957
+    second: LigneOmbre_30
+  - first:
+      213: 942106884838466305
+    second: LigneOmbre_31
+  - first:
+      213: -8882365662308325
+    second: LigneOmbre_32
+  - first:
+      213: -3038723000372312577
+    second: LigneOmbre_33
+  - first:
+      213: 7176355946498568314
+    second: LigneOmbre_34
+  - first:
+      213: 5336652064100672390
+    second: LigneOmbre_35
+  - first:
+      213: 4542557839354697299
+    second: LigneOmbre_36
+  - first:
+      213: 6931228973930425337
+    second: LigneOmbre_37
+  - first:
+      213: 1235937404719106586
+    second: LigneOmbre_38
+  - first:
+      213: -4469821403626091361
+    second: LigneOmbre_39
+  - first:
+      213: -485319865532349510
+    second: LigneOmbre_40
+  - first:
+      213: 2046458867467739666
+    second: LigneOmbre_41
+  - first:
+      213: -4563618032759583368
+    second: LigneOmbre_42
+  - first:
+      213: -489242017742346076
+    second: LigneOmbre_43
+  - first:
+      213: 4314608282189886548
+    second: LigneOmbre_44
+  - first:
+      213: -740655834170941574
+    second: LigneOmbre_45
+  - first:
+      213: -4300699942951114258
+    second: LigneOmbre_46
+  - first:
+      213: -6512847117508258726
+    second: LigneOmbre_47
+  - first:
+      213: -3651452840708008243
+    second: LigneOmbre_48
+  - first:
+      213: -5658483448218115140
+    second: LigneOmbre_49
+  - first:
+      213: -3674846875908168867
+    second: LigneOmbre_50
+  - first:
+      213: -1622362735141532932
+    second: LigneOmbre_51
+  - first:
+      213: -473212665458553721
+    second: LigneOmbre_52
+  - first:
+      213: 7645197735737058625
+    second: LigneOmbre_53
+  - first:
+      213: -5543278505098380867
+    second: LigneOmbre_54
+  - first:
+      213: -4956216461326377591
+    second: LigneOmbre_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LigneOmbre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9138712c341310800000000000000
+      internalID: 1374789900702948188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc97e63361a11e0a0800000000000000
+      internalID: -6854168475226703409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc44453900f53510800000000000000
+      internalID: 1528391570901191932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ec73705dd0afc0800000000000000
+      internalID: -3485542773980076614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a5d9960a6cca70800000000000000
+      internalID: 8848563944459445663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53303f22a347a420800000000000000
+      internalID: 2641154070331536220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1b7531e585494d0800000000000000
+      internalID: -3128778680040967689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d4cc6469b64780800000000000000
+      internalID: -8699061789246826188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a22065add431490800000000000000
+      internalID: -7776786531397522941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725bb0097c5a3930800000000000000
+      internalID: 4123710083584184947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371a653da2c96260800000000000000
+      internalID: 7091413137452832568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f629f3109a1e850800000000000000
+      internalID: 6404585967924178693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fc7956620be2c90800000000000000
+      internalID: -7192617875904409734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6419cfeb1fbbfbbf0800000000000000
+      internalID: -306319602672168634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4740b300f78490800000000000000
+      internalID: -7743957135607248022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c570affb13ea30800000000000000
+      internalID: 4243266058635822993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ae93baca5be4b0800000000000000
+      internalID: -5410130700712107342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4d2e2a786d58d90800000000000000
+      internalID: -7096029759810644765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac1e7496d405500800000000000000
+      internalID: 382891082899376740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855fc6982c41bce0800000000000000
+      internalID: -1391247072668199537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ca4983d074d360800000000000000
+      internalID: 7193498558661313544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3132d8a62320880800000000000000
+      internalID: -8646292901382122572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba6af44493aa250800000000000000
+      internalID: 5956636422707784660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac0bc40d93a77b90800000000000000
+      internalID: -7244141580816544597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a321a3f23319e260800000000000000
+      internalID: 7127248994847237025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc9c3983244fb5d0800000000000000
+      internalID: -3044639903662170923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7050ce24807420800000000000000
+      internalID: 2625743919086861643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_27
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234dc45956706b250800000000000000
+      internalID: 5959959289749361714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6716bb33c0e2d10800000000000000
+      internalID: 2102631492355192499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c7b78d458320d30800000000000000
+      internalID: 4396138123327405063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_30
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5162745a88698a440800000000000000
+      internalID: 4947369704299111957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_31
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032f336839031d00800000000000000
+      internalID: 942106884838466305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18dee5198170eff0800000000000000
+      internalID: -8882365662308325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5cfffe78944d5d0800000000000000
+      internalID: -3038723000372312577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703fcc16b9879360800000000000000
+      internalID: 7176355946498568314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_35
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683639a07c89f0a40800000000000000
+      internalID: 5336652064100672390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356176299486a0f30800000000000000
+      internalID: 4542557839354697299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba400570ca03060800000000000000
+      internalID: 6931228973930425337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a86e4758ee62110800000000000000
+      internalID: 1235937404719106586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ccd639d1108f1c0800000000000000
+      internalID: -4469821403626091361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30184572cc349f0800000000000000
+      internalID: -485319865532349510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212ecd25f7b766c10800000000000000
+      internalID: 2046458867467739666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d4cca0495caa0c0800000000000000
+      internalID: -4563618032759583368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_43
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8a54b1afcd539f0800000000000000
+      internalID: -489242017742346076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454f2e47f5190eb30800000000000000
+      internalID: 4314608282189886548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_45
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9b676179a8b5f0800000000000000
+      internalID: -740655834170941574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee92bde1038d054c0800000000000000
+      internalID: -4300699942951114258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545e7c9d08bd95a0800000000000000
+      internalID: -6512847117508258726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61283dcfe635dc0800000000000000
+      internalID: -3651452840708008243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32885a8470971b0800000000000000
+      internalID: -5658483448218115140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532a8d8c32500dc0800000000000000
+      internalID: -3674846875908168867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_51
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cface0320b53c79e0800000000000000
+      internalID: -1622362735141532932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c8024869fce69f0800000000000000
+      internalID: -473212665458553721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456a3ca5d2391a60800000000000000
+      internalID: 7645197735737058625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db97d84b1915213b0800000000000000
+      internalID: -5543278505098380867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigneOmbre_55
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d92b8336bf73bb0800000000000000
+      internalID: -4956216461326377591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

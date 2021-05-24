@@ -42,6 +42,6 @@ public class MainMenu : MonoBehaviour
 
     public void Jouer()
     {
-        SceneManager.LoadScene("BuildT");
+        SceneManager.LoadScene("BuildT 1");
     }
 }

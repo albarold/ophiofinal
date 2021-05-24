@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MovementIA : MonoBehaviour
 {
-    
+    [HideInInspector]public Vector2 Direction;
     public bool InDistance;
     public float speed;
     private float ancienneSpeed;
@@ -88,10 +88,14 @@ public class MovementIA : MonoBehaviour
     {
         if (Vector3.Distance(Player.position, transform.position) <= RayonDetection && Vector3.Distance(Player.position, transform.position) > RayonAttaque)
         {
-            
+            Direction = Player.transform.position - transform.position;
             transform.position = Vector3.MoveTowards(transform.position, Player.position, speed * Time.deltaTime);
             InDistance = true;
             MoveCollider(transform.position - Player.position);
+        }
+        else
+        {
+            InDistance = false;
         }
     }
 
