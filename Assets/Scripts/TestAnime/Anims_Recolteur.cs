@@ -21,26 +21,26 @@ public class Anims_Recolteur : MonoBehaviour
     [Header("Animation side")]
     public AnimationReferenceAsset idle;
     public AnimationReferenceAsset marche;
-    public AnimationReferenceAsset dash;
-    [Header("charge")]
-    public AnimationReferenceAsset set;
-    public AnimationReferenceAsset charge;
+
+    [Header("Pompe")]
+    public AnimationReferenceAsset Atk;
+    public AnimationReferenceAsset Pompe;
 
     [Header("Animation front")]
     public AnimationReferenceAsset idleF;
     public AnimationReferenceAsset marcheF;
-    public AnimationReferenceAsset dashF;
-    [Header("charge")]
-    public AnimationReferenceAsset setF;
-    public AnimationReferenceAsset chargeF;
+
+    [Header("Pompe")]
+    public AnimationReferenceAsset AtkF;
+    public AnimationReferenceAsset PompeF;
 
     [Header("Animation back")]
     public AnimationReferenceAsset idleB;
     public AnimationReferenceAsset marcheB;
-    public AnimationReferenceAsset dashB;
-    [Header("charge")]
-    public AnimationReferenceAsset setB;
-    public AnimationReferenceAsset chargeB;
+
+    [Header("Pompe")]
+    public AnimationReferenceAsset AtkB;
+    public AnimationReferenceAsset PompeB;
 
     public string CurrentState;
     public string CurrentAnim;
@@ -86,10 +86,11 @@ public class Anims_Recolteur : MonoBehaviour
                     SideObject.SetActive(true);
                 }
 
-                if (this.GetComponentInParent<ChargeRework>().IsDashing == false && this.GetComponentInParent<ChargeRework>().charge == false && this.GetComponentInParent<ChargeRework>().DuringChargement == false)
+                if (this.GetComponentInParent<Récolte>().Attaque == false && this.GetComponentInParent<Récolte>().Pomping == false)
                 {
                     SetCharacterState("walking");
                 }
+
             }
             else
             {
@@ -111,7 +112,7 @@ public class Anims_Recolteur : MonoBehaviour
                     Back = false;
                     Skeleton = Skeleton_F;
                 }
-                if (this.GetComponentInParent<ChargeRework>().IsDashing == false && this.GetComponentInParent<ChargeRework>().charge == false && this.GetComponentInParent<ChargeRework>().DuringChargement == false)
+                if (this.GetComponentInParent<Récolte>().Attaque == false && this.GetComponentInParent<Récolte>().Pomping == false)
                 {
                     SetCharacterState("walking");
                 }
@@ -119,7 +120,7 @@ public class Anims_Recolteur : MonoBehaviour
         }
         else
         {
-            if (this.GetComponentInParent<ChargeRework>().IsDashing == false && this.GetComponentInParent<ChargeRework>().charge == false && this.GetComponentInParent<ChargeRework>().DuringChargement == false)
+            if (this.GetComponentInParent<Récolte>().Attaque == false && this.GetComponentInParent<Récolte>().Pomping == false)
             {
                 SetCharacterState("idle");
             }
@@ -129,60 +130,47 @@ public class Anims_Recolteur : MonoBehaviour
 
     public void SetAnim(AnimationReferenceAsset animation, bool loop, float timescale)
     {
+
         if (animation.name.Equals(CurrentAnim))
         {
             return;
-        }
-        Skeleton.state.SetAnimation(0, animation, loop).TimeScale = timescale;
+        }        
         CurrentAnim = animation.name;
+        Skeleton.state.SetAnimation(0, animation, loop).TimeScale = timescale;
+        
     }
 
     public void SetCharacterState(string state)
     {
-        if (state.Equals("dash"))
+        
+        if (state.Equals("Atk"))
         {
             if (Front)
             {
-                SetAnim(dashF, true, 2f);
+                SetAnim(AtkF, true, 2f);
             }
             else if (Back)
             {
-                SetAnim(dashB, true, 2f);
+                SetAnim(AtkB, true, 2f);
             }
             else
             {
-                SetAnim(dash, true, 2f);
-            }
-
-        }
-        else if (state.Equals("set"))
-        {
-            if (Front)
-            {
-                SetAnim(setF, true, 2f);
-            }
-            else if (Back)
-            {
-                SetAnim(setB, true, 2f);
-            }
-            else
-            {
-                SetAnim(set, true, 2f);
+                SetAnim(Atk, true, 2f);
             }
         }
-        else if (state.Equals("charge"))
+        else if (state.Equals("Pompe"))
         {
             if (Front)
             {
-                SetAnim(chargeF, true, 2f);
+                SetAnim(PompeF, true, 2f);
             }
             else if (Back)
             {
-                SetAnim(chargeB, true, 2f);
+                SetAnim(PompeB, true, 2f);
             }
             else
             {
-                SetAnim(charge, true, 2f);
+                SetAnim(Pompe, true, 2f);
             }
         }
         else if (state.Equals("walking"))
@@ -219,18 +207,15 @@ public class Anims_Recolteur : MonoBehaviour
     }
     public void CheckDash()
     {
-        if (this.GetComponentInParent<ChargeRework>().IsDashing == true)
+        if (this.GetComponentInParent<Récolte>().Attaque == true)
         {
-            SetCharacterState("dash");
+            SetCharacterState("Atk");
         }
-        if (this.GetComponentInParent<ChargeRework>().charge == true)
+        if (this.GetComponentInParent<Récolte>().Pomping == true)
         {
-            SetCharacterState("charge");
+            SetCharacterState("Pompe");
         }
-        if (this.GetComponentInParent<ChargeRework>().DuringChargement == true)
-        {
-            SetCharacterState("set");
-        }
+        
 
     }
 }
