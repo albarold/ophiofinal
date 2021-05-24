@@ -1,0 +1,2552 @@
+fileFormatVersion: 2
+guid: aea7a7ae273fa4549a3ab94c51ec8ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5746148706578258394
+    second: Tilest_Zone_Catapulteurv2_02_0
+  - first:
+      213: 3958291293720026505
+    second: Tilest_Zone_Catapulteurv2_02_1
+  - first:
+      213: -3563401513879765097
+    second: Tilest_Zone_Catapulteurv2_02_2
+  - first:
+      213: -1199092026035536996
+    second: Tilest_Zone_Catapulteurv2_02_3
+  - first:
+      213: -273845628496346393
+    second: Tilest_Zone_Catapulteurv2_02_4
+  - first:
+      213: -6149104872968814771
+    second: Tilest_Zone_Catapulteurv2_02_5
+  - first:
+      213: 38226996405801513
+    second: Tilest_Zone_Catapulteurv2_02_6
+  - first:
+      213: -5266329023302103156
+    second: Tilest_Zone_Catapulteurv2_02_7
+  - first:
+      213: -1186693863259232182
+    second: Tilest_Zone_Catapulteurv2_02_8
+  - first:
+      213: 7439289057737187854
+    second: Tilest_Zone_Catapulteurv2_02_9
+  - first:
+      213: -1904298234617720808
+    second: Tilest_Zone_Catapulteurv2_02_10
+  - first:
+      213: 5557223424985135403
+    second: Tilest_Zone_Catapulteurv2_02_11
+  - first:
+      213: -1365013596778026195
+    second: Tilest_Zone_Catapulteurv2_02_12
+  - first:
+      213: -17167223925209296
+    second: Tilest_Zone_Catapulteurv2_02_13
+  - first:
+      213: -2768302797129733815
+    second: Tilest_Zone_Catapulteurv2_02_14
+  - first:
+      213: -3477945188437303138
+    second: Tilest_Zone_Catapulteurv2_02_15
+  - first:
+      213: 1931514474154854500
+    second: Tilest_Zone_Catapulteurv2_02_16
+  - first:
+      213: 4584229352590495186
+    second: Tilest_Zone_Catapulteurv2_02_17
+  - first:
+      213: -3116325570435764712
+    second: Tilest_Zone_Catapulteurv2_02_18
+  - first:
+      213: 5593556481364359253
+    second: Tilest_Zone_Catapulteurv2_02_19
+  - first:
+      213: 5765131632622028799
+    second: Tilest_Zone_Catapulteurv2_02_20
+  - first:
+      213: 8040618315913942796
+    second: Tilest_Zone_Catapulteurv2_02_21
+  - first:
+      213: 6685215032490594939
+    second: Tilest_Zone_Catapulteurv2_02_22
+  - first:
+      213: -3450177009611033059
+    second: Tilest_Zone_Catapulteurv2_02_23
+  - first:
+      213: 6123166560463788202
+    second: Tilest_Zone_Catapulteurv2_02_24
+  - first:
+      213: -2013331804684695839
+    second: Tilest_Zone_Catapulteurv2_02_25
+  - first:
+      213: -8104534742433952839
+    second: Tilest_Zone_Catapulteurv2_02_26
+  - first:
+      213: 2727120119483384915
+    second: Tilest_Zone_Catapulteurv2_02_27
+  - first:
+      213: -5462481201389699339
+    second: Tilest_Zone_Catapulteurv2_02_28
+  - first:
+      213: 5503732191343869197
+    second: Tilest_Zone_Catapulteurv2_02_29
+  - first:
+      213: 2568683387504305909
+    second: Tilest_Zone_Catapulteurv2_02_30
+  - first:
+      213: 3090623640006673533
+    second: Tilest_Zone_Catapulteurv2_02_31
+  - first:
+      213: -6500219070262496099
+    second: Tilest_Zone_Catapulteurv2_02_32
+  - first:
+      213: -31917587533665959
+    second: Tilest_Zone_Catapulteurv2_02_33
+  - first:
+      213: -3626444475641889938
+    second: Tilest_Zone_Catapulteurv2_02_34
+  - first:
+      213: -4291349768505839212
+    second: Tilest_Zone_Catapulteurv2_02_35
+  - first:
+      213: -2857062948446198545
+    second: Tilest_Zone_Catapulteurv2_02_36
+  - first:
+      213: 6298370789126537149
+    second: Tilest_Zone_Catapulteurv2_02_37
+  - first:
+      213: -3289248081555232253
+    second: Tilest_Zone_Catapulteurv2_02_38
+  - first:
+      213: 3473718333909432084
+    second: Tilest_Zone_Catapulteurv2_02_39
+  - first:
+      213: -3843822519339271542
+    second: Tilest_Zone_Catapulteurv2_02_40
+  - first:
+      213: 7796940572816294516
+    second: Tilest_Zone_Catapulteurv2_02_41
+  - first:
+      213: 7801899430587362368
+    second: Tilest_Zone_Catapulteurv2_02_42
+  - first:
+      213: 1077734579948618747
+    second: Tilest_Zone_Catapulteurv2_02_43
+  - first:
+      213: 767848048398384596
+    second: Tilest_Zone_Catapulteurv2_02_44
+  - first:
+      213: -3719238971972571238
+    second: Tilest_Zone_Catapulteurv2_02_45
+  - first:
+      213: 3744149717642520022
+    second: Tilest_Zone_Catapulteurv2_02_46
+  - first:
+      213: 7528286734663547939
+    second: Tilest_Zone_Catapulteurv2_02_47
+  - first:
+      213: -5383279757846057399
+    second: Tilest_Zone_Catapulteurv2_02_48
+  - first:
+      213: 5528764414611573454
+    second: Tilest_Zone_Catapulteurv2_02_49
+  - first:
+      213: -2956479339639082713
+    second: Tilest_Zone_Catapulteurv2_02_50
+  - first:
+      213: -3262364854325852331
+    second: Tilest_Zone_Catapulteurv2_02_51
+  - first:
+      213: -9200440854270919207
+    second: Tilest_Zone_Catapulteurv2_02_52
+  - first:
+      213: -3414499987451585576
+    second: Tilest_Zone_Catapulteurv2_02_53
+  - first:
+      213: 8198756898092111140
+    second: Tilest_Zone_Catapulteurv2_02_54
+  - first:
+      213: -5708552950756841514
+    second: Tilest_Zone_Catapulteurv2_02_55
+  - first:
+      213: -7340828276727335862
+    second: Tilest_Zone_Catapulteurv2_02_56
+  - first:
+      213: -8320911020721901993
+    second: Tilest_Zone_Catapulteurv2_02_57
+  - first:
+      213: -6740022827044689083
+    second: Tilest_Zone_Catapulteurv2_02_58
+  - first:
+      213: 1991631246436266077
+    second: Tilest_Zone_Catapulteurv2_02_59
+  - first:
+      213: -373437823147088983
+    second: Tilest_Zone_Catapulteurv2_02_60
+  - first:
+      213: -1978423666517106852
+    second: Tilest_Zone_Catapulteurv2_02_61
+  - first:
+      213: -6930120813729977284
+    second: Tilest_Zone_Catapulteurv2_02_62
+  - first:
+      213: 6625474146577757668
+    second: Tilest_Zone_Catapulteurv2_02_63
+  - first:
+      213: 1806825151581763222
+    second: Tilest_Zone_Catapulteurv2_02_64
+  - first:
+      213: 3322920288062190774
+    second: Tilest_Zone_Catapulteurv2_02_65
+  - first:
+      213: 6029233622352184781
+    second: Tilest_Zone_Catapulteurv2_02_66
+  - first:
+      213: 1208724751025901987
+    second: Tilest_Zone_Catapulteurv2_02_67
+  - first:
+      213: 318411664538382685
+    second: Tilest_Zone_Catapulteurv2_02_68
+  - first:
+      213: 2540286185829618411
+    second: Tilest_Zone_Catapulteurv2_02_69
+  - first:
+      213: -5451240287966898680
+    second: Tilest_Zone_Catapulteurv2_02_70
+  - first:
+      213: 2697369244118794836
+    second: Tilest_Zone_Catapulteurv2_02_71
+  - first:
+      213: -463624600540730239
+    second: Tilest_Zone_Catapulteurv2_02_72
+  - first:
+      213: 255934382177624972
+    second: Tilest_Zone_Catapulteurv2_02_73
+  - first:
+      213: 5867796675128363567
+    second: Tilest_Zone_Catapulteurv2_02_74
+  - first:
+      213: -8384260830909841235
+    second: Tilest_Zone_Catapulteurv2_02_75
+  - first:
+      213: 4419926983506713457
+    second: Tilest_Zone_Catapulteurv2_02_76
+  - first:
+      213: 4249934515103913081
+    second: Tilest_Zone_Catapulteurv2_02_77
+  - first:
+      213: 3390471279071837852
+    second: Tilest_Zone_Catapulteurv2_02_78
+  - first:
+      213: -5974519018948152619
+    second: Tilest_Zone_Catapulteurv2_02_79
+  - first:
+      213: -2884577926757374366
+    second: Tilest_Zone_Catapulteurv2_02_80
+  - first:
+      213: 6101074761476109874
+    second: Tilest_Zone_Catapulteurv2_02_81
+  - first:
+      213: -8834734495320921470
+    second: Tilest_Zone_Catapulteurv2_02_82
+  - first:
+      213: -7725318851268590261
+    second: Tilest_Zone_Catapulteurv2_02_83
+  - first:
+      213: -8753190370326258666
+    second: Tilest_Zone_Catapulteurv2_02_84
+  - first:
+      213: -4931225923287450497
+    second: Tilest_Zone_Catapulteurv2_02_85
+  - first:
+      213: 2846743433560703063
+    second: Tilest_Zone_Catapulteurv2_02_86
+  - first:
+      213: -3380383838962857712
+    second: Tilest_Zone_Catapulteurv2_02_87
+  - first:
+      213: -116397614926085799
+    second: Tilest_Zone_Catapulteurv2_02_88
+  - first:
+      213: -1963135642438114018
+    second: Tilest_Zone_Catapulteurv2_02_89
+  - first:
+      213: 7252546709150936379
+    second: Tilest_Zone_Catapulteurv2_02_90
+  - first:
+      213: -2512358981552479295
+    second: Tilest_Zone_Catapulteurv2_02_91
+  - first:
+      213: 847721124382004836
+    second: Tilest_Zone_Catapulteurv2_02_92
+  - first:
+      213: 4781702787522140797
+    second: Tilest_Zone_Catapulteurv2_02_93
+  - first:
+      213: 3558057795495653454
+    second: Tilest_Zone_Catapulteurv2_02_94
+  - first:
+      213: -3714423152750397459
+    second: Tilest_Zone_Catapulteurv2_02_95
+  - first:
+      213: -3913603659259776423
+    second: Tilest_Zone_Catapulteurv2_02_96
+  - first:
+      213: -4744059119700777341
+    second: Tilest_Zone_Catapulteurv2_02_97
+  - first:
+      213: 1823980786647233580
+    second: Tilest_Zone_Catapulteurv2_02_98
+  - first:
+      213: 8512651197954601416
+    second: Tilest_Zone_Catapulteurv2_02_99
+  - first:
+      213: -3195561985155492359
+    second: Tilest_Zone_Catapulteurv2_02_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9da22edcb6ebf40800000000000000
+      internalID: 5746148706578258394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d14bfa5fcaee630800000000000000
+      internalID: 3958291293720026505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f7b1de3314c8ec0800000000000000
+      internalID: -3563401513879765097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf527c728fb5fe0800000000000000
+      internalID: -1199092026035536996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_4
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e28e2e0ada133cf0800000000000000
+      internalID: -273845628496346393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_5
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff11882bdf9aaa0800000000000000
+      internalID: -6149104872968814771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_6
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922199d204fc78000800000000000000
+      internalID: 38226996405801513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_7
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f8fbfc7ad3ae6b0800000000000000
+      internalID: -5266329023302103156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_8
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a482c4ff734088fe0800000000000000
+      internalID: -1186693863259232182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0220e3abf9ad3760800000000000000
+      internalID: 7439289057737187854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_10
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810153358d29295e0800000000000000
+      internalID: -1904298234617720808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29f7b7f2493f1d40800000000000000
+      internalID: 5557223424985135403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba77aad5f7e0de0800000000000000
+      internalID: -1365013596778026195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378824308203cff0800000000000000
+      internalID: -17167223925209296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ac5ae5430599d0800000000000000
+      internalID: -2768302797129733815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906aee274bdbbfc0800000000000000
+      internalID: -3477945188437303138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468868e3e2e1eca10800000000000000
+      internalID: 1931514474154854500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd4312de447e9f30800000000000000
+      internalID: 4584229352590495186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea5b9976690c4d0800000000000000
+      internalID: -3116325570435764712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5587ecedbfd40ad40800000000000000
+      internalID: 5593556481364359253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cdc5ccacd10050800000000000000
+      internalID: 5765131632622028799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_21
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07dc8ed1c3069f60800000000000000
+      internalID: 8040618315913942796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7214baf6a7a6cc50800000000000000
+      internalID: 6685215032490594939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_23
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163ae12a428e10d0800000000000000
+      internalID: -3450177009611033059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89ef87b8bd9f450800000000000000
+      internalID: 6123166560463788202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c5c604653f04e0800000000000000
+      internalID: -2013331804684695839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb89676798e68f80800000000000000
+      internalID: -8104534742433952839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c0adbc4da8d520800000000000000
+      internalID: 2727120119483384915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fefaeee94e5134b0800000000000000
+      internalID: -5462481201389699339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dfeeb944f216c40800000000000000
+      internalID: 5503732191343869197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f624a47eebc5a320800000000000000
+      internalID: 2568683387504305909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c50563d914ea20800000000000000
+      internalID: 3090623640006673533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b8caf1359ac5a0800000000000000
+      internalID: -6500219070262496099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_33
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e7fc8f1b9e8ff0800000000000000
+      internalID: -31917587533665959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bffaf86f74cadc0800000000000000
+      internalID: -3626444475641889938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_35
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49131414f101274c0800000000000000
+      internalID: -4291349768505839212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe42fe0c26ca958d0800000000000000
+      internalID: -2857062948446198545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_37
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf759dccde486750800000000000000
+      internalID: 6298370789126537149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ae3c80c4e3a52d0800000000000000
+      internalID: -3289248081555232253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417fe6e8b60253030800000000000000
+      internalID: 3473718333909432084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab22bb8cff7aac0800000000000000
+      internalID: -3843822519339271542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472cb89142c443c60800000000000000
+      internalID: 7796940572816294516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c6b75223ae54c60800000000000000
+      internalID: 7801899430587362368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_43
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30effe3e1e4fe00800000000000000
+      internalID: 1077734579948618747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_44
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd33465bb1f7aa00800000000000000
+      internalID: 767848048398384596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f29c04cdb926cc0800000000000000
+      internalID: -3719238971972571238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_46
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d526f1b454e5f330800000000000000
+      internalID: 3744149717642520022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_47
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf7ea06e8d97860800000000000000
+      internalID: 7528286734663547939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_48
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1136
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee803059fba45b0800000000000000
+      internalID: -5383279757846057399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4eb341fd1abc40800000000000000
+      internalID: 5528764414611573454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f70764b978f6d0800000000000000
+      internalID: -2956479339639082713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55740322370c9b2d0800000000000000
+      internalID: -3262364854325852331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb0300ac7715080800000000000000
+      internalID: -9200440854270919207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5f5a2a524d90d0800000000000000
+      internalID: -3414499987451585576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425509eb5f5d7c170800000000000000
+      internalID: 8198756898092111140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d761a4265527c0b0800000000000000
+      internalID: -5708552950756841514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4436806393202a90800000000000000
+      internalID: -7340828276727335862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_57
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eec32438f268c80800000000000000
+      internalID: -8320911020721901993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_58
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2affe2f0a672a0800000000000000
+      internalID: -6740022827044689083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50f6670112b3ab10800000000000000
+      internalID: 1991631246436266077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_60
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36f95474841daf0800000000000000
+      internalID: -373437823147088983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_61
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f950e482a3b84e0800000000000000
+      internalID: -1978423666517106852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_62
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 880
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c651756d343df90800000000000000
+      internalID: -6930120813729977284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53d4f02a962fb50800000000000000
+      internalID: 6625474146577757668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b54307e1231910800000000000000
+      internalID: 1806825151581763222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b2ea75626d1e20800000000000000
+      internalID: 3322920288062190774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_66
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c42809042ca350800000000000000
+      internalID: 6029233622352184781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_67
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a11f18c1c046c010800000000000000
+      internalID: 1208724751025901987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b62dc8b93b6400800000000000000
+      internalID: 318411664538382685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_69
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d436b3d8e04320800000000000000
+      internalID: 2540286185829618411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_70
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065f6a07dd4954b0800000000000000
+      internalID: -5451240287966898680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_71
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c3c7490bfe6520800000000000000
+      internalID: 2697369244118794836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_72
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c23a7d1efd099f0800000000000000
+      internalID: -463624600540730239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_73
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a18fe6f24d8300800000000000000
+      internalID: 255934382177624972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_74
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a8e33bcf99e6150800000000000000
+      internalID: 5867796675128363567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_75
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 624
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c56d223f15ab80800000000000000
+      internalID: -8384260830909841235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd4197c2cb65d30800000000000000
+      internalID: 4419926983506713457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d073aceccafa30800000000000000
+      internalID: 4249934515103913081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ebd323aaf5d0f20800000000000000
+      internalID: 3390471279071837852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2b7cb4b9e361da0800000000000000
+      internalID: -5974519018948152619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a1b4a8abe7f7d0800000000000000
+      internalID: -2884577926757374366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23672e1bb2f5ba450800000000000000
+      internalID: 6101074761476109874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_82
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa181f8c7b46580800000000000000
+      internalID: -8834734495320921470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_83
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c18d6f672ac490800000000000000
+      internalID: -7725318851268590261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_84
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c555d0cbb668680800000000000000
+      internalID: -8753190370326258666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_85
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cf0474624c09bb0800000000000000
+      internalID: -4931225923287450497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_86
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750cf04f11aa18720800000000000000
+      internalID: 2846743433560703063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_87
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c52afec67611d0800000000000000
+      internalID: -3380383838962857712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_88
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 368
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c0a56cf8726ef0800000000000000
+      internalID: -116397614926085799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15619ac88a81c4e0800000000000000
+      internalID: -1963135642438114018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3daedb6ec836a460800000000000000
+      internalID: 7252546709150936379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c36d4c31de422dd0800000000000000
+      internalID: -2512358981552479295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46652670fd5b3cb00800000000000000
+      internalID: 847721124382004836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_93
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a90c7c9550c5240800000000000000
+      internalID: 4781702787522140797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f3dea6b2c06130800000000000000
+      internalID: 3558057795495653454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_95
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de773da82d7b37cc0800000000000000
+      internalID: -3714423152750397459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_96
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f622053610b9c0800000000000000
+      internalID: -3913603659259776423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_97
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38668c0ad57b92eb0800000000000000
+      internalID: -4744059119700777341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_98
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24fe319cd4105910800000000000000
+      internalID: 1823980786647233580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_99
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c133ee9923032670800000000000000
+      internalID: 8512651197954601416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilest_Zone_Catapulteurv2_02_100
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 112
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f590192e4517a3d0800000000000000
+      internalID: -3195561985155492359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
