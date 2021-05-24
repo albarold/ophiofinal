@@ -10,7 +10,6 @@ public class Vie_Hud : MonoBehaviour
     
 
     public float TimerInvin;
-    public int VieOphio;
     private GameObject Player;
     public int Life;
     public int NumOfHearts;
@@ -39,14 +38,9 @@ public class Vie_Hud : MonoBehaviour
         level = Parasitage.instance.Type;
         TimerInvin += Time.deltaTime;
 
-        if(level == 0 && VieOphio >= Life)
-        {            
-            VieOphio = Life;
-            parasité = 0;
-        }
-        else if (level == 0 && VieOphio <= Life)
+        
+        if (level == 0)
         {
-            //Life = VieOphio;
             parasité = 0;
         }
         else if (level != 0)

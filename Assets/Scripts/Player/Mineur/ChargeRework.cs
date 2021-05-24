@@ -30,7 +30,7 @@ public class ChargeRework : MonoBehaviour
     private float TimeDash;
     public int DegatDash;
 
-    public GameObject FxChargeC1, FxChargeC2, FxChargeC3, FxChargeH1, FxChargeH2, FxChargeH3, FxChargeB1, FxChargeB2, FxChargeB3;
+    public GameObject FxChargeC1, FxChargeC2, FxChargeC3;
     public bool charge;
     void Start()
     {
