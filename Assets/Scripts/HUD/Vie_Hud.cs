@@ -5,6 +5,9 @@ using UnityEngine.UI;
 
 public class Vie_Hud : MonoBehaviour
 {
+    [HideInInspector]public int ReviveLife;
+    [HideInInspector]public bool Revive =false;
+
     public float TimerInvin;
     public int VieOphio;
     private GameObject Player;
@@ -41,7 +44,7 @@ public class Vie_Hud : MonoBehaviour
         }
         else if (level == 0 && VieOphio <= Life)
         {
-            Life = VieOphio;
+            //Life = VieOphio;
             parasité = 0;
         }
         else if (level != 0)
@@ -111,8 +114,17 @@ public class Vie_Hud : MonoBehaviour
 
         if (Life == 0)
         {
-
-            Destroy(Player);
+            if (Revive)
+            {
+                TakeDamage(-ReviveLife);
+                Revive = false;
+                Debug.Log(Life);
+            }
+            else
+            {
+                //Destroy(Player);
+            }
+            
         }
 
     }
@@ -120,23 +132,24 @@ public class Vie_Hud : MonoBehaviour
 
     public void TakeDamage(int degats)
     {
-        if (Player.GetComponent<ChargeRework>().IsDashing == false)
+        if (InvincibiliteTps <= TimerInvin)
         {
-
-            if (InvincibiliteTps <= TimerInvin)
+            if (Player.GetComponent<ChargeRework>().IsDashing == false)
             {
+
                 if (parasité == 0)
                 {
                     Life -= degats;
                 }
-                else if(parasité > 0)
+                else if (parasité > 0)
                 {
                     parasité -= degats;
                 }
-                
+               
+
             }
+            TimerInvin = 0;
         }
-        TimerInvin = 0;
     }
 }
 
