@@ -5,29 +5,35 @@ using UnityEngine.UI;
 
 public class InterrupteurMort : MonoBehaviour
 {
+    public int level;
 
-    public bool Active;
-    public bool Rayon;
-    public Transform Mort;
+
+    public bool Parasité;
+    public bool Depara;
     public SpriteRenderer Interrupt;
-    public Sprite Ouvert;
-    public Sprite Fermer;
+    public bool Ouvert;
+    public Animation Fermer;
     // Start is called before the first frame update
     void Start()
     {
-        
+        Fermer = gameObject.GetComponent<Animation>();
+        Fermer["Anim_Interrupteur"].layer = 123;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Active == false)
+        level = Parasitage.instance.Type;
+
+        if (Depara && Parasité)
         {
-            Interrupt.sprite = Ouvert;
+            Ouvert = true;
+            
         }
-        else if (Active)
+        if (Ouvert)
         {
-            Interrupt.sprite = Fermer;
+            Debug.Log("Anim");
+            Fermer.Play();
         }
     }
 
@@ -36,55 +42,30 @@ public class InterrupteurMort : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Rayon = true;
+            if (level == 0)
+            {
+                Depara = true;
+            }
+            if (level > 0)
+            {
+                Parasité = true;
+            }
+            
         }
-        if (collision.gameObject.CompareTag("Mort1"))
-        {
-            Debug.Log("Collision");
-            Active = true;
-            Destroy(collision.gameObject);
-        }
-        if (collision.gameObject.CompareTag("Mort2"))
-        {
-            Debug.Log("Collision");
-            Active = true;
-            Destroy(collision.gameObject);
-        }
-        if (collision.gameObject.CompareTag("Mort3"))
-        {
-            Debug.Log("Collision");
-            Active = true;
-            Destroy(collision.gameObject);
-        }
+        
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Rayon = false;
+            if (level == 0)
+            {
+                Depara = false;
+            }
+            if (level > 0)
+            {
+                Parasité = false;
+            }
         }
     }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Mort1"))
-        {
-            Debug.Log("Collision");
-            Active = true;
-            Destroy(collision.gameObject);
-        }
-        if (collision.gameObject.CompareTag("Mort2"))
-        {
-            Debug.Log("Collision");
-            Active = true;
-            Destroy(collision.gameObject);
-        }
-        if (collision.gameObject.CompareTag("Mort3"))
-        {
-            Debug.Log("Collision");
-            Active = true;
-            Destroy(collision.gameObject);
-        }
-    }
-
 }

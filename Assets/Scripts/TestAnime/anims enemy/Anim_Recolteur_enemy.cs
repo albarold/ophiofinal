@@ -50,7 +50,7 @@ public class Anim_Recolteur_enemy : MonoBehaviour
     private void Start()
     {
         transformInit = transform.localScale;
-        Skeleton = Skeleton_G;
+        Skeleton = Skeleton_F;
         movement = Movement.instance;
         CurrentState = "idle";
         SetCharacterState(CurrentState);

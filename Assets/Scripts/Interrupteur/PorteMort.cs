@@ -30,7 +30,7 @@ public class PorteMort : MonoBehaviour
         {
             Porte.sprite = Fermer;
         }
-        Ouvert = Interrupteur.GetComponent<InterrupteurMort>().Active;
+        Ouvert = Interrupteur.GetComponent<InterrupteurMort>().Ouvert;
 
         if (Ouvert)
         {
