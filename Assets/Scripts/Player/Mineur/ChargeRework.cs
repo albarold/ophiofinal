@@ -32,6 +32,7 @@ public class ChargeRework : MonoBehaviour
 
     public GameObject FxChargeC1, FxChargeC2, FxChargeC3;
     public bool charge;
+    public int sens;
     void Start()
     {
         movement = Movement.instance;
@@ -43,7 +44,7 @@ public class ChargeRework : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        PlayFX();
+        //PlayFX();
         if (Input.GetButton("Depara"))
         {
             Debug.Log("Depara");
@@ -65,9 +66,9 @@ public class ChargeRework : MonoBehaviour
         if (charge==false)
         {
             Player.GetComponent<Movement>().enabled = true;
-            FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 0);
-            FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 0);
-            FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 0);
+            //FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 0);
+            //FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 0);
+            //FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
 
         TimeDash += Time.deltaTime;
@@ -105,7 +106,7 @@ public class ChargeRework : MonoBehaviour
         {
             DuringChargement = true;
             RbPlayer.velocity = Vector2.zero;
-            Dir = Direction;
+           
             Player.GetComponent<Movement>().enabled = false;
             timer += Time.deltaTime;
         }
@@ -152,38 +153,60 @@ public class ChargeRework : MonoBehaviour
             
         }
 
-        
+        Dir = Direction;
+        if (Dir != Vector2.zero)
+        {
+            if (Mathf.Abs(Dir.x) >= Mathf.Abs(Dir.y))
+            {
+                if (Dir.x >= 0)
+                {
+                    sens = 1;
 
+                }
+                else
+                {
+                    sens = 2;
+
+
+                }
+            }
+            else
+            {
+                if (Dir.y >= 0)
+                {
+                    sens = 3;
+
+
+
+                }
+                else
+                {
+                    sens = 4;
+
+
+                }
+            }
+        }
 
     }
     
     public void Charge()
     {
-        if (Mathf.Abs(Dir.x)>=Mathf.Abs(Dir.y))
+        
+        switch (sens)
         {
-            if (Dir.x >= 0)
-            {
+            case 1:
                 RbPlayer.velocity = Vector2.right * Speed;
-            }
-            else
-            {
+                break;
+            case 2:
                 RbPlayer.velocity = Vector2.left * Speed;
-
-            }
-        }
-        else
-        {
-            if (Dir.y >= 0)
-            {
+                break;
+            case 3:
                 RbPlayer.velocity = Vector2.up * Speed;
-                
-
-            }
-            else
-            {
+                break;
+            case 4:
                 RbPlayer.velocity = Vector2.down * Speed;
-              
-            }
+                break;
         }
 
     }

@@ -1,0 +1,13 @@
+
+veine_droite.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+veine_droite/veine_droite
+  rotate: false
+  xy: 2, 2
+  size: 48, 196
+  orig: 82, 282
+  offset: 34, 76
+  index: -1
