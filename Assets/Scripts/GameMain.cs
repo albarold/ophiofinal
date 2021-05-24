@@ -9,13 +9,16 @@ public class GameMain : MonoBehaviour
     public static Parasitage type_;
 
 
-
+    private void Start()
+    {
+           Time.timeScale = 1;
+    }
 
 
     // Update is called once per frame
     void Update()
     {
-        Time.timeScale = 1;
+        
         level = Parasitage.instance.Type;
         if (level == 0)
         {
