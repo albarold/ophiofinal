@@ -16,7 +16,7 @@ public class Trigger_Dialogues : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("Sprint") && GamePaused)
+        if (Input.GetButtonDown("Attaque") && GamePaused)
         {
             Phrases[PhraseIndex].SetActive(false);
             PhraseIndex++;

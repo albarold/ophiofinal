@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Récolte : MonoBehaviour
 {
+    public bool Pomping;
     public int Degats;
     public bool Zone, Attaque;
     private Vector3 movement;
@@ -34,7 +35,15 @@ public class Récolte : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         MoveCollider();
-        
+
+        if (Input.GetButton("Sprint"))
+        {
+            Pomping = true;
+        }
+        else
+        {
+            Pomping = false;
+        }
         
         if (Input.GetButton("Attaque"))
             {

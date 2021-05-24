@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Gisement_Nectar : MonoBehaviour
 {
+    private bool Pomping;
     private bool Near_Gisement;
     public int Nectar_Amount;
     public float Timer;
@@ -21,9 +22,14 @@ public class Gisement_Nectar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Near_Gisement && Input.GetKey(KeyCode.E))
+        if(Near_Gisement && Input.GetButton("Sprint"))
         {
             Extract();
+
+        }
+        else
+        {
+
         }
 
         if (Input.GetKeyUp(KeyCode.E))
@@ -53,7 +59,6 @@ public class Gisement_Nectar : MonoBehaviour
             Nectar_Amount -= 1;
             Timer = 0;
             Nectar_Manager.Nectar = Nectar_Manager.Nectar + 1;
-            gameObject.transform.localScale += scaleChange;
         }
     }
 }
