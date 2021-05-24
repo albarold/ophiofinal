@@ -44,7 +44,7 @@ public class ChargeRework : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //PlayFX();
+        PlayFX();
         if (Input.GetButton("Depara"))
         {
             Debug.Log("Depara");
@@ -66,9 +66,9 @@ public class ChargeRework : MonoBehaviour
         if (charge==false)
         {
             Player.GetComponent<Movement>().enabled = true;
-            //FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 0);
-            //FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 0);
-            //FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 0);
+            FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 0);
+            FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 0);
+            FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
 
         TimeDash += Time.deltaTime;
