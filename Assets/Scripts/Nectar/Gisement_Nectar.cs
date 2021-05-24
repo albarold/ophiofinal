@@ -41,7 +41,8 @@ public class Gisement_Nectar : MonoBehaviour
 
         if (Nectar_Amount <= 0)
         {
-            Destroy(gameObject);
+            gameObject.transform.GetChild(0).gameObject.SetActive(false);
+            gameObject.transform.GetChild(1).gameObject.SetActive(true);
         }
     }
     private void OnTriggerEnter2D(Collider2D collider)
