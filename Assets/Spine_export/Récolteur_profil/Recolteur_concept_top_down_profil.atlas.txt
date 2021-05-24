@@ -1,0 +1,125 @@
+
+Recolteur_concept_top_down_profil.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j'écris_mal
+  rotate: true
+  xy: 1704, 936
+  size: 1110, 342
+  orig: 1113, 344
+  offset: 1, 1
+  index: -1
+osef_croquis_recherche
+  rotate: false
+  xy: 2, 1278
+  size: 1700, 768
+  orig: 1702, 881
+  offset: 1, 1
+  index: -1
+récolteurprofil/antenne1
+  rotate: false
+  xy: 1251, 472
+  size: 184, 469
+  orig: 184, 469
+  offset: 0, 0
+  index: -1
+récolteurprofil/antenne2
+  rotate: true
+  xy: 2, 334
+  size: 184, 468
+  orig: 184, 468
+  offset: 0, 0
+  index: -1
+récolteurprofil/carapace
+  rotate: true
+  xy: 832, 648
+  size: 286, 417
+  orig: 351, 490
+  offset: 65, 73
+  index: -1
+récolteurprofil/corps
+  rotate: true
+  xy: 472, 40
+  size: 478, 157
+  orig: 478, 157
+  offset: 0, 0
+  index: -1
+récolteurprofil/corps2
+  rotate: false
+  xy: 832, 1063
+  size: 491, 213
+  orig: 491, 213
+  offset: 0, 0
+  index: -1
+récolteurprofil/crabe_profil_mannequin
+  rotate: false
+  xy: 2, 520
+  size: 828, 756
+  orig: 830, 758
+  offset: 1, 1
+  index: -1
+récolteurprofil/oeil
+  rotate: false
+  xy: 1569, 1096
+  size: 69, 180
+  orig: 72, 182
+  offset: 1, 1
+  index: -1
+récolteurprofil/ombre/ombre
+  rotate: true
+  xy: 832, 153
+  size: 493, 159
+  orig: 495, 161
+  offset: 1, 1
+  index: -1
+récolteurprofil/patte1
+  rotate: true
+  xy: 832, 943
+  size: 118, 259
+  orig: 118, 259
+  offset: 0, 0
+  index: -1
+récolteurprofil/patte2
+  rotate: true
+  xy: 2, 228
+  size: 104, 241
+  orig: 104, 241
+  offset: 0, 0
+  index: -1
+récolteurprofil/patte3
+  rotate: false
+  xy: 993, 396
+  size: 191, 250
+  orig: 191, 250
+  offset: 0, 0
+  index: -1
+récolteurprofil/patte4
+  rotate: true
+  xy: 1093, 943
+  size: 118, 259
+  orig: 118, 259
+  offset: 0, 0
+  index: -1
+récolteurprofil/patte5
+  rotate: false
+  xy: 245, 91
+  size: 104, 241
+  orig: 104, 241
+  offset: 0, 0
+  index: -1
+récolteurprofil/patte6
+  rotate: true
+  xy: 1325, 1063
+  size: 213, 242
+  orig: 213, 242
+  offset: 0, 0
+  index: -1
+récolteurprofil/trompe
+  rotate: false
+  xy: 1354, 967
+  size: 336, 94
+  orig: 336, 94
+  offset: 0, 0
+  index: -1
