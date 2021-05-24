@@ -81,18 +81,22 @@ public class Récolte : MonoBehaviour
 
         if (movement.x > 0)
         {
-            AttackObject.transform.rotation = Quaternion.Euler(0, 0, 180);
+            Debug.Log("Droite");
+            AttackObject.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         if (movement.x < 0)
         {
+            Debug.Log("Gauche");
             AttackObject.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         if (movement.y > 0)
         {
+            Debug.Log("Haut");
             AttackObject.transform.rotation = Quaternion.Euler(0, 0, -90);
         }
         if (movement.y < 0)
         {
+            Debug.Log("Bas");
             AttackObject.transform.rotation = Quaternion.Euler(0, 0, 90);
         }
 
