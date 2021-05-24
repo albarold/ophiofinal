@@ -351,8 +351,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -66599111
-  m_SortingLayer: 2
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: c6178da88efed9b4096cd8c8149491d4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -521,7 +521,7 @@ GameObject:
   - component: {fileID: 577333989}
   m_Layer: 0
   m_Name: Mineur
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -787,11 +787,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78903914120895e4f8d8725099246ca6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ReviveLife: 0
+  Revive: 0
   TimerInvin: 0
-  VieOphio: 8
   Life: 8
   NumOfHearts: 10
-  InvincibiliteTps: 1
+  InvincibiliteTps: 2
   level: 0
   hearts:
   - {fileID: 0}
@@ -806,6 +807,22 @@ MonoBehaviour:
   - {fileID: 0}
   FullHeart: {fileID: 21300000, guid: 43933663627bc07488a12d5d847efb74, type: 3}
   EmptyHeart: {fileID: 21300000, guid: 8d2ac770c51b44745a28a608225636ac, type: 3}
+  Hcorrupt:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  Fullcorrupt: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  Emptycorrupt: {fileID: 0}
+  "parasit\xE9": 0
+  "NumOfParasit\xE9": 10
+  Gameover: {fileID: 0}
 --- !u!114 &7364772870092347957
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -838,7 +855,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Player: {fileID: 7364772870092347967}
-  Type: 2
+  FxParasite: {fileID: 1099187840490231817}
+  Type: 0
   para: 0
   Elife: 0
   parasiting: 0
@@ -866,7 +884,7 @@ MonoBehaviour:
   recolteurMort: {fileID: 1562572934579089362, guid: 140c2ee7116d2c5468fd6c41fad0800f,
     type: 3}
   DureAttaque: 0
-  tempsAnim: 1
+  tempsAnim: 0.5
 --- !u!114 &7364772870092347963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -901,12 +919,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DuringChargement: 0
-  mineurMort: {fileID: 0}
-  Speed1: 20
-  Speed2: 30
-  Speed3: 40
+  mineurMort: {fileID: 1043416286075406172, guid: 0d6714dbbe82ada48b1760ec64e74368,
+    type: 3}
+  Speed1: 30
+  Speed2: 40
+  Speed3: 50
   CoolDown2: 0.5
-  CoolDown3: 0.6
+  CoolDown3: 1
   ChargementCharge: 0.75
   DuringDash: 0
   IsDashing: 0
@@ -914,6 +933,12 @@ MonoBehaviour:
   DashForce: 42
   DashCooldown: 0.5
   DegatDash: 1
+  FxChargeC1: {fileID: 7009783686326385132, guid: 5db87105f2aed134494170afd172a357,
+    type: 3}
+  FxChargeC2: {fileID: 2207349712234654635, guid: c92b20bf2071c1b4e88ac5b41d9988e7,
+    type: 3}
+  FxChargeC3: {fileID: 2648810481528459662, guid: 85d7c982836c8f643898b92fdb846e2b,
+    type: 3}
   charge: 0
 --- !u!50 &7364772870092347962
 Rigidbody2D:
@@ -954,7 +979,7 @@ MonoBehaviour:
   m_Color: {r: 1, g: 0.7788059, b: 0.2216981, a: 1}
   m_Intensity: 1.03
   m_LightVolumeOpacity: 0
-  m_ApplyToSortingLayers: 00000000
+  m_ApplyToSortingLayers: 00000000319f93b339c707fc0729bb1d
   m_LightCookieSprite: {fileID: 0}
   m_UseNormalMap: 0
   m_LightOrder: 0
@@ -963,7 +988,7 @@ MonoBehaviour:
   m_ShadowVolumeIntensity: 0
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
-  m_PointLightInnerRadius: 0.5128726
+  m_PointLightInnerRadius: 0.72353715
   m_PointLightOuterRadius: 8.41
   m_PointLightDistance: 3
   m_PointLightQuality: 1
@@ -1079,6 +1104,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6917310601715716841, guid: d6c8b5a4eafe0ee4e8829853438a269b,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 6917310601715716843, guid: d6c8b5a4eafe0ee4e8829853438a269b,
         type: 3}
       propertyPath: m_SortingOrder
@@ -1087,12 +1117,12 @@ PrefabInstance:
     - target: {fileID: 6917310601715716843, guid: d6c8b5a4eafe0ee4e8829853438a269b,
         type: 3}
       propertyPath: m_SortingLayerID
-      value: -66599111
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6917310601715716843, guid: d6c8b5a4eafe0ee4e8829853438a269b,
         type: 3}
       propertyPath: m_SortingLayer
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6917310602085943630, guid: d6c8b5a4eafe0ee4e8829853438a269b,
         type: 3}
@@ -1121,6 +1151,12 @@ Transform:
 --- !u!1 &1099187840726991788 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6917310601715716841, guid: d6c8b5a4eafe0ee4e8829853438a269b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5818123862234698053}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1099187840490231817 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6917310602085943628, guid: d6c8b5a4eafe0ee4e8829853438a269b,
     type: 3}
   m_PrefabInstance: {fileID: 5818123862234698053}
   m_PrefabAsset: {fileID: 0}
