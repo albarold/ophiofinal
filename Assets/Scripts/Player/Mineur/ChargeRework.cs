@@ -30,6 +30,7 @@ public class ChargeRework : MonoBehaviour
     private float TimeDash;
     public int DegatDash;
 
+    public GameObject FxChargeC1, FxChargeC2, FxChargeC3, FxChargeH1, FxChargeH2, FxChargeH3, FxChargeB1, FxChargeB2, FxChargeB3;
     public bool charge;
     void Start()
     {
@@ -42,6 +43,7 @@ public class ChargeRework : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        PlayFX();
         if (Input.GetButton("Depara"))
         {
             Debug.Log("Depara");
@@ -63,6 +65,9 @@ public class ChargeRework : MonoBehaviour
         if (charge==false)
         {
             Player.GetComponent<Movement>().enabled = true;
+            FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 0);
+            FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 0);
+            FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
 
         TimeDash += Time.deltaTime;
@@ -156,15 +161,14 @@ public class ChargeRework : MonoBehaviour
     {
         if (Mathf.Abs(Dir.x)>=Mathf.Abs(Dir.y))
         {
-            if (Dir.x>=0)
+            if (Dir.x >= 0)
             {
                 RbPlayer.velocity = Vector2.right * Speed;
-
             }
             else
             {
                 RbPlayer.velocity = Vector2.left * Speed;
-               
+
             }
         }
         else
@@ -172,12 +176,13 @@ public class ChargeRework : MonoBehaviour
             if (Dir.y >= 0)
             {
                 RbPlayer.velocity = Vector2.up * Speed;
-  
+                
+
             }
             else
             {
                 RbPlayer.velocity = Vector2.down * Speed;
-
+              
             }
         }
 
@@ -245,6 +250,77 @@ public class ChargeRework : MonoBehaviour
                 Debug.Log("test");
                 charge = false;
                 DuringDash = 0;
+            }
+        }
+    }
+
+    public void PlayFX()
+    {
+       
+        if (charge)
+        {
+            if (Speed == Speed1)
+            {
+                FxChargeC1.SetActive(true);
+                FxChargeC2.SetActive(false);
+                FxChargeC3.SetActive(false);
+            }
+
+
+            if (Speed == Speed2)
+            {
+                FxChargeC1.SetActive(false);
+                FxChargeC2.SetActive(true);
+                FxChargeC3.SetActive(false);
+
+            }
+            if (Speed == Speed3)
+            {
+                FxChargeC1.SetActive(false);
+                FxChargeC2.SetActive(false);
+                FxChargeC3.SetActive(true);
+            } 
+        }
+        else
+        {
+            FxChargeC1.SetActive(false);
+            FxChargeC2.SetActive(false);
+            FxChargeC3.SetActive(false);
+
+        }
+
+        if (Mathf.Abs(Dir.x) >= Mathf.Abs(Dir.y))
+        {
+            if (Dir.x >= 0)
+            {
+                
+                FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 180);
+                FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 180);
+                FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 180);
+            }
+            else if(Dir.x <= 0)
+            {
+               
+                FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 180);
+                FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 180);
+                FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 180);
+            }
+        }
+        else
+        {
+            if (Dir.y >= 0)
+            {
+                
+                FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, 90);
+                FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, 90);
+                FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, 90);
+            }
+            else if (Dir.y <= 0)
+            {
+               
+                FxChargeC1.transform.rotation = Quaternion.Euler(0, 0, -90);
+                FxChargeC2.transform.rotation = Quaternion.Euler(0, 0, -90);
+                FxChargeC3.transform.rotation = Quaternion.Euler(0, 0, -90);
             }
         }
     }

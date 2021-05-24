@@ -8,8 +8,8 @@ public class InterrupteurMort : MonoBehaviour
 
     public bool Active;
     public bool Rayon;
-
-    public Image Interrupt;
+    public Transform Mort;
+    public SpriteRenderer Interrupt;
     public Sprite Ouvert;
     public Sprite Fermer;
     // Start is called before the first frame update
@@ -21,41 +21,70 @@ public class InterrupteurMort : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Rayon)
-            Active = false;
-
-
         if(Active == false)
         {
             Interrupt.sprite = Ouvert;
         }
-        if (Active)
+        else if (Active)
         {
             Interrupt.sprite = Fermer;
         }
     }
 
+  
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player"))
         {
             Rayon = true;
         }
-
-        if (collision.gameObject.CompareTag("Mort1") && !Rayon)
+        if (collision.gameObject.CompareTag("Mort1"))
         {
+            Debug.Log("Collision");
             Active = true;
             Destroy(collision.gameObject);
         }
-        if (collision.gameObject.CompareTag("Mort2") && !Rayon)
+        if (collision.gameObject.CompareTag("Mort2"))
         {
+            Debug.Log("Collision");
             Active = true;
             Destroy(collision.gameObject);
         }
-        if (collision.gameObject.CompareTag("Mort3") && !Rayon)
+        if (collision.gameObject.CompareTag("Mort3"))
         {
+            Debug.Log("Collision");
             Active = true;
             Destroy(collision.gameObject);
         }
     }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            Rayon = false;
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Mort1"))
+        {
+            Debug.Log("Collision");
+            Active = true;
+            Destroy(collision.gameObject);
+        }
+        if (collision.gameObject.CompareTag("Mort2"))
+        {
+            Debug.Log("Collision");
+            Active = true;
+            Destroy(collision.gameObject);
+        }
+        if (collision.gameObject.CompareTag("Mort3"))
+        {
+            Debug.Log("Collision");
+            Active = true;
+            Destroy(collision.gameObject);
+        }
+    }
+
 }
