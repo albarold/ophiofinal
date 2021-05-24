@@ -1,0 +1,13 @@
+
+veine_tournant.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+veine_tournant/veine_tournant
+  rotate: false
+  xy: 2, 25
+  size: 234, 211
+  orig: 314, 352
+  offset: 80, 133
+  index: -1

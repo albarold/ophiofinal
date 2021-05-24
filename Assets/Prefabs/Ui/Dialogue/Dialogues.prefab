@@ -1445,7 +1445,7 @@ GameObject:
   - component: {fileID: 1430408202775353274}
   - component: {fileID: 6573095733912524509}
   m_Layer: 0
-  m_Name: Bouton A
+  m_Name: Bouton x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1460,14 +1460,14 @@ RectTransform:
   m_GameObject: {fileID: 9182455580737325956}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1.2375, z: 1}
   m_Children: []
   m_Father: {fileID: 610260920052606005}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.00018310547, y: 0.000030517578}
+  m_AnchoredPosition: {x: -140, y: 63}
   m_SizeDelta: {x: 881.07764, y: 405.437}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1430408202775353274
@@ -1497,7 +1497,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 341c5cbbea965c84ca2f1b65689f918f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 077f8ecc470ad5246add58c9761a9762, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
