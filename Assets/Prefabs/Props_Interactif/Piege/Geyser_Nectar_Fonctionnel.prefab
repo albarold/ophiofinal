@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 4606286205709504049}
   - component: {fileID: 4606286205709504050}
   - component: {fileID: 1452571124}
+  - component: {fileID: 7913903099056773084}
   m_Layer: 8
   m_Name: JET_NECTAR
   m_TagString: Untagged
@@ -196,6 +197,25 @@ CircleCollider2D:
   m_Offset: {x: 0, y: -3.13}
   serializedVersion: 2
   m_Radius: 0.87
+--- !u!95 &7913903099056773084
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4606286205709504053}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0116f7514df903a46a5feeaa5633f929, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &4606286206470452920
 GameObject:
   m_ObjectHideFlags: 0
