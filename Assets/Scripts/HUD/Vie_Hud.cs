@@ -133,9 +133,10 @@ public class Vie_Hud : MonoBehaviour
                 {
                     parasité -= degats;
                 }
-                TimerInvin = 0;
+                
             }
         }
+        TimerInvin = 0;
     }
 }
 

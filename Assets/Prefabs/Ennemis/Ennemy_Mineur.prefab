@@ -66,8 +66,8 @@ MonoBehaviour:
   chargeF: {fileID: 11400000, guid: 489a3247f04c84d43b5a6111c94c06a4, type: 2}
   idleB: {fileID: 11400000, guid: e8f60120e8e2b66498dc776b26a61e1e, type: 2}
   marcheB: {fileID: 11400000, guid: 3fe2fa9704a991e49a1930f34575ea81, type: 2}
-  setB: {fileID: 11400000, guid: ec668a6f5bc8f2a44941dcca21fe2cae, type: 2}
-  chargeB: {fileID: 11400000, guid: 5f3b6cd376bb94a4092f4bd4911f0cf4, type: 2}
+  setB: {fileID: 11400000, guid: 5f3b6cd376bb94a4092f4bd4911f0cf4, type: 2}
+  chargeB: {fileID: 11400000, guid: ec668a6f5bc8f2a44941dcca21fe2cae, type: 2}
   CurrentState: 
   CurrentAnim: 
   direction: {x: 0, y: 0}
@@ -90,7 +90,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &665183024901121559
 Transform:
   m_ObjectHideFlags: 0
@@ -149,9 +149,9 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -66599111
+  m_SortingLayer: 2
+  m_SortingOrder: 27
 --- !u!114 &1032585474469837936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -207,7 +207,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5647905103071781506
 Transform:
   m_ObjectHideFlags: 0
@@ -266,9 +266,9 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -66599111
+  m_SortingLayer: 2
+  m_SortingOrder: 27
 --- !u!114 &6900898999251457495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -383,9 +383,9 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: -66599111
+  m_SortingLayer: 2
+  m_SortingOrder: 27
 --- !u!114 &1738694960825794400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -472,6 +472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5800b19b26fda0540a3f3e1d6e51ac55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  InArea: 0
   Direction: {x: 0, y: 0}
   MoveSpeed: 10
   DetectionDistance: 10
