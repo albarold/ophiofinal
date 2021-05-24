@@ -300,7 +300,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &510098048
 Transform:
   m_ObjectHideFlags: 0
@@ -417,16 +417,16 @@ MonoBehaviour:
   Skeleton_F: {fileID: 784428048155574090}
   idle: {fileID: 11400000, guid: 2f6e29cdb91c7a2439fce3d96ff29851, type: 2}
   marche: {fileID: 11400000, guid: 51b4b3fd61df766419479b9806879f97, type: 2}
-  Atk: {fileID: 0}
-  charge: {fileID: 0}
+  Atk: {fileID: 11400000, guid: 1cf6bf40771c0cc4e9c8cab163bc94fc, type: 2}
+  Pompe: {fileID: 11400000, guid: 51d95aaa814b014499d2447038b431e9, type: 2}
   idleF: {fileID: 11400000, guid: c94ea39df1f737f47b3c3694203a4e84, type: 2}
   marcheF: {fileID: 11400000, guid: 62eceda904fe74e49b2bd7eeeff2e145, type: 2}
-  AtkF: {fileID: 0}
-  chargeF: {fileID: 0}
+  AtkF: {fileID: 11400000, guid: 334140ad8f542df45881fbee13ce221c, type: 2}
+  PompeF: {fileID: 11400000, guid: ca57afd9dde5db946bf8f623e3b6376d, type: 2}
   idleB: {fileID: 11400000, guid: c12b8e6a21d3c7f4a8f497422a8089c6, type: 2}
   marcheB: {fileID: 11400000, guid: 2819eae8d5d264f4294db8d706c0e5cc, type: 2}
-  AtkB: {fileID: 0}
-  chargeB: {fileID: 0}
+  AtkB: {fileID: 11400000, guid: 74d9d8c350fafa74bbbe99ea45c23201, type: 2}
+  PompeB: {fileID: 11400000, guid: a8a3f46ff8630ba4b925c2da8aa3f06c, type: 2}
   CurrentState: 
   CurrentAnim: 
   direction: {x: 0, y: 0}
@@ -850,8 +850,8 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -66599111
+  m_SortingLayer: 2
   m_SortingOrder: 0
 --- !u!114 &784428048155574090
 MonoBehaviour:
@@ -967,8 +967,8 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -66599111
+  m_SortingLayer: 2
   m_SortingOrder: 0
 --- !u!114 &6514736498235390878
 MonoBehaviour:
@@ -1117,8 +1117,8 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -66599111
+  m_SortingLayer: 2
   m_SortingOrder: 0
 --- !u!114 &3635613828375432790
 MonoBehaviour:
@@ -1299,6 +1299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d014c7b15aa91f4408bd843662593b0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Pomping: 0
   Degats: 1
   Zone: 0
   Attaque: 0

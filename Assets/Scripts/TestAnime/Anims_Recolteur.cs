@@ -130,7 +130,6 @@ public class Anims_Recolteur : MonoBehaviour
 
     public void SetAnim(AnimationReferenceAsset animation, bool loop, float timescale)
     {
-
         if (animation.name.Equals(CurrentAnim))
         {
             return;
@@ -160,6 +159,7 @@ public class Anims_Recolteur : MonoBehaviour
         }
         else if (state.Equals("Pompe"))
         {
+            Debug.Log("PATATTTTT");
             if (Front)
             {
                 SetAnim(PompeF, true, 2f);
