@@ -7,17 +7,15 @@ public class InterrupteurMort : MonoBehaviour
 {
     public int level;
 
-
+    public GameObject anim, ouverte;
     public bool Parasité;
     public bool Depara;
-    public SpriteRenderer Interrupt;
     public bool Ouvert;
-    public Animation Fermer;
+    
     // Start is called before the first frame update
     void Start()
     {
-        Fermer = gameObject.GetComponent<Animation>();
-        Fermer["Anim_Interrupteur"].layer = 123;
+        
     }
 
     // Update is called once per frame
@@ -32,8 +30,8 @@ public class InterrupteurMort : MonoBehaviour
         }
         if (Ouvert)
         {
-            Debug.Log("Anim");
-            Fermer.Play();
+            ouverte.gameObject.SetActive(false);
+            anim.gameObject.SetActive(true);
         }
     }
 
@@ -50,10 +48,10 @@ public class InterrupteurMort : MonoBehaviour
             {
                 Parasité = true;
             }
-            
         }
-        
+
     }
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
