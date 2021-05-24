@@ -523,6 +523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 971d636e898e49142813cd8460353c98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PrefabMort: {fileID: 0}
   Health_pos: {fileID: 6137436008059201426}
   Offset: {x: 0, y: 3.4, z: 0}
   Corrupt: 0
@@ -535,9 +536,9 @@ MonoBehaviour:
   - {fileID: 6504135621760565731}
   - {fileID: 8502915747520011816}
   - {fileID: 9155060323112962653}
-  CorruptHeart: {fileID: 21300000, guid: 0a18feb27fb80dc4e9546fdc0f1bf061, type: 3}
-  E_FullHeart: {fileID: 21300000, guid: 43933663627bc07488a12d5d847efb74, type: 3}
-  E_EmptyHeart: {fileID: 21300000, guid: 8d2ac770c51b44745a28a608225636ac, type: 3}
+  CorruptHeart: {fileID: 21300000, guid: 3d69467161fad4e4bab624d76da9e593, type: 3}
+  E_FullHeart: {fileID: 21300000, guid: d911661d08eb9ab46aedaf0719cd52d0, type: 3}
+  E_EmptyHeart: {fileID: 21300000, guid: bcec55c45626f874c87ab8cd9c898818, type: 3}
 --- !u!1 &8089405740986312155
 GameObject:
   m_ObjectHideFlags: 0

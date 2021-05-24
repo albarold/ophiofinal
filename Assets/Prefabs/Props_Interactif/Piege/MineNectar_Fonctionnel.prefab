@@ -211,6 +211,7 @@ GameObject:
   - component: {fileID: 4769567937952775822}
   - component: {fileID: 4769567937952775821}
   - component: {fileID: 4115050935875606618}
+  - component: {fileID: 1115335832}
   m_Layer: 0
   m_Name: JET_NECTAR
   m_TagString: Untagged
@@ -314,6 +315,25 @@ CapsuleCollider2D:
   m_Offset: {x: -0.070747375, y: -3.2198544}
   m_Size: {x: 0.9101715, y: 4.597225}
   m_Direction: 0
+--- !u!95 &1115335832
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4769567937952775818}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9c0c983038a5a5144ac415982cae2421, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &4944525764210229024
 GameObject:
   m_ObjectHideFlags: 0
