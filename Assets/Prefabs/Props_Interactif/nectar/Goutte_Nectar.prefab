@@ -114,7 +114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Nectar_Manager: {fileID: 0}
   Nectar_Amount: 5
-  GainVie: 0
+  GainVie: 1
   Player: {fileID: 0}
 --- !u!114 &4133974774696598720
 MonoBehaviour:

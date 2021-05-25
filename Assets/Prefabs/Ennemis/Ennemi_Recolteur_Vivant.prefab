@@ -248,7 +248,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Direction: {x: 0, y: 0}
   InDistance: 0
-  speed: 8
+  speed: 6
   Player: {fileID: 0}
   Degats: 1
   AttackCollider: {fileID: 4035949556251113247}
@@ -256,7 +256,7 @@ MonoBehaviour:
   Attaque: 0
   IsAtk: 0
   DureAttaque: 0
-  tempsAttaque: 1
+  tempsAttaque: 2
   KnockbackPower: 10
   KnockBackDuration: 0.2
   RayonAttaque: 0
@@ -274,6 +274,7 @@ GameObject:
   - component: {fileID: 5698284319737539051}
   - component: {fileID: 869511922}
   - component: {fileID: 3101588390589391320}
+  - component: {fileID: 3101588390984298909}
   m_Layer: 0
   m_Name: AttackCollider
   m_TagString: Untagged
@@ -336,6 +337,20 @@ MonoBehaviour:
   InZone: 0
   EnemyLink: {fileID: 2785944817999434301}
 --- !u!114 &3101588390589391320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4035949556251113247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba7d02640643784fbdb36e863db0a48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InZone: 0
+  EnemyLink: {fileID: 2785944817999434301}
+--- !u!114 &3101588390984298909
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -764,6 +779,26 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6450908894839220225, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+        type: 3}
+      propertyPath: E_hearts.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6450908894839220225, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+        type: 3}
+      propertyPath: E_Life
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6450908894839220225, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+        type: 3}
+      propertyPath: E_NumOfHearts
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6450908894839220225, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+        type: 3}
+      propertyPath: E_hearts.Array.data[2]
+      value: 
+      objectReference: {fileID: 1529431901048175000}
     - target: {fileID: 7869660974309024684, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
         type: 3}
       propertyPath: m_Name
@@ -777,3 +812,15 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 4749419457963740527}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1529431901048175000 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6111650641189385463, guid: 24ca9b236a3a7bc408aeae0e81e344c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 4749419457963740527}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
